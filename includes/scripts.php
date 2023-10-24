@@ -7,3 +7,9 @@
 
 <!-- custom scripts -->
 <script src="/js/scripts.js"></script>
+
+<script>
+    const d = new Date();
+    let year = d.getFullYear();
+    document.getElementById("demo").innerHTML = year;
+</script>

@@ -47,6 +47,12 @@
 
 ---------------------------------------------------------------- */
 /* ====================== [ Start Typography  ] ====================== */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@font-face {
+  font-family: 'Time';
+  src: url('/fonts/TIMESS__.ttf') format('truetype');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -60,7 +66,9 @@ body {
   line-height: 1.5;
   font-weight: 400;
   overflow-x: hidden !important;
-  font-family: 'Poppins', sans-serif; }
+  font-family: 'Montserrat', sans-serif;
+
+}
 
 img {
   width: 100%;
@@ -80,7 +88,9 @@ h3 {
   font-size: 35px; }
 
 h4 {
-  font-size: 30px; }
+  font-size: 30px; 
+  font-family: 'Time', sans-serif;
+}
 
 h5 {
   font-size: 25px; }
@@ -128,11 +138,12 @@ a, span {
   width: 100% !important; }
 
 .custom-font {
-  font-family: 'Teko', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400; }
 
 .playfont {
-  font-family: 'Playfair Display', serif; }
+  font-family: 'Time', sans-serif;
+}
 
 .main-color {
   color: #b19777 !important; }
@@ -774,7 +785,7 @@ a, span {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: #b19777;
-  font-family: 'Teko', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   z-index: 9999; }
   .loading-text.isdone {
     top: 50%;
@@ -873,9 +884,18 @@ body {
   height: 6px;
   z-index: 10000001;
   background-color: #b19777;
-  -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
-  -o-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
-  transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out; }
+  -webkit-transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out;
+  -o-transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out;
+  transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out; }
 
 .cursor-inner.cursor-hover {
   margin-left: -40px;
@@ -1080,7 +1100,7 @@ body {
 
 .sub-title {
   color: #b19777;
-  font-family: 'Teko', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 14px;
@@ -1129,7 +1149,7 @@ body {
   background: transparent;
   padding: 12px 35px;
   border: 1px solid #1e1e1e;
-  font-family: 'Teko', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   position: relative;
   overflow: hidden;
   cursor: pointer; }
@@ -1430,9 +1450,12 @@ body {
       color: #fff;
       opacity: 0;
       visibility: hidden;
-      -webkit-transition: opacity .5s, visibility .5s;
-      -o-transition: opacity .5s, visibility .5s;
-      transition: opacity .5s, visibility .5s; }
+      -webkit-transition: opacity .5s,
+ visibility .5s;
+      -o-transition: opacity .5s,
+ visibility .5s;
+      transition: opacity .5s,
+ visibility .5s; }
       .slider .parallax-slider .caption h1 span {
         font-weight: 700; }
     .slider .parallax-slider .caption p {
@@ -1666,9 +1689,12 @@ body {
       color: #fff;
       opacity: 0;
       visibility: hidden;
-      -webkit-transition: opacity .5s, visibility .5s;
-      -o-transition: opacity .5s, visibility .5s;
-      transition: opacity .5s, visibility .5s; }
+      -webkit-transition: opacity .5s,
+ visibility .5s;
+      -o-transition: opacity .5s,
+ visibility .5s;
+      transition: opacity .5s,
+ visibility .5s; }
     .cta__slider-item .caption .thin {
       color: #b19777;
       font-size: 20px;
