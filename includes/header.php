@@ -3,7 +3,7 @@
 
         <!-- Logo -->
         <a class="logo" href="#">
-            <img src="/img/logo-light.png" alt="logo">
+            <img style="width: 10rem;" src="/img/logo.png" alt="logo">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -15,23 +15,17 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="/villas">Villas</a></li>
+                <li class="nav-item"><a class="nav-link" href="/baja">B.C.S</a></li>
+                <li class="nav-item"><a class="nav-link" href="/market">Mercado</a></li>
+                <li class="nav-item"><a class="nav-link" href="/contact">Contacto</a></li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link" href="/contact">Contact</a>
                 </li>
             </ul>
             <div class="social-icon">
                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                <a href="#0"><i class="fab fa-twitter"></i></a>
-                <a href="#0"><i class="fab fa-behance"></i></a>
-            </div>
-            <div class="search">
-                <span class="icon pe-7s-search cursor-pointer"></span>
-                <div class="search-form text-center custom-font">
-                    <form>
-                        <input type="text" name="search" placeholder="Search">
-                    </form>
-                    <span class="close pe-7s-close cursor-pointer"></span>
-                </div>
+                <a href="#0"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>
