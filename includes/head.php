@@ -9,7 +9,7 @@
     <meta name="author" content="" />
 
     <!-- Title  -->
-    <title>Archo</title>
+    <title>Nalmia &#174; Development</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="/img/favicon.ico" />
