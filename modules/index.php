@@ -8,7 +8,7 @@
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
-                                        <img src="/img/logo.png" alt="">
+                                        <img src="/img/logo.png" alt="Nalmia development">
                                     </h1>
                                     <a href="/contact" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
@@ -20,13 +20,13 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="/img/slid/6.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" data-background="/img/slid/6.jpg" data-overlay-dark="0">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
                                     <h1 data-splitting class="playfont">
-                                        &#174;NALMIA</h1>
+                                        NALMIA</h1>
                                     <p>Vive la aventura </p>
                                     <a href="/contact" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
@@ -43,11 +43,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
-                                    <h1 data-splitting class="playfont"><a href="#0">
-                                            Diseños unicos <br> y elegantes
-                                        </a>
+                                <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
+                                        <img src="/img/logo.png" alt="Nalmia development">
                                     </h1>
-                                    <p>Nalmia, donde los sueños de hogar se vuelven realidad.</p>
                                     <a href="/contact" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
                                     </a>
@@ -89,8 +87,7 @@
                     <p>
                         Nalmia es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
                         Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
-                        propiedades excepcionales que fusionan el lujo con la belleza natural. En Nalmia, estamos
-                        construyendo un legado de sofisticación y elegancia que redefine la vida en esta región.
+                        propiedades excepcionales que fusionan el lujo con la belleza natural.
                     </p>
                     <ul>
                         <li>Calidad</li>
@@ -106,25 +103,22 @@
                 <div class="ab-exp">
                     <div class="row">
                         <div class="col-md-4 mb-20">
-                            <div class="pattern bg-img bg-repeat" data-background="img/line-pattern.png">
+                            <div class="pattern bg-img bg-repeat" data-background="/img/line-pattern.png">
                             </div>
                         </div>
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="img/ab1.jpg" alt="">
+                                <img src="/img/06.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/ab2.jpg" alt="">
+                                <img src="/img/05.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-5">
-                            <div class="years-exp">
-                                <div class="exp-text">
-                                    <h2 class="custom-font">21</h2>
-                                    <h6>Years Of Experience</h6>
-                                </div>
+                            <div class="img wow imago d-none d-md-block">
+                                <img src="/img/04.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -135,7 +129,28 @@
 </section>
 
 
-
+<section class="parallax-section">
+    <div class="block">
+        <img src="/img/08.jpg?=1" data-speed="-1" class="img-parallax">
+        <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un paraíso viviente.</h2>
+                        <p  style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
+                            Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
+                            Experimenta un estilo de vida único y
+                            saludable.
+                        </p>
+                        <a href="/contact" class="btn-curve btn-color mt-30 btn-explorar">
+                            <span>Explorar</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <!-- ==================== Start Services ==================== -->
