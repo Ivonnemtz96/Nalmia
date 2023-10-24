@@ -3,7 +3,7 @@
 
         <!-- Logo -->
         <a class="logo" href="#">
-            <img src="img/logo-light.png" alt="logo">
+            <img src="/img/logo-light.png" alt="logo">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -14,29 +14,7 @@
         <!-- navbar links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                        aria-haspopup="true" aria-expanded="false">Home</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="index.html">Main Home</a>
-                        <a class="dropdown-item" href="index3.html">Architecture</a>
-                        <a class="dropdown-item" href="index2.html">Interior Design</a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="portfolio-mas2.html">Portfolio</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                        aria-haspopup="true" aria-expanded="false">Blog</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="blog.html">Blogs</a>
-                        <a class="dropdown-item" href="blog-details.html">Post Details</a>
-                    </div>
-                </li>
+                <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
                 </li>

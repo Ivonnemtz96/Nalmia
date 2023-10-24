@@ -2,7 +2,7 @@
     <div class="swiper-container parallax-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/5.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" data-background="/img/slid/5.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/6.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" data-background="/img/slid/6.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/7.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" data-background="/img/slid/7.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/8.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" data-background="/img/slid/8.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -122,7 +122,7 @@
         <div class="row">
 
             <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".3s" data-background="img/01.jpg">
+                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".3s" data-background="/img/01.jpg">
                     <span class="icon flaticon-houses"></span>
                     <h6 class="mb-20">Architecture</h6>
                     <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
@@ -131,7 +131,7 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".5s" data-background="img/02.jpg">
+                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".5s" data-background="/img/02.jpg">
                     <span class="icon flaticon-living-room"></span>
                     <h6 class="mb-20">Interior Design</h6>
                     <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
@@ -140,7 +140,7 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".7s" data-background="img/03.jpg">
+                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".7s" data-background="/img/03.jpg">
                     <span class="icon flaticon-interior-design"></span>
                     <h6 class="mb-20">3D Modeling</h6>
                     <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
@@ -174,7 +174,7 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="img/portfolio/metro/01.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/01.jpg">
                                 </div>
                                 <div class="cont">
                                     <h6><a href="#0">art & illustration</a></h6>
@@ -184,7 +184,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="img/portfolio/metro/02.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/02.jpg">
                                 </div>
                                 <div class="cont">
                                     <h6><a href="#0">art & illustration</a></h6>
@@ -194,7 +194,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="img/portfolio/metro/03.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/03.jpg">
                                 </div>
                                 <div class="cont">
                                     <h6><a href="#0">art & illustration</a></h6>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="img/portfolio/metro/04.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/04.jpg">
                                 </div>
                                 <div class="cont">
                                     <h6><a href="#0">art & illustration</a></h6>
@@ -214,7 +214,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="img/portfolio/metro/05.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/05.jpg">
                                 </div>
                                 <div class="cont">
                                     <h6><a href="#0">art & illustration</a></h6>
@@ -264,7 +264,7 @@
             </div>
         </div>
     </div>
-    <div class="bg-img pat valign text-center" data-background="img/pat1.png">
+    <div class="bg-img pat valign text-center" data-background="/img/pat1.png">
         <a class="play-button color vid wow fadeInUp" data-wow-delay=".7s" href="https://youtu.be/AzwC6umvd1s">
             <svg class="circle-fill">
                 <circle cx="43" cy="43" r="39" stroke="#b19777" stroke-width=".5"></circle>
@@ -285,7 +285,7 @@
 <!-- ==================== Start before & after ==================== -->
 
 <section class="after-before section-padding">
-    <div class="background bg-img parallaxie" data-background="img/04.jpg" data-overlay-dark="7"></div>
+    <div class="background bg-img parallaxie" data-background="/img/04.jpg" data-overlay-dark="7"></div>
     <div class="container ontop">
         <div class="section-head text-center wow fadeInUp" data-wow-delay=".3s">
             <div class="row justify-content-center">
@@ -300,8 +300,8 @@
             <div class="col-lg-12">
                 <div class="dotsbg wow fadeInUp" data-wow-delay=".3s">
                     <div class="twentytwenty-container wow imago">
-                        <img src="img/before.jpg" alt="" />
-                        <img src="img/after.jpg" alt="" />
+                        <img src="/img/before.jpg" alt="" />
+                        <img src="/img/after.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -372,7 +372,7 @@
                 <div class="team-container">
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/1.jpg" alt="">
+                            <img src="/img/team/1.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -387,7 +387,7 @@
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/2.jpg" alt="">
+                            <img src="/img/team/2.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -402,7 +402,7 @@
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/3.jpg" alt="">
+                            <img src="/img/team/3.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -417,7 +417,7 @@
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/4.jpg" alt="">
+                            <img src="/img/team/4.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -432,7 +432,7 @@
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/5.jpg" alt="">
+                            <img src="/img/team/5.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -447,7 +447,7 @@
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <div class="img wow imago">
-                            <img src="img/team/6.jpg" alt="">
+                            <img src="/img/team/6.jpg" alt="">
                             <div class="social">
                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -464,7 +464,7 @@
             </div>
         </div>
     </div>
-    <div class="dots-half bg-img bg-repeat" data-background="img/dots.png"></div>
+    <div class="dots-half bg-img bg-repeat" data-background="/img/dots.png"></div>
 </section>
 
 <!-- ==================== End Team ==================== -->
@@ -485,7 +485,7 @@
             <div class="col-lg-12">
                 <div class="testim">
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -494,13 +494,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/1.jpg" alt="">
+                                <img src="/img/clients/1.jpg" alt="">
                             </div>
                             <h6>Mitchl Jhon <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -509,13 +509,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/2.jpg" alt="">
+                                <img src="/img/clients/2.jpg" alt="">
                             </div>
                             <h6>Jane Smith <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -524,13 +524,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/3.jpg" alt="">
+                                <img src="/img/clients/3.jpg" alt="">
                             </div>
                             <h6>Alison Clutcher <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -539,7 +539,7 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/4.jpg" alt="">
+                                <img src="/img/clients/4.jpg" alt="">
                             </div>
                             <h6>Peter Jefferson <span>Envato Customer</span> </h6>
                         </div>
@@ -580,7 +580,7 @@
                 <div class="item wow fadeInUp md-mb50" data-wow-delay=".3s">
                     <div class="post-img">
                         <div class="img">
-                            <img src="img/blog/1.jpg" alt="">
+                            <img src="/img/blog/1.jpg" alt="">
                         </div>
                     </div>
                     <div class="cont">
@@ -603,7 +603,7 @@
                 <div class="item wow fadeInUp md-mb50" data-wow-delay=".1s">
                     <div class="post-img">
                         <div class="img">
-                            <img src="img/blog/2.jpg" alt="">
+                            <img src="/img/blog/2.jpg" alt="">
                         </div>
                     </div>
                     <div class="cont">
