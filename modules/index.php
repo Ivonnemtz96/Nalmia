@@ -2,7 +2,7 @@
     <div class="swiper-container parallax-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/1.jpg" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="img/slid/5.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/3.jpg" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="img/slid/6.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/2.jpg" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="img/slid/7.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/4.jpg" data-overlay-dark="0">
+                <div class="bg-img valign" data-background="img/slid/8.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
