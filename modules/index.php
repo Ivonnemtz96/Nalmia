@@ -10,7 +10,7 @@
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img src="/img/logo.png" alt="Nalmia development">
                                     </h1>
-                                    <a href="/contact" class="btn-curve btn-color mt-20">
+                                    <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
                                     </a>
                                 </div>
@@ -28,7 +28,7 @@
                                     <h1 data-splitting class="playfont">
                                         NALMIA</h1>
                                     <p>Vive la aventura </p>
-                                    <a href="/contact" class="btn-curve btn-color mt-20">
+                                    <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
                                     </a>
                                 </div>
@@ -46,7 +46,7 @@
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img src="/img/logo.png" alt="Nalmia development">
                                     </h1>
-                                    <a href="/contact" class="btn-curve btn-color mt-20">
+                                    <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
                                     </a>
                                 </div>
@@ -94,7 +94,7 @@
                         <li>Servicio</li>
                         <li>Inversión</li>
                     </ul>
-                    <a href="/contact" class="btn-curve btn-color mt-30">
+                    <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contáctanos</span>
                     </a>
                 </div>
@@ -143,7 +143,7 @@
                             Experimenta un estilo de vida único y
                             saludable.
                         </p>
-                        <a href="/contact" class="btn-curve btn-color mt-30 btn-explorar">
+                        <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
                             <span>Explorar</span>
                         </a>
                     </div>
@@ -166,7 +166,7 @@
                         <br>
                         Una interpretación moderna de la estética tradicional.
                     </p>
-                    <a href="/contact" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
+                    <a href="/villas" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
                         <span>Ver Villas</span>
                     </a>
                 </div>
@@ -233,7 +233,7 @@
                         <li>Servicio</li>
                         <li>Inversión</li>
                     </ul>
-                    <a href="/contact" class="btn-curve btn-color mt-30">
+                    <a href="/investment" class="btn-curve btn-color mt-30">
                         <span>Explorar</span>
                     </a>
                 </div>
@@ -312,7 +312,7 @@
 </section>
 
 <!-- ==================== End Works ==================== -->
-<section class="contact" >
+<section class="contact" id="contacto">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
         <div class="container">
             <h6 class="sub-title">Contáctanos</h6>
