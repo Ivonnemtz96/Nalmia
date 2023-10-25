@@ -16,7 +16,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="/villas">Villas</a></li>
-                <li class="nav-item"><a class="nav-link" href="/baja">B.C.S</a></li>
+                <li class="nav-item"><a class="nav-link" href="/bcs">B.C.S</a></li>
                 <li class="nav-item"><a class="nav-link" href="/market">Mercado</a></li>
                 <li class="nav-item"><a class="nav-link" href="/contact">Contacto</a></li>
                 <li class="nav-item">
