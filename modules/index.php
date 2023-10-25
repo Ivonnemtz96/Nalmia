@@ -43,7 +43,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
-                                <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
+                                    <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img src="/img/logo.png" alt="Nalmia development">
                                     </h1>
                                     <a href="/contact" class="btn-curve btn-color mt-20">
@@ -85,7 +85,7 @@
                     <h6 class="sub-title">Nosotros</h6>
                     <h2 class="mb-20 playfont">NALMIA</h2>
                     <p>
-                        Nalmia es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
+                        NALMIA es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
                         Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
                         propiedades excepcionales que fusionan el lujo con la belleza natural.
                     </p>
@@ -136,8 +136,9 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un paraíso viviente.</h2>
-                        <p  style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un
+                            paraíso viviente.</h2>
+                        <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
                             Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
                             Experimenta un estilo de vida único y
                             saludable.
@@ -152,45 +153,89 @@
     </div>
 </section>
 
+<!-- ==================== Start about ==================== -->
 
-<!-- ==================== Start Services ==================== -->
-
-<section class="services section-padding bg-gray">
+<section class="about section-padding">
     <div class="container">
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Services</h4>
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="extra wow fadeInUp" data-wow-delay=".3s">
+                    <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">NALMIA Villas</h2>
+                    <p style="margin-bottom: 2rem;">
+                        Los diseños impresionantes complementan la belleza natural de Los Barriles y sus alrededores.
+                        <br>
+                        Una interpretación moderna de la estética tradicional.
+                    </p>
+                    <a href="/contact" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
+                        <span>Ver Villas</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4 valign  d-block d-md-none">
+                <div class="specialty wow fadeInUp" data-wow-delay=".5s">
+                    <img src="/img/09.jpg" alt="">
                 </div>
             </div>
         </div>
+        <div class="col-md-3"></div>
+    </div>
+    <div class="bg-img pat valign text-center" data-background="/img/09.jpg">
+        <!-- <img src="/img/02.jpg" alt="" srcset=""> -->
+
+    </div>
+</section>
+
+<!-- ==================== End about ==================== -->
+
+<section class="about section-padding">
+    <div class="container">
         <div class="row">
+            <div class="col-lg-6">
+                <div class="ab-exp">
+                    <div class="row">
+                        <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img mb-20 wow imago">
+                                <img src="/img/06.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-20">
+                            <div class="pattern bg-img bg-repeat" data-background="/img/line-pattern.png">
+                            </div>
+                        </div>
 
-            <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".3s" data-background="/img/01.jpg">
-                    <span class="icon flaticon-houses"></span>
-                    <h6 class="mb-20">Architecture</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+                        <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="/img/05.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="img wow imago d-none d-md-block">
+                                <img src="/img/04.jpg" alt="">
+                            </div>
+                        </div>
+
+
+                    </div>
                 </div>
             </div>
-
-            <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".5s" data-background="/img/02.jpg">
-                    <span class="icon flaticon-living-room"></span>
-                    <h6 class="mb-20">Interior Design</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".7s" data-background="/img/03.jpg">
-                    <span class="icon flaticon-interior-design"></span>
-                    <h6 class="mb-20">3D Modeling</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+            <div class="col-md-1"></div>
+            <div class="col-lg-5 valign">
+                <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
+                    <h6 class="sub-title">Una inversión altamente rentable</h6>
+                    <h2 class="mb-20 playfont">NALMIA Development</h2>
+                    <p>
+                        NALMIA es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
+                        Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
+                        propiedades excepcionales que fusionan el lujo con la belleza natural.
+                    </p>
+                    <ul>
+                        <li>Calidad</li>
+                        <li>Servicio</li>
+                        <li>Inversión</li>
+                    </ul>
+                    <a href="/contact" class="btn-curve btn-color mt-30">
+                        <span>Explorar</span>
+                    </a>
                 </div>
             </div>
 
@@ -198,7 +243,7 @@
     </div>
 </section>
 
-<!-- ==================== End Services ==================== -->
+
 
 <!-- ==================== Start Works ==================== -->
 
@@ -284,392 +329,83 @@
 </section>
 
 <!-- ==================== End Works ==================== -->
+<section class="contact">
+    <div class="info bg-gray pt-80 pb-80">
+        <div class="container">
+            <h6 class="sub-title">Contáctanos</h6>
+            <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>
+            <p>
+                ¿Estás listo para conocer más sobre las Villas NALMIA?, ¡nosotros estaríamos encantados de ayudarte!.
+                Por
+                favor, completa el formulario a continuación y un representante se pondrá en contacto contigo en breve.
+            </p>
+            <div class="row contacto-index">
 
-<!-- ==================== Start about ==================== -->
-
-<section class="about section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="extra wow fadeInUp" data-wow-delay=".3s">
-                    <h2 class="mb-20 playfont fz-50">What we <br> actually do.</h2>
-                    <p>Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum
-                        nisl. mollis turpis a ipsum ultes, nec condi mentum ipsum consequat. Mauris vitae
-                        consequat nibh, vitae interdum mi.</p>
+                <div class="col-md-6">
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-phone"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Mándanos WhatsApp</h6>
+                                <p><a href=""> +52 123 456 7890</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-mail-open"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Email Us</h6>
+                                <p>contact@Archo.com</p>
+                                <p>Username@website.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-map"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Address</h6>
+                                <p>B17 Princess Road, London, Greater London NW18JR, United Kingdom</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col-lg-4 valign">
-                <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                    <ul>
-                        <li><span>01.</span>Design Project</li>
-                        <li><span>02.</span>Interior Visualization</li>
-                        <li><span>03.</span>Landscape Design</li>
-                        <li><span>04.</span>Architect Services</li>
-                    </ul>
+
+                <div class="col-lg-6 form" style="padding: 0;">
+                    <form id="contact-form" method="post" action="" >
+                        <div class="messages"></div>
+                        <div class="controls">
+                            <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Nombre * "
+                                    required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <input id="form_email" type="email" name="email" placeholder="Correo *"
+                                    required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Teléfono *"
+                                    required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4"
+                                    required="required"></textarea>
+                            </div>
+
+                            <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
     </div>
-    <div class="bg-img pat valign text-center" data-background="/img/pat1.png">
-        <a class="play-button color vid wow fadeInUp" data-wow-delay=".7s" href="https://youtu.be/AzwC6umvd1s">
-            <svg class="circle-fill">
-                <circle cx="43" cy="43" r="39" stroke="#b19777" stroke-width=".5"></circle>
-            </svg>
-            <svg class="circle-track">
-                <circle cx="43" cy="43" r="39" stroke="none" stroke-width="1" fill="none"></circle>
-            </svg>
-
-            <span class="polygon">
-                <i class="pe-7s-play"></i>
-            </span>
-        </a>
-    </div>
-</section>
-
-<!-- ==================== End about ==================== -->
-
-<!-- ==================== Start before & after ==================== -->
-
-<section class="after-before section-padding">
-    <div class="background bg-img parallaxie" data-background="/img/04.jpg" data-overlay-dark="7"></div>
-    <div class="container ontop">
-        <div class="section-head text-center wow fadeInUp" data-wow-delay=".3s">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 col-md-10">
-                    <h6 class="custom-font">Best Works</h6>
-                    <h4 class="playfont">Drag the Slider to See
-                        the Transformation One of the Interior</h4>
-                </div>
-            </div>
-        </div>
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-12">
-                <div class="dotsbg wow fadeInUp" data-wow-delay=".3s">
-                    <div class="twentytwenty-container wow imago">
-                        <img src="/img/before.jpg" alt="" />
-                        <img src="/img/after.jpg" alt="" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== End before & after ==================== -->
-
-<!-- ==================== Start Numbers ==================== -->
-
-<div class="numbers section-padding pt-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <h3><span class="nbr custom-font">352</span></h3>
-                    <h6>Projects Completed</h6>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <h3><span class="nbr custom-font">567</span></h3>
-                    <h6>Satisfied Clients</h6>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <h3><span class="nbr custom-font">656</span><i>M</i></h3>
-                    <h6>Monthly Revenue</h6>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item">
-                    <h3><span class="nbr custom-font">17</span></h3>
-                    <h6>Awards Won</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- ==================== End Numbers ==================== -->
-
-<!-- ==================== Start Team ==================== -->
-
-<section class="team section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="tit">
-                    <h6 class="custom-font mb-10 wow fadeInDown" data-wow-delay=".3s">Some thoughts from Us</h6>
-                    <h3 class="wow flipInX" data-wow-delay=".3s">Our Employees</h3>
-                    <p class="wow fadeInUp" data-wow-delay=".3s">We feel proud for our expert team members beatae
-                        ipsum dolor sit amet, consectetur
-                        adipisicing elit mauris vitae consequat nibh, vitae interdum mi.</p>
-                    <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
-                        <span class="prev">
-                            <i class="fas fa-long-arrow-alt-left"></i>
-                        </span>
-                        <span class="next">
-                            <i class="fas fa-long-arrow-alt-right"></i>
-                        </span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-7">
-                <div class="team-container">
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/1.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Hasib sharif</h5>
-                            <span>General Manager</span>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/2.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Jonson Leo</h5>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/3.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Leio Man</h5>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/4.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Robert Front</h5>
-                            <span>CEO Founder</span>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/5.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Legender Mao</h5>
-                            <span>3D Visualization</span>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img wow imago">
-                            <img src="/img/team/6.jpg" alt="">
-                            <div class="social">
-                                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#0"><i class="fab fa-twitter"></i></a>
-                                <a href="#0"><i class="fab fa-behance"></i></a>
-                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <h5>Matt Huk</h5>
-                            <span>3D Visualization</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="dots-half bg-img bg-repeat" data-background="/img/dots.png"></div>
-</section>
-
-<!-- ==================== End Team ==================== -->
-
-<!-- ==================== Start Testimonials ==================== -->
-
-<section class="testimonials grid section-padding">
-    <div class="container">
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Testimonials</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">What People Says?</h4>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="testim">
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
-                        <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
-                                what can you do for a project before taking it, but with Archo, the sky is the
-                                limit."
-                            </p>
-                        </div>
-                        <div class="info">
-                            <div class="author">
-                                <img src="/img/clients/1.jpg" alt="">
-                            </div>
-                            <h6>Mitchl Jhon <span>Envato Customer</span> </h6>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
-                        <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
-                                what can you do for a project before taking it, but with Archo, the sky is the
-                                limit."
-                            </p>
-                        </div>
-                        <div class="info">
-                            <div class="author">
-                                <img src="/img/clients/2.jpg" alt="">
-                            </div>
-                            <h6>Jane Smith <span>Envato Customer</span> </h6>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
-                        <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
-                                what can you do for a project before taking it, but with Archo, the sky is the
-                                limit."
-                            </p>
-                        </div>
-                        <div class="info">
-                            <div class="author">
-                                <img src="/img/clients/3.jpg" alt="">
-                            </div>
-                            <h6>Alison Clutcher <span>Envato Customer</span> </h6>
-                        </div>
-                    </div>
-                    <div class="item wow fadeInUp" data-wow-delay=".3s">
-                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
-                        <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
-                                what can you do for a project before taking it, but with Archo, the sky is the
-                                limit."
-                            </p>
-                        </div>
-                        <div class="info">
-                            <div class="author">
-                                <img src="/img/clients/4.jpg" alt="">
-                            </div>
-                            <h6>Peter Jefferson <span>Envato Customer</span> </h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
-                    <span class="prev">
-                        <i class="fas fa-long-arrow-alt-left"></i>
-                    </span>
-                    <span class="next">
-                        <i class="fas fa-long-arrow-alt-right"></i>
-                    </span>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== End Testimonials ==================== -->
-
-<!-- ==================== Start Blog ==================== -->
-
-<section class="blog-grid center bg-gray section-padding">
-    <div class="container">
-
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Latest News</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Blogs</h4>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-
-            <div class="col-md-6">
-                <div class="item wow fadeInUp md-mb50" data-wow-delay=".3s">
-                    <div class="post-img">
-                        <div class="img">
-                            <img src="/img/blog/1.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="cont">
-                        <div class="info">
-                            <a href="#0">Alex Smith</a>
-                            <a href="#0">Aug 06 2019</a>
-                        </div>
-
-                        <h5 class="playfont"><a href="#0">In Good Taste: Mark Finlay Architects and Interiors</a>
-                        </h5>
-
-                        <a href="blog-details.html" class="more">
-                            <span class="custom-font">Read More</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="item wow fadeInUp md-mb50" data-wow-delay=".1s">
-                    <div class="post-img">
-                        <div class="img">
-                            <img src="/img/blog/2.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="cont">
-                        <div class="info">
-                            <a href="#0">Alex Smith</a>
-                            <a href="#0">Aug 06 2019</a>
-                        </div>
-
-                        <h5 class="playfont"><a href="#0">Five Things You Should Know About Modern Furniture.</a>
-                        </h5>
-
-                        <a href="blog-details.html" class="more">
-                            <span class="custom-font">Read More</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
 
         </div>
     </div>
 </section>
-
-<!-- ==================== End Blog ==================== -->
