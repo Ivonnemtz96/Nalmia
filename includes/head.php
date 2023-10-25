@@ -4,15 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="HTML5 Template Archo onepage themeforest" />
-    <meta name="description" content="Archo - Onepage Multi-Purpose HTML5 Template" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="Nalmia, nalmia development, real estate, quality, baja california sur nalmia, villas, building in bcs" />
+    <meta name="description" content="High-end Real Estate Developer. Building the future of Baja California Sur." />
 
     <!-- Title  -->
     <title>Nalmia &#174; Development</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="shortcut icon" href="/img/icon.jpg" />
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap"
@@ -23,6 +22,7 @@
 
     <!-- Plugins -->
     <link rel="stylesheet" href="/css/plugins.css" />
+    <link rel="stylesheet" href="/css/whats.css" />
 
     <link href="/css/twentytwenty.css" rel="stylesheet" type="text/css" />
 
