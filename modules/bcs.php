@@ -53,8 +53,8 @@
             <div class="col-lg-10 col-md-10 item-bx">
                 <h2 class="custom-font numb">Una increíble naturaleza</h2>
                 <p>Una de las playas más hermosas de México</p>
-                <a href="/contact" class="btn-curve btn-color mt-30">
-                    <span>Explorar</span>
+                <a href="#contacto" class="btn-curve btn-color mt-30">
+                    <span>Contactar</span>
                 </a>
             </div>
 
