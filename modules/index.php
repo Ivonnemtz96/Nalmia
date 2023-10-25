@@ -347,7 +347,7 @@
                             <span class="icon pe-7s-phone"></span>
                             <div class="cont">
                                 <h6 class="custom-font">Mándanos WhatsApp</h6>
-                                <p><a href=""> +52 123 456 7890</a></p>
+                                <p><a href="tel:1234567890"> +52 123 456 7890</a></p>
                             </div>
                         </div>
                     </div>
@@ -355,9 +355,8 @@
                         <div class="item">
                             <span class="icon pe-7s-mail-open"></span>
                             <div class="cont">
-                                <h6 class="custom-font">Email Us</h6>
-                                <p>contact@Archo.com</p>
-                                <p>Username@website.com</p>
+                                <h6 class="custom-font">Correo</h6>
+                                <p><a href="mailto:info@nalmia.com">info@nalmia.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -365,8 +364,8 @@
                         <div class="item">
                             <span class="icon pe-7s-map"></span>
                             <div class="cont">
-                                <h6 class="custom-font">Address</h6>
-                                <p>B17 Princess Road, London, Greater London NW18JR, United Kingdom</p>
+                                <h6 class="custom-font">Dirección</h6>
+                                <p>Los Barriles</p>
                             </div>
                         </div>
                     </div>
