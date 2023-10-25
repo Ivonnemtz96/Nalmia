@@ -1,12 +1,12 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign parallaxie" data-background="/img/pg1.jpg" data-overlay-dark="5">
+<header class="pages-header bg-img valign parallaxie" data-background="/img/20.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
                     <h1>Life Style & B.C.S</h1>
                     <div class="path">
-                        <a href="/">Inicio</a><span>/</span><a href="#0" class="active">Life Style & B.C.S</a>
+                        <a href="/">Inicio</a><span>/</span>Life Style & B.C.S
                     </div>
                 </div>
             </div>
