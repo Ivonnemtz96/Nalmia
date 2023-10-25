@@ -55,7 +55,7 @@
                         compromiso.
                     </p>
 
-                    <a href="/contact" class="btn-curve btn-color mt-30">
+                    <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contactar</span>
                     </a>
                 </div>
@@ -104,6 +104,22 @@
     </div>
 </section>
 
+<section class="call-action nogif next" style="background-color: #d8c6b0 !important;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="content text-center">
+                        <h6 style="color: white !important;" class="wow">Descubre un nuevo nivel de vida en</h6>
+                        <h2 class="wow" data-splitting><b> NALMIA </b> Villas</h2>
+                    <a href="#contacto" class="btn-curve btn-color mt-30">
+                        <span>Contactar</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <section class="about section-padding">
     <div class="container">
@@ -121,7 +137,7 @@
                         un promedio de apreciación anual mientras vives en el paraíso.
                     </p>
 
-                    <a href="/contact" class="btn-curve btn-color mt-30">
+                    <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contactar</span>
                     </a>
                 </div>
@@ -131,7 +147,7 @@
 </section>
 
 
-<section class="contact">
+<section class="contact" id="contacto">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
         <div class="container">
             <h6 class="sub-title">Contáctanos</h6>

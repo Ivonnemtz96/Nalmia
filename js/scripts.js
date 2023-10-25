@@ -88,7 +88,7 @@ $(function () {
     parallaxSlider = new Swiper('.slider .parallax-slider', parallaxSliderOptions);
 
     var swiperWorkMetro = new Swiper('.metro .swiper-container', {
-        slidesPerView: 2,
+        slidesPerView: 3,
         spaceBetween: 0,
         speed: 1000,
         loop: true,
@@ -96,8 +96,7 @@ $(function () {
 
         breakpoints: {
             320: {
-                slidesPerView: 1,
-                spaceBetween: 0
+                slidesPerView: 2,
             },
             640: {
                 slidesPerView: 1,
@@ -337,7 +336,7 @@ $(function () {
             value: myVal,
             thickness: 5,
             size: 200,
-            fill: { color: "#b19777" }
+            fill: { color: "#bbac9b" }
         });
 
     });

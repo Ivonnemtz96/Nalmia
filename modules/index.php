@@ -252,8 +252,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Works</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Portfolio</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Nuestra galería</h4>
                     </div>
                 </div>
             </div>
@@ -264,52 +263,37 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/01.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/17.jpg">
                                 </div>
-                                <div class="cont">
-                                    <h6><a href="#0">art & illustration</a></h6>
-                                    <h4><a href="#0">Innovation and Crafts.</a></h4>
-                                </div>
+                              
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/02.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/04.jpg">
                                 </div>
-                                <div class="cont">
-                                    <h6><a href="#0">art & illustration</a></h6>
-                                    <h4><a href="#0">Inspiring new space.</a></h4>
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/03.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/07.jpg">
                                 </div>
-                                <div class="cont">
-                                    <h6><a href="#0">art & illustration</a></h6>
-                                    <h4><a href="#0">Natural plus modern.</a></h4>
-                                </div>
+                               
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/04.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/05.jpg">
                                 </div>
-                                <div class="cont">
-                                    <h6><a href="#0">art & illustration</a></h6>
-                                    <h4><a href="#0">Innovation and Crafts.</a></h4>
-                                </div>
+                               
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/portfolio/metro/05.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/06.jpg">
                                 </div>
-                                <div class="cont">
-                                    <h6><a href="#0">art & illustration</a></h6>
-                                    <h4><a href="#0">Inspiring new space.</a></h4>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -328,8 +312,8 @@
 </section>
 
 <!-- ==================== End Works ==================== -->
-<section class="contact">
-    <div class="info bg-gray pt-80 pb-80">
+<section class="contact" >
+    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
         <div class="container">
             <h6 class="sub-title">Contáctanos</h6>
             <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>
