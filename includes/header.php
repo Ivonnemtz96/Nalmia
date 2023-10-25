@@ -2,7 +2,7 @@
     <div class="container">
 
         <!-- Logo -->
-        <a class="logo" href="#">
+        <a class="logo" href="/">
             <img style="width: 10rem;" src="/img/logo.png" alt="logo">
         </a>
 
@@ -17,7 +17,7 @@
                 <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="/villas">Villas</a></li>
                 <li class="nav-item"><a class="nav-link" href="/bcs">B.C.S</a></li>
-                <li class="nav-item"><a class="nav-link" href="/market">Mercado</a></li>
+                <li class="nav-item"><a class="nav-link" href="/investment">Inversionistas</a></li>
                 <li class="nav-item"><a class="nav-link" href="/contact">Contacto</a></li>
             </ul>
             <div class="social-icon">
