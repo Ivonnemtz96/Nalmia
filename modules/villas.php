@@ -1,20 +1,18 @@
 <!-- ==================== Start Header ==================== -->
-
-<header class="pages-header bg-img valign parallaxie" data-background="img/pg1.jpg" data-overlay-dark="5">
+<header class="pages-header bg-img valign parallaxie" data-background="/img/pg1.jpg" data-overlay-dark="5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
-                    <h1>Villas</h1>
+                    <h1>Life Style & B.C.S</h1>
                     <div class="path">
-                        <a href="/">Inicio</a><span>/</span><a href="#0" class="active">Presentación de propiedades</a>
+                        <a href="/">Inicio</a><span>/</span><a href="#0" class="active">Life Style & B.C.S</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </header>
-
 <!-- ==================== End Header ==================== -->
 
 
@@ -23,45 +21,18 @@
 
 <section class="about section-padding">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <div class="numbers">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="item mb-50">
-                                <h3><span class="nbr custom-font">352</span></h3>
-                                <h6>Projects Completed</h6>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="item mb-50">
-                                <h3><span class="nbr custom-font">567</span></h3>
-                                <h6>Satisfied Clients</h6>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="item">
-                                <h3><span class="nbr custom-font">656</span><i>M</i></h3>
-                                <h6>Monthly Revenue</h6>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="item">
-                                <h3><span class="nbr custom-font">17</span></h3>
-                                <h6>Awards Won</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <img src="/img/02.jpg" alt="">
             </div>
             <div class="col-lg-6">
+                <h2>East Cape</h2>
                 <div class="txt-cont">
-                    <p class="mb-20">Maecenas imperdiet ante eget hendrerit posuere. Nunc urna libero, congue porta
-                        nibh a, semper feugiat sem. Sed auctor dui eleifend, scelerisque eros ut.</p>
-                    <p>Curabitur sed iaculis dolor, non congue ligula. Maecenas imperdiet ante eget hendrerit
-                        posuere. Nunc urna libero, congue porta nibh a, semper feugiat sem. Sed auctor dui eleifend,
-                        scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit accumsan. Donec sodales, neque
-                        vitae rutrum convallis, nulla tortor pharetra odio, in varius ante ante sed nisi.</p>
+                    <p class="mb-20">
+                        Observa el atardecer desde una playa desierta. Adéntrate en un bosque de gigantes cactus cardón.
+                        Contempla el deslumbrante cielo estrellado desde una isla remota. Siente la energía de una
+                        inmensa ballena gris.
+                    </p>
                 </div>
             </div>
         </div>
@@ -75,48 +46,18 @@
 <!-- ==================== Start Services ==================== -->
 
 <section class="services halfbg">
-    <div class="background bg-img valign parallaxie" data-background="img/04.jpg" data-overlay-dark="7">
-        <a class="play-button vid" href="https://youtu.be/AzwC6umvd1s">
-            <svg class="circle-fill">
-                <circle cx="43" cy="43" r="39" stroke="#fff" stroke-width=".5"></circle>
-            </svg>
-            <svg class="circle-track">
-                <circle cx="43" cy="43" r="39" stroke="none" stroke-width="1" fill="none"></circle>
-            </svg>
-
-            <span class="polygon">
-                <i class="pe-7s-play"></i>
-            </span>
-        </a>
+    <div class="background bg-img valign parallaxie" data-background="/img/04.jpg" data-overlay-dark="1">
     </div>
     <div class="container ontop">
         <div class="row">
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h2 class="custom-font numb">01</h2>
-                <h6 class="mb-20">Architecture</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h2 class="custom-font numb">02</h2>
-                <h6 class="mb-20">Interior Design</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h2 class="custom-font numb">03</h2>
-                <h6 class="mb-20">3D Modeling</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h2 class="custom-font numb">04</h2>
-                <h6 class="mb-20">Furniture Design</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
+            <div class="col-lg-10 col-md-10 item-bx">
+                <h2 class="custom-font numb">NALMIA</h2>
+                <h6 class="mb-20">Patio al aire libre con piscina privada.</h6>
+                <p>Disfrute de la elegancia y la privacidad en nuestro patio al aire libre, completo con una piscina de
+                    lujo exclusiva para usted.</p>
+                <a href="/contact" class="btn-curve btn-color mt-30">
+                    <span>Explorar</span>
+                </a>
             </div>
 
         </div>
@@ -174,7 +115,7 @@
 
 <!-- ==================== Start Testimonials ==================== -->
 
-<section class="testimonials grid section-padding bg-img parallaxie" data-background="img/001.jpg"
+<section class="testimonials grid section-padding bg-img parallaxie" data-background="/img/001.jpg"
     data-overlay-dark="9">
     <div class="container">
         <div class="section-head text-center">
@@ -189,7 +130,7 @@
             <div class="col-lg-12">
                 <div class="testim">
                     <div class="item">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -198,13 +139,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/1.jpg" alt="">
+                                <img src="/img/clients/1.jpg" alt="">
                             </div>
                             <h6>Mitchl Jhon <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -213,13 +154,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/2.jpg" alt="">
+                                <img src="/img/clients/2.jpg" alt="">
                             </div>
                             <h6>Jane Smith <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -228,13 +169,13 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/3.jpg" alt="">
+                                <img src="/img/clients/3.jpg" alt="">
                             </div>
                             <h6>Alison Clutcher <span>Envato Customer</span> </h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="/img/clients/quote.svg" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
@@ -243,7 +184,7 @@
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="img/clients/4.jpg" alt="">
+                                <img src="/img/clients/4.jpg" alt="">
                             </div>
                             <h6>Peter Jefferson <span>Envato Customer</span> </h6>
                         </div>
@@ -281,7 +222,7 @@
         <div class="row">
             <div class="item col-lg-3 col-md-6">
                 <div class="img">
-                    <img src="img/team/1.jpg" alt="">
+                    <img src="/img/team/1.jpg" alt="">
                     <div class="social">
                         <a href="#0"><i class="fab fa-facebook-f"></i></a>
                         <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -296,7 +237,7 @@
             </div>
             <div class="item col-lg-3 col-md-6">
                 <div class="img">
-                    <img src="img/team/3.jpg" alt="">
+                    <img src="/img/team/3.jpg" alt="">
                     <div class="social">
                         <a href="#0"><i class="fab fa-facebook-f"></i></a>
                         <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -311,7 +252,7 @@
             </div>
             <div class="item col-lg-3 col-md-6">
                 <div class="img">
-                    <img src="img/team/2.jpg" alt="">
+                    <img src="/img/team/2.jpg" alt="">
                     <div class="social">
                         <a href="#0"><i class="fab fa-facebook-f"></i></a>
                         <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -326,7 +267,7 @@
             </div>
             <div class="item col-lg-3 col-md-6">
                 <div class="img">
-                    <img src="img/team/4.jpg" alt="">
+                    <img src="/img/team/4.jpg" alt="">
                     <div class="social">
                         <a href="#0"><i class="fab fa-facebook-f"></i></a>
                         <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -367,7 +308,7 @@
                 <div class="item wow fadeInUp md-mb50" data-wow-delay=".3s">
                     <div class="post-img">
                         <div class="img">
-                            <img src="img/blog/1.jpg" alt="">
+                            <img src="/img/blog/1.jpg" alt="">
                         </div>
                     </div>
                     <div class="cont">
@@ -389,7 +330,7 @@
                 <div class="item wow fadeInUp md-mb50" data-wow-delay=".1s">
                     <div class="post-img">
                         <div class="img">
-                            <img src="img/blog/2.jpg" alt="">
+                            <img src="/img/blog/2.jpg" alt="">
                         </div>
                     </div>
                     <div class="cont">
