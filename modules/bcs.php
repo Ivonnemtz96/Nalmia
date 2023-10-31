@@ -119,7 +119,7 @@
             </div>
         </div>
     </div>
-    <div class="dots-half bg-img bg-repeat" data-background="/img/dots.png"></div>
+    <div class="dots-half bg-img bg-repeat" data-background="/img/nalmia.png"></div>
 </section>
 
 

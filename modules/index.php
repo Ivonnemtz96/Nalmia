@@ -103,8 +103,7 @@
                 <div class="ab-exp">
                     <div class="row">
                         <div class="col-md-4 mb-20">
-                            <div class="pattern bg-img bg-repeat" data-background="/img/line-pattern.png">
-                            </div>
+                            
                         </div>
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
@@ -199,8 +198,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 mb-20">
-                            <div class="pattern bg-img bg-repeat" data-background="/img/line-pattern.png">
-                            </div>
+                            
                         </div>
 
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
