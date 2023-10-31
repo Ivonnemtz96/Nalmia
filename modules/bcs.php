@@ -170,7 +170,7 @@
 </section>
 
 <section class="contact">
-    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
+    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);background-size: contain;">
         <div class="container">
             <h6 class="sub-title">Contáctanos</h6>
             <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>

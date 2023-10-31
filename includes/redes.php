@@ -1,5 +1,4 @@
 <div class="wa__btn_popup">
-    <div class="wa__btn_popup_txt">Do you have any questions? <strong>Contact Us Today!</strong></div>
     <div class="wa__btn_popup_icon"><i style="margin-top: 11px; margin-left: 13px; color:#fff; font-size:35px"
             class="fab fa-whatsapp"></i></div>
 </div>

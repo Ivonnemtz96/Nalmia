@@ -151,7 +151,7 @@
 
 <!-- ==================== Start call-to-action ==================== -->
 
-<section class="call-action nogif next" style="background-color: #d8c6b0 !important;">
+<section class="call-action nogif next" style="background-color: #d8c6b0 !important;background-size: contain;">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
