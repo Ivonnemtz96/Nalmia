@@ -15,7 +15,7 @@
 
 <!-- ==================== Start cursor ==================== -->
 
-<div class="mouse-cursor cursor-outer"></div>
-<div class="mouse-cursor cursor-inner"></div>
+<div class="mouse-cursor cursor-outer d-none d-md-block"></div>
+<div class="mouse-cursor cursor-inner d-none d-md-block"></div>
 
 <!-- ==================== End cursor ==================== -->
