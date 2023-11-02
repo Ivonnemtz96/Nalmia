@@ -1,17 +1,24 @@
 <footer class="main-footer dark p-0">
     <div class="sub-footer">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-md-4">
                     <div class="text-left">
-                        <p>&#174;NALMIA <span id="demo"></span>. Todos los derechos reservados. Diseñado por <a
-                                href="https://bananagroup.mx">Banana Group Marketing</a>.</p>
+                        <h6 style="color: white;">&#174;NALMIA <span id="demo"></span></h6>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-md-4 text-center">
+                    <img style="width: 5rem;" src="/img/logo2.png" alt="">
+                </div>
+                <div class="col-md-4">
                     <div class="text-right">
-                        <p>Building the future of Baja California Sur.</p>
+                        <h6 style="color: white;">Building the future of Baja California Sur.</h6>
                     </div>
+                </div>
+
+                <div class="col-md-12 text-center" style="margin-top: 1.5rem;">
+                    <h6>Todos los derechos reservados. Diseñado por <a href="https://bananagroup.mx">Banana Group
+                        Marketing</a>.</h6>
                 </div>
             </div>
         </div>

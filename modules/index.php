@@ -298,10 +298,10 @@
 
                     <!-- slider setting -->
                     <div class="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer">
-                        <i class="ion-ios-arrow-right"></i>
+                        <i class="fas fa-chevron-right"></i>
                     </div>
                     <div class="swiper-button-prev swiper-nav-ctrl prev-ctrl cursor-pointer">
-                        <i class="ion-ios-arrow-left"></i>
+                        <i class="fas fa-chevron-left"></i>
                     </div>
                 </div>
             </div>
