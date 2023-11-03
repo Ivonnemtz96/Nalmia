@@ -3,7 +3,7 @@
         <div class="col-6 col-md-4">
             <!-- Logo -->
             <a class="logo" href="/">
-                <img style="width: 15rem;" src="/img/logo.png" alt="logo">
+                <img style="width: 15rem;" src="/img/logo.png?=1" alt="logo">
             </a>
         </div>
 

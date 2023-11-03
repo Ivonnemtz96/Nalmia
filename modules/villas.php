@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="col-md-12" style="margin-top: 2rem;">
-                <div class="row justified-content-between" >
+                <div class="row justified-content-between">
                     <div class="col-md-6 text-center">
                         <div class=" mt-30">
                             <h6>Patio al aire libre con piscina.</h6>
@@ -104,7 +104,7 @@
         </div>
 
         <div class="row" style="margin-top: 5rem;">
-            <div class="col-lg-3 col-12 col-md-3" >
+            <div class="col-lg-3 col-12 col-md-3">
                 <div class="htit">
                     <h4>Exterior</h4>
                 </div>
@@ -131,45 +131,43 @@
     <div class="popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/11.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/11.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/22.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/22.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/12.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/12.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/23.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/23.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/13.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/13.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/24.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/24.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/11.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/11.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/15.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/15.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/25.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/25.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/15.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/15.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/26.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/26.jpg?=1" />
                 </a>
             </div>
         </div>
     </div>
 </section>
-
-<!-- ==================== Start projdtal ==================== -->
 
 <section class="intro-section section-padding">
     <div class="container">
@@ -196,18 +194,18 @@
     <div class="popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/13.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/13.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/16.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/16.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/15.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/15.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/18.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/18.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/12.jpg">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/12.jpg" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/19.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/19.jpg?=1" />
                 </a>
             </div>
         </div>
