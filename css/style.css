@@ -163,7 +163,7 @@ span:hover {
 }
 
 .custom-font {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Time", sans-serif;
   font-weight: 400;
 }
 
@@ -1390,9 +1390,10 @@ body {
 }
 
 .tit .navs span {
-  padding: 15px 30px;
+  padding: 18px 25px;
   background: #f8f4f3;
   cursor: pointer;
+  border-radius: 50px;
 }
 .tit .navs span:hover {
   background: #bbac9b;
@@ -2408,7 +2409,7 @@ body {
 .services .item-bx .numb {
   font-size: 60px;
   margin-bottom: 10px;
-  color: transparent;
+  color: #bbac9b;
   -webkit-text-stroke: 1px #bbac9b;
 }
 .services .item-bx .icon {
@@ -4800,4 +4801,12 @@ body {
 .galeria{
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+ul.villas-detalles li{
+  display: inline;
+  padding-right:4em ;
+}
+.villas-detalles li{
+  list-style-type: square;
 }

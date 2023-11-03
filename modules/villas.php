@@ -37,24 +37,53 @@
                 </div>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-lg-3" style="margin-bottom: 2rem;">
                 <div class="item mt-30">
                     <h6>Patio al aire libre con piscina.</h6>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3" style="margin-bottom: 2rem;">
                 <div class="item mt-30">
                     <h6>Estacionamiento seguro y sombreado.</h6>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3" style="margin-bottom: 2rem;">
                 <div class="item mt-30">
                     <h6>Área de parrilla y fogata.</h6>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3" style="margin-bottom: 2rem;">
                 <div class="item mt-30">
                     <h6>Amplia sala de estar de espacio abierto.</h6>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-12 col-md-3" style="margin-top: 2rem;">
+                <div class="htit">
+                    <h4>Detalles</h4>
+                </div>
+            </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30" style="margin-top: 2rem;">
+                <div class="text-center">
+                    <ul class="villas-detalles">
+                        <li>* 1650sfqt de edificio</li>
+                        <li>* 3120sfqt de terreno</li>
+                        <li>* 2 cuartos</li>
+                    </ul>
+                    <ul class="villas-detalles">
+                        <li>* 2 baños privados</li>
+                        <li>* 1/2 baño</li>
+                        <li>* Patio exterior con piscina de 75sfqt. </li>
+                    </ul>
+                    <ul class="villas-detalles">
+                        <li>* Patio trasero con zona de BBQ y fogata</li>
+                        <li>* Parking bajo pérgola de 320sfqt</li>
+                    </ul>
+                    <ul class="villas-detalles">
+                        <li>* Electrodomésticos de cocina</li>
+                        <li>* 3 AC minisplit</li>
+                    </ul>
                 </div>
             </div>
         </div>

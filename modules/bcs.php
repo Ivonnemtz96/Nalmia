@@ -70,7 +70,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="tit">
-                    <h2 class="wow flipInX" data-wow-delay=".5s">Una vida silvestre excepcional.</h2>
+                    <h2 class="wow flipInX" data-wow-delay=".5s">Una vida silvestre excepcional</h2>
                     <p class="wow fadeInUp" data-wow-delay=".3s">
                         En NALMIA Villas, la belleza de la naturaleza es más que una simple vista; es una experiencia
                         única. Aquí, la vida silvestre se despliega en toda su singularidad, ofreciendo encuentros
@@ -80,10 +80,10 @@
                     </p>
                     <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
                         <span class="prev">
-                            <i class="fas fa-long-arrow-alt-left"></i>
+                            <i class="fas fa-chevron-left"></i>
                         </span>
                         <span class="next">
-                            <i class="fas fa-long-arrow-alt-right"></i>
+                            <i class="fas fa-chevron-right"></i>
                         </span>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                 <img src="/img/team/12.jpg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Una cultura que sigue creciendo.</h2>
+                <h2>Una cultura que sigue creciendo</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         En NALMIA Villas, te sumergirás en un patrimonio cultural rico en tradición y arte. Descubrirás
@@ -168,6 +168,47 @@
         </div>
     </div>
 </section>
+
+
+<section class="about section-padding">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-6">
+                <img src="/img/23.jpg" alt="">
+            </div>
+            <div class="col-lg-6">
+                <h2>Vida saludable</h2>
+                <div class="txt-cont">
+                    <p class="mb-20">
+                        Disfruta de actividades al aire libre o momentos de tranquilidad. Participa en torneos de pesca
+                        en el mar de clase mundial. Pon a prueba tus habilidades en torneos de golf. Relájate durante un
+                        día completo en un spa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="about section-padding">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-6">
+                <h2>Una comunidad activa</h2>
+                <div class="txt-cont">
+                    <p class="mb-20">
+                        Meet American expats and welcoming locals. <br>
+                        Participate in the local associations and projects.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <img src="/img/24.jpg" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <section class="contact">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);background-size: contain;">
