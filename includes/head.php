@@ -29,4 +29,7 @@
     <!-- Core Style Css -->
     <link rel="stylesheet" href="/css/style.css" />
 
+    <!-- Magnific Popup core CSS file -->
+<link rel="stylesheet" href="/css/magnific-popup.css">
+
 </head>

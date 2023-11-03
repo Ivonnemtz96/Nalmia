@@ -4796,3 +4796,8 @@ body {
   background: white;
   padding: 20px;
 }
+/* GALERIA CUSTOM */
+.galeria{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

@@ -22,7 +22,7 @@
 <section class="intro-section section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-4">
+            <div class="col-lg-3 col-12 col-md-4">
                 <div class="htit">
                     <h4>NALMIA</h4>
                 </div>
@@ -60,35 +60,50 @@
         </div>
     </div>
 </section>
-
 <!-- ==================== End Intro ==================== -->
-
-
 
 
 <!-- ==================== Start projdtal ==================== -->
 
-<section class="projdtal">
-    <div class="justified-gallery">
-        <a href="/img/portfolio/project1/1.jpg">
-            <img alt="" src="/img/portfolio/project1/10.jpg" />
-        </a>
-        <a href="/img/portfolio/project1/2.jpg">
-            <img alt="" src="/img/portfolio/project1/11.jpg" />
-        </a>
-
-        <a href="/img/portfolio/project1/6.jpg">
-            <img alt="" src="/img/portfolio/project1/12.jpg" />
-        </a>
-        <a href="/img/portfolio/project1/3.jpg">
-            <img alt="" src="/img/portfolio/project1/13.jpg" />
-        </a>
-        <a href="/img/portfolio/project1/3.jpg">
-            <img alt="" src="/img/portfolio/project1/14.jpg" />
-        </a>
-        <a href="/img/portfolio/project1/3.jpg">
-            <img alt="" src="/img/portfolio/project1/15.jpg" />
-        </a>
+<section class="">
+    <div class="popup-gallery">
+        <div class="row">
+            <div class="galeria col-12 col-md-4">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-4">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/11.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/11.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-4">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/12.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/12.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-3">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/13.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/13.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-3">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-3">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/15.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/15.jpg" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-3">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/15.jpg">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/15.jpg" />
+                </a>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -105,11 +120,9 @@
                 favor, completa el formulario a continuación y un representante se pondrá en contacto contigo en breve.
             </p>
             <div class="row contacto-index">
-
                 <div class="col-md-6">
                     <img src="/img/11.jpg" alt="">
                 </div>
-
                 <div class="col-lg-6 form" style="padding: 0;">
                     <form id="contact-form" method="post" action="">
                         <div class="messages"></div>
@@ -141,30 +154,4 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
-        <div class="row">
-
-        </div>
-    </div>
 </section>
-
-
-<!-- ==================== Start call-to-action ==================== -->
-
-<section class="call-action nogif next" style="background-color: #d8c6b0 !important;background-size: contain;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="content text-center">
-                        <h6 class="wow" data-splitting>Descubre un nuevo nivel de vida en</h6>
-                        <h2 class="wow" data-splitting><b> NALMIA </b> Villas</h2>
-                    <a href="/contact" class="btn-curve btn-color mt-30">
-                        <span>Contactar</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== End call-to-action ==================== -->
