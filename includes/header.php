@@ -20,6 +20,10 @@
                     <li class="nav-item"><a class="nav-link" href="/bcs">B.C.S</a></li>
                     <li class="nav-item"><a class="nav-link" href="/investment">Inversionistas</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contact">Contacto</a></li>
+                    <li class="d-block d-md-none">
+                        <a href="#0"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a>
+                        <a href="#0"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -27,6 +31,8 @@
             <div class="social-icon">
                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                 <a href="#0"><i class="fab fa-instagram"></i></a>
+                <a href="#0"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a>
+                <a href="#0"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
             </div>
         </div>
     </div>
