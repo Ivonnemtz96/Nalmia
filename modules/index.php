@@ -8,7 +8,7 @@
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
-                                        <img src="/img/logo.png" alt="Nalmia development">
+                                        <img src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
                                     <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
@@ -44,7 +44,7 @@
                             <div class="col-lg-7 col-md-9">
                                 <div class="caption center">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
-                                        <img src="/img/logo.png" alt="Nalmia development">
+                                        <img src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
                                     <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>
