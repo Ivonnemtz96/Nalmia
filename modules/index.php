@@ -66,7 +66,6 @@
                 <i class="fas fa-chevron-left"></i>
             </div>
         </div>
-        <div class="swiper-pagination top botm custom-font"></div>
 
         <div class="social-icon">
             <a href="#0"><i class="fab fa-facebook-f"></i></a>
