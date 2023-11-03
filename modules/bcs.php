@@ -52,7 +52,8 @@
         <div class="row">
             <div class="col-lg-10 col-md-10 item-bx">
                 <h2 class="custom-font numb">Una increíble naturaleza</h2>
-                <p>Una de las playas más hermosas de México</p>
+                <p>Entre las playas más hermosas de México. Situado entre la Sierra de la Laguna y el Mar de Cortés.
+                    Cerca del Parque Natural de Cabo Pulmo y las cascadas y aguas termales naturales de Santiago.</p>
                 <a href="#contacto" class="btn-curve btn-color mt-30">
                     <span>Contactar</span>
                 </a>
@@ -72,11 +73,10 @@
                 <div class="tit">
                     <h2 class="wow flipInX" data-wow-delay=".5s">Una vida silvestre excepcional</h2>
                     <p class="wow fadeInUp" data-wow-delay=".3s">
-                        En NALMIA Villas, la belleza de la naturaleza es más que una simple vista; es una experiencia
-                        única. Aquí, la vida silvestre se despliega en toda su singularidad, ofreciendo encuentros
-                        extraordinarios con la fauna y la flora autóctonas. Desde la majestuosidad de las ballenas
-                        grises que transmiten su energía a las tranquilas playas donde puedes contemplar atardeceres
-                        inolvidables.
+                        Donde la biodiversidad de una tierra especial se encuentra con el acuario del mundo. Haz una
+                        caminata entre una sorprendente diversidad de cactus endémicos. Observa una amplia variedad de
+                        aves locales. Nada entre delfines y peces tropicales. Observa el anidamiento de tortugas por la
+                        noche.
                     </p>
                     <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
                         <span class="prev">
@@ -135,10 +135,8 @@
                 <h2>Una cultura que sigue creciendo</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        En NALMIA Villas, te sumergirás en un patrimonio cultural rico en tradición y arte. Descubrirás
-                        la esencia de una comunidad arraigada en sus raíces, donde las costumbres ancestrales se
-                        entrelazan con expresiones artísticas únicas. Cada rincón de este lugar te cuenta la historia de
-                        generaciones que han preservado su legado con pasión y dedicación.
+                        "Descubre pueblos de pescadores. Disfruta de fiestas tradicionales locales. Enamórate de la
+                        música tradicional mexicana.
                     </p>
                 </div>
             </div>
@@ -155,9 +153,8 @@
                 <h2>Una exquisita gastronomía</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Desde las festividades tradicionales que celebran siglos de costumbres arraigadas hasta las
-                        iniciativas innovadoras que definen el futuro, NALMIA es un lugar donde el respeto por el pasado
-                        se entrelaza con la visión del mañana.
+                        Disfruta de la pesca del día. Prueba alimentos orgánicos de ranchos locales. Aprecia las frutas
+                        silvestres del campo.
                     </p>
                 </div>
             </div>
@@ -197,8 +194,8 @@
                 <h2>Una comunidad activa</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Meet American expats and welcoming locals. <br>
-                        Participate in the local associations and projects.
+                        Conoce a expatriados estadounidenses y a locales acogedores. Participa en las asociaciones
+                        locales y proyectos.
                     </p>
                 </div>
             </div>
