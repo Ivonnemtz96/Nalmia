@@ -84,9 +84,16 @@
                     <h6 class="sub-title">Nosotros</h6>
                     <h2 class="mb-20 playfont">NALMIA</h2>
                     <p>
-                        NALMIA es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
-                        Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
-                        propiedades excepcionales que fusionan el lujo con la belleza natural.
+                        Nuestro equipo internacional está enamorado de Baja California Sur. Nos apasiona la arquitectura
+                        y el diseño. Nuestro equipo combina estándares europeos, enfoque moderno y experiencia en
+                        construcción.
+                    </p>
+                    <h4 class="mt-20 playfont">Socios</h4>
+                    <p>
+                        DC Arq : Architect <br>
+                        Mexlaw : Lawyer and legal advice <br>
+                        De La Torre : Accounting services <br>
+                        Wolf Property : Property management
                     </p>
                     <ul>
                         <li>Calidad</li>
@@ -102,7 +109,7 @@
                 <div class="ab-exp">
                     <div class="row">
                         <div class="col-md-4 mb-20">
-                            
+
                         </div>
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
@@ -197,7 +204,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 mb-20">
-                            
+
                         </div>
 
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
@@ -262,35 +269,35 @@
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/17.jpg">
                                 </div>
-                              
+
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/04.jpg">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/07.jpg">
                                 </div>
-                               
+
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/05.jpg">
                                 </div>
-                               
+
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/06.jpg">
                                 </div>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -352,7 +359,7 @@
                 </div>
 
                 <div class="col-lg-6 form" style="padding: 0;">
-                    <form id="contact-form" method="post" action="" >
+                    <form id="contact-form" method="post" action="">
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
