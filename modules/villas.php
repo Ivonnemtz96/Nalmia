@@ -36,90 +36,10 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-12">
-                <div class="htit text-center">
-                    <h4>DETALLES</h4>
-                </div>
-            </div>
-            <div class="col-md-12" style="margin-top: 2rem;">
-                <div class="row justified-content-between">
-                    <div class="col-md-6 text-center">
-                        <div class=" mt-30">
-                            <h6>Patio al aire libre con piscina.</h6>
-                        </div>
-                        <div class=" mt-30">
-                            <h6>Estacionamiento seguro y sombreado.</h6>
-                        </div>
-                        <div class=" mt-30">
-                            <h6>Área de parrilla y fogata.</h6>
-                        </div>
-                        <div class=" mt-30">
-                            <h6>Amplia sala de estar de espacio abierto.</h6>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <ul>
-                                    <li>
-                                        <h6>* 1650sfqt de edificio</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* 3120sfqt de terreno</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* 2 cuartos</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* 2 baños privados</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* 1/2 baño</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* 3 AC minisplit</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* Electrodomésticos de cocina</h6>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6">
-                                <ul>
-                                    <li>
-                                        <h6>* Patio exterior con piscina de 75sfqt. </h6>
-                                    </li>
-                                    <li>
-                                        <h6>* Patio trasero con zona de BBQ y fogata</h6>
-                                    </li>
-                                    <li>
-                                        <h6>* Parking bajo pérgola de 320sfqt</h6>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
 
-        <div class="row" style="margin-top: 5rem;">
-            <div class="col-lg-3 col-12 col-md-3">
-                <div class="htit">
-                    <h4>Exterior</h4>
-                </div>
-            </div>
-            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
-                <p>
-                    Patio al aire libre con piscina privada. Estacionamiento seguro y sombreado. Zona de barbacoa y
-                    fogata. Invita a tus invitados a una barbacoa o una bebida alrededor del fuego. Relájate
-                    mientras
-                    disfrutas del sol en tu piscina privada. Estaciona tu coche y aprecia la seguridad en una
-                    propiedad
-                    completamente cerrada.
-                </p>
-            </div>
-        </div>
+
     </div>
 </section>
 <!-- ==================== End Intro ==================== -->
@@ -169,26 +89,26 @@
     </div>
 </section>
 
-<section class="intro-section section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-12 col-md-3" style="margin-top: 2rem;">
-                <div class="htit">
-                    <h4>Interior</h4>
-                </div>
+
+<section class="exterior">
+    <div class="row" style="margin-top: 5rem;">
+        <div class="col-lg-3 col-12 col-md-3">
+            <div class="htit">
+                <h4>Exterior</h4>
             </div>
-            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30" style="margin-top: 2rem;">
-                <p>
-                    Sala de estar de espacio abierto. Cocina completamente equipada. Habitaciones espaciosas. Un hermoso
-                    diseño de interiores inspirado en la influencia 'Japandi', donde el minimalismo se encuentra con la
-                    armonía. Dos habitaciones con baño privado y balcón con vista al mar.
-                </p>
-            </div>
+        </div>
+        <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+            <p>
+                Patio al aire libre con piscina privada. Estacionamiento seguro y sombreado. Zona de barbacoa y
+                fogata. Invita a tus invitados a una barbacoa o una bebida alrededor del fuego. Relájate
+                mientras
+                disfrutas del sol en tu piscina privada. Estaciona tu coche y aprecia la seguridad en una
+                propiedad
+                completamente cerrada.
+            </p>
         </div>
     </div>
 </section>
-
-<!-- ==================== Start projdtal ==================== -->
 
 <section class="">
     <div class="popup-gallery">
@@ -212,6 +132,97 @@
     </div>
 </section>
 
+
+
+<section class="intro-section section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-12 col-md-3" style="margin-top: 2rem;">
+                <div class="htit">
+                    <h4>Interior</h4>
+                </div>
+            </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30" style="margin-top: 2rem;">
+                <p>
+                    Sala de estar de espacio abierto. Cocina completamente equipada. Habitaciones espaciosas. Un hermoso
+                    diseño de interiores inspirado en la influencia 'Japandi', donde el minimalismo se encuentra con la
+                    armonía. Dos habitaciones con baño privado y balcón con vista al mar.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ==================== Start projdtal ==================== -->
+
+
+<section class="detalles">
+    <div class="col-md-12">
+        <div class="htit text-center">
+            <h4>DETALLES</h4>
+        </div>
+    </div>
+    <div class="col-md-12" style="margin-top: 2rem;">
+        <div class="row justified-content-between">
+            <div class="col-md-6 text-center">
+                <div class=" mt-30">
+                    <h6>Patio al aire libre con piscina.</h6>
+                </div>
+                <div class=" mt-30">
+                    <h6>Estacionamiento seguro y sombreado.</h6>
+                </div>
+                <div class=" mt-30">
+                    <h6>Área de parrilla y fogata.</h6>
+                </div>
+                <div class=" mt-30">
+                    <h6>Amplia sala de estar de espacio abierto.</h6>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul>
+                            <li>
+                                <h6>* 1650sfqt de edificio</h6>
+                            </li>
+                            <li>
+                                <h6>* 3120sfqt de terreno</h6>
+                            </li>
+                            <li>
+                                <h6>* 2 cuartos</h6>
+                            </li>
+                            <li>
+                                <h6>* 2 baños privados</h6>
+                            </li>
+                            <li>
+                                <h6>* 1/2 baño</h6>
+                            </li>
+                            <li>
+                                <h6>* 3 AC minisplit</h6>
+                            </li>
+                            <li>
+                                <h6>* Electrodomésticos de cocina</h6>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>
+                                <h6>* Patio exterior con piscina de 75sfqt. </h6>
+                            </li>
+                            <li>
+                                <h6>* Patio trasero con zona de BBQ y fogata</h6>
+                            </li>
+                            <li>
+                                <h6>* Parking bajo pérgola de 320sfqt</h6>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="contact">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
         <div class="container">
