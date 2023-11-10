@@ -17,7 +17,7 @@
                 </div>
 
                 <div class="col-md-12 text-center" style="margin-top: 1.5rem;">
-                    <h6>Todos los derechos reservados. Diseñado por <a href="https://bananagroup.mx">Banana Group
+                    <h6>Todos los derechos reservados. Diseñado por <a target="_blank" href="https://bananagroup.mx">Banana Group
                         Marketing</a>.</h6>
                 </div>
             </div>
