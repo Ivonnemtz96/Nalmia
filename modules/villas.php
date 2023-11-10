@@ -1,5 +1,5 @@
 <header class="pages-header bg-img valign parallaxie" data-background="/img/portfolio/project1/27.jpg?=1"
-    data-overlay-dark="1" >
+    data-overlay-dark="1">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -48,7 +48,7 @@
 <!-- ==================== Start projdtal ==================== -->
 
 <section class="">
-    <div class="popup-gallery">
+    <div class="container-fluid popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
                 <a title="Nalmia Villas" href="/img/portfolio/project1/22.jpg?=1">
@@ -104,7 +104,7 @@
 <!-- ==================== End Intro ==================== -->
 
 <section class="color-claro">
-    <div class="popup-gallery">
+    <div class=" container-fluid popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
                 <a title="Nalmia Villas" href="/img/portfolio/project1/30-g.jpg?=1">
@@ -158,54 +158,54 @@
             <h4>DETALLES</h4>
         </div>
     </div>
-   <div class="container">
-   <div class="col-md-12" style="margin-top: 2rem;">
-        <div class="row justified-content-between">
-            <div class="col-md-12">
-                <div class="row">
-                    <div class="col-md-6">
-                        <ul>
-                            <li>
-                                <h6>* 1650sfqt de edificio</h6>
-                            </li>
-                            <li>
-                                <h6>* 3120sfqt de terreno</h6>
-                            </li>
-                            <li>
-                                <h6>* 2 cuartos</h6>
-                            </li>
-                            <li>
-                                <h6>* 2 baños privados</h6>
-                            </li>
-                            <li>
-                                <h6>* 1/2 baño</h6>
-                            </li>
-                            <li>
-                                <h6>* 3 AC minisplit</h6>
-                            </li>
-                            <li>
-                                <h6>* Electrodomésticos de cocina</h6>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6">
-                        <ul>
-                            <li>
-                                <h6>* Patio exterior con piscina de 75sfqt. </h6>
-                            </li>
-                            <li>
-                                <h6>* Patio trasero con zona de BBQ y fogata</h6>
-                            </li>
-                            <li>
-                                <h6>* Parking bajo pérgola de 320sfqt</h6>
-                            </li>
-                        </ul>
+    <div class="container">
+        <div class="col-md-12" style="margin-top: 2rem;">
+            <div class="row justified-content-between">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul>
+                                <li>
+                                    <h6>* 1650sfqt de edificio</h6>
+                                </li>
+                                <li>
+                                    <h6>* 3120sfqt de terreno</h6>
+                                </li>
+                                <li>
+                                    <h6>* 2 cuartos</h6>
+                                </li>
+                                <li>
+                                    <h6>* 2 baños privados</h6>
+                                </li>
+                                <li>
+                                    <h6>* 1/2 baño</h6>
+                                </li>
+                                <li>
+                                    <h6>* 3 AC minisplit</h6>
+                                </li>
+                                <li>
+                                    <h6>* Electrodomésticos de cocina</h6>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul>
+                                <li>
+                                    <h6>* Patio exterior con piscina de 75sfqt. </h6>
+                                </li>
+                                <li>
+                                    <h6>* Patio trasero con zona de BBQ y fogata</h6>
+                                </li>
+                                <li>
+                                    <h6>* Parking bajo pérgola de 320sfqt</h6>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-   </div>
 </section>
 <section class="contact">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
