@@ -52,13 +52,6 @@
                         y el diseño. Nuestro equipo combina estándares europeos, enfoque moderno y experiencia en
                         construcción.
                     </p>
-                    <h4 class="mt-20 playfont">Socios</h4>
-                    <p>
-                        DC Arq : Architect <br>
-                        Mexlaw : Lawyer and legal advice <br>
-                        De La Torre : Accounting services <br>
-                        Wolf Property : Property management
-                    </p>
                     <ul>
                         <li>Calidad</li>
                         <li>Servicio</li>
@@ -98,37 +91,14 @@
 </section>
 
 
-<section class="parallax-section">
-    <div class="block">
-        <img src="/img/08.jpg?=1" data-speed="-1" class="img-parallax">
-        <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-md-12">
-                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un
-                            paraíso viviente.</h2>
-                        <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
-                            Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
-                            Experimenta un estilo de vida único y
-                            saludable.
-                        </p>
-                        <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
-                            <span>Explorar</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- ==================== Start about ==================== -->
 
-<section class="about section-padding">
+<section class="about section-padding beige">
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
+                <h6 class="sub-title">Diseños Innovadores</h6>
                     <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">NALMIA Villas</h2>
                     <p style="margin-bottom: 2rem;">
                         Los diseños impresionantes complementan la belleza natural de Los Barriles y sus alrededores.
@@ -153,6 +123,32 @@
 
     </div>
 </section>
+
+
+<section class="parallax-section">
+    <div class="block">
+        <img src="/img/08.jpg?=1" data-speed="-1" class="img-parallax">
+        <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un
+                            paraíso viviente.</h2>
+                        <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
+                            Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
+                            Experimenta un estilo de vida único y
+                            saludable.
+                        </p>
+                        <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
+                            <span>Explorar</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <!-- ==================== End about ==================== -->
 
@@ -220,7 +216,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Nuestra galería</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Nuestra galería</h4>
                     </div>
                 </div>
             </div>

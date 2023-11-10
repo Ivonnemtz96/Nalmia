@@ -2889,7 +2889,7 @@ body {
 }
 
 .work-carousel.dark {
-  background: #bbac9b !important;
+  background: #faf7f5 !important;
   color: #fff;
 }
 
@@ -4809,4 +4809,13 @@ ul.villas-detalles li{
 }
 .villas-detalles li{
   list-style-type: square;
+}
+/* ***************  CUSTOM  ********************* */
+
+.beige{
+  background-color: #f4ebe3;
+}
+
+.oscuro{
+  background-color: #f4ebe3;
 }
