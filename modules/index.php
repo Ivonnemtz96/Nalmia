@@ -1,44 +1,8 @@
 <header class="slider text-center">
-    <div class="swiper-container parallax-slider">
+    <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="/img/slid/5.jpg" data-overlay-dark="1">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-7 col-md-9">
-                                <div class="caption center">
-                                    <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
-                                        <img src="/img/logo.png?=2" alt="Nalmia development">
-                                    </h1>
-                                    <a href="#contacto" class="btn-curve btn-color mt-20">
-                                        <span>Contactar</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="bg-img valign" data-background="/img/slid/6.jpg" data-overlay-dark="0">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-7 col-md-9">
-                                <div class="caption center">
-                                    <h1 data-splitting class="playfont">
-                                        NALMIA</h1>
-                                    <p>Vive la aventura </p>
-                                    <a href="#contacto" class="btn-curve btn-color mt-20">
-                                        <span>Contactar</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="bg-img valign" data-background="/img/slid/7.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" style="height: 55rem;" data-background="/img/slid/5.jpg" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -58,7 +22,7 @@
         </div>
 
         <!-- slider setting -->
-        <div class="setone setwo">
+        <div hidden class="setone setwo">
             <div class="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer">
                 <i class="fas fa-chevron-right"></i>
             </div>
