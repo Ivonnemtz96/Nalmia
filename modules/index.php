@@ -98,7 +98,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
-                <h6 class="sub-title">Diseños Innovadores</h6>
+                    <h6 class="sub-title">Diseños Innovadores</h6>
                     <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">NALMIA Villas</h2>
                     <p style="margin-bottom: 2rem;">
                         Los diseños impresionantes complementan la belleza natural de Los Barriles y sus alrededores.
@@ -177,8 +177,6 @@
                                 <img src="/img/04.jpg" alt="">
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>
@@ -323,23 +321,19 @@
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Nombre * "
-                                    required="required">
+                                <input id="form_name" type="text" name="name" placeholder="Nombre * " required="required">
                             </div>
 
                             <div class="form-group">
-                                <input id="form_email" type="email" name="email" placeholder="Correo *"
-                                    required="required">
+                                <input id="form_email" type="email" name="email" placeholder="Correo *" required="required">
                             </div>
 
                             <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Teléfono *"
-                                    required="required">
+                                <input id="form_name" type="text" name="name" placeholder="Teléfono *" required="required">
                             </div>
 
                             <div class="form-group">
-                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4"
-                                    required="required"></textarea>
+                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4" required="required"></textarea>
                             </div>
 
                             <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>

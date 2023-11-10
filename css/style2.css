@@ -2842,7 +2842,8 @@ body {
   height: 60px;
   border-radius: 80px;
   border: 0;
-  background: #fff;
+  /* background: #fff; */
+  border: #828282 solid 1.5px;
   opacity: 0;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
