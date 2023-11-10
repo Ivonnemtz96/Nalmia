@@ -1,10 +1,10 @@
-<header class="pages-header bg-img valign parallaxie" data-background="/img/portfolio/project1/4.jpg?=1"
-    data-overlay-dark="1">
+<header class="pages-header bg-img valign parallaxie" data-background="/img/portfolio/project1/27.jpg?=1"
+    data-overlay-dark="1" >
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
-                    <h1>NALMIA Development</h1>
+                    <h1>NALMIA Villas</h1>
                     <div class="path">
                         <a href="/">Inicio</a><span>/</span><a href="#">Presentación de propiedades</a>
                     </div>
@@ -51,38 +51,21 @@
     <div class="popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/14.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/14.jpg?=1" />
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-4">
                 <a title="Nalmia Villas" href="/img/portfolio/project1/22.jpg?=1">
                     <img alt="Nalmia Villas" src="/img/portfolio/project1/22.jpg?=1" />
+                    <span>Outdoor Patio with private pool.</span>
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/23.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/23.jpg?=1" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/28-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/28.jpg?=1" />
+                    <span>Secured and shaded parking.</span>
                 </a>
             </div>
-            <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/24.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/24.jpg?=1" />
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/11.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/11.jpg?=1" />
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/25.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/25.jpg?=1" />
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-3">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/26.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/26.jpg?=1" />
+            <div class="galeria col-12 col-md-4">
+                <a title="Nalmia Villas" href="/img/portfolio/project1/29-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/29.jpg?=1" />
+                    <span>BBQ area and Fire pit.</span>
                 </a>
             </div>
         </div>
@@ -90,42 +73,55 @@
 </section>
 
 
-<section class="exterior">
-    <div class="row" style="margin-top: 5rem;">
-        <div class="col-lg-3 col-12 col-md-3">
-            <div class="htit">
-                <h4>Exterior</h4>
+<!-- ==================== Start Intro ==================== -->
+
+<section class="intro-section section-padding color-claro">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-12 col-md-4">
+                <div class="htit">
+                    <h4>Exterior</h4>
+                </div>
             </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                <div class="text">
+                    <p>
+                        Patio al aire libre con piscina privada. Estacionamiento seguro y sombreado. Zona de barbacoa y
+                        fogata. Invita a tus invitados a una barbacoa o una bebida alrededor del fuego. Relájate
+                        mientras
+                        disfrutas del sol en tu piscina privada. Estaciona tu coche y aprecia la seguridad en una
+                        propiedad
+                        completamente cerrada.
+                    </p>
+                </div>
+            </div>
+
         </div>
-        <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
-            <p>
-                Patio al aire libre con piscina privada. Estacionamiento seguro y sombreado. Zona de barbacoa y
-                fogata. Invita a tus invitados a una barbacoa o una bebida alrededor del fuego. Relájate
-                mientras
-                disfrutas del sol en tu piscina privada. Estaciona tu coche y aprecia la seguridad en una
-                propiedad
-                completamente cerrada.
-            </p>
-        </div>
+
+
     </div>
 </section>
+<!-- ==================== End Intro ==================== -->
 
-<section class="">
+<section class="color-claro">
     <div class="popup-gallery">
         <div class="row">
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/16.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/16.jpg?=1" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/30-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/30.jpg?=1" />
+                    <span>Open space living room.</span>
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/18.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/18.jpg?=1" />
+                <a title="Nalmia Villas" href="/img/portfolio/project1/31-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/31.jpg?=1" />
+                    <span>Fully equipped kitchen.</span>
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
                 <a title="Nalmia Villas" href="/img/portfolio/project1/19.jpg?=1">
                     <img alt="Nalmia Villas" src="/img/portfolio/project1/19.jpg?=1" />
+                    <span>Oversized bedrooms.</span>
                 </a>
             </div>
         </div>
@@ -156,29 +152,16 @@
 <!-- ==================== Start projdtal ==================== -->
 
 
-<section class="detalles">
+<section class="detalles color-claro">
     <div class="col-md-12">
         <div class="htit text-center">
             <h4>DETALLES</h4>
         </div>
     </div>
-    <div class="col-md-12" style="margin-top: 2rem;">
+   <div class="container">
+   <div class="col-md-12" style="margin-top: 2rem;">
         <div class="row justified-content-between">
-            <div class="col-md-6 text-center">
-                <div class=" mt-30">
-                    <h6>Patio al aire libre con piscina.</h6>
-                </div>
-                <div class=" mt-30">
-                    <h6>Estacionamiento seguro y sombreado.</h6>
-                </div>
-                <div class=" mt-30">
-                    <h6>Área de parrilla y fogata.</h6>
-                </div>
-                <div class=" mt-30">
-                    <h6>Amplia sala de estar de espacio abierto.</h6>
-                </div>
-            </div>
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-6">
                         <ul>
@@ -222,6 +205,7 @@
             </div>
         </div>
     </div>
+   </div>
 </section>
 <section class="contact">
     <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">

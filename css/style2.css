@@ -4816,6 +4816,9 @@ ul.villas-detalles li{
   background-color: #f4ebe3;
 }
 
-.oscuro{
+.color-oscuro{
   background-color: #f4ebe3;
+}
+.color-claro{
+  background-color: #faf7f5;
 }
