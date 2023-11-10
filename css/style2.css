@@ -4192,7 +4192,7 @@ body {
 }
 .main-footer .sub-footer {
   padding: 30px 0;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   border-top: 1px solid rgba(255, 255, 255, 0.02);
 }
 .main-footer .sub-footer p {
