@@ -6,9 +6,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
-                                <div class="caption center">
+                                <div class="caption center  animate__animated animate__fadeInUp">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
-                                        <img src="/img/logo.png?=2" alt="Nalmia development">
+                                        <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
                                     <a href="#contacto" class="btn-curve btn-color mt-20">
                                         <span>Contactar</span>

@@ -162,3 +162,8 @@ $(document).ready(function() {
     });
 });
 </script>
+
+<script>
+    const element = document.querySelector('.animate__fadeInUp');
+    element.style.setProperty('--animate-duration', '7s');
+</script>
