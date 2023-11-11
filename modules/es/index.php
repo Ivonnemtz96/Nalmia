@@ -279,3 +279,79 @@
     </div>
 </section>
 
+<!-- ==================== End Works ==================== -->
+<section class="contact" id="contacto">
+    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);background-size: contain;">
+        <div class="container">
+            <h6 class="sub-title">Contáctanos</h6>
+            <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>
+            <p>
+                ¿Estás listo para conocer más sobre las Villas NALMIA?, ¡nosotros estaríamos encantados de ayudarte!.
+                Por
+                favor, completa el formulario a continuación y un representante se pondrá en contacto contigo en breve.
+            </p>
+            <div class="row contacto-index">
+
+                <div class="col-md-6">
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-phone"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Mándanos WhatsApp</h6>
+                                <p><a href="tel:1234567890"> +52 123 456 7890</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-mail-open"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Correo</h6>
+                                <p><a href="mailto:info@nalmia.com">info@nalmia.com</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="item">
+                            <span class="icon pe-7s-map"></span>
+                            <div class="cont">
+                                <h6 class="custom-font">Dirección</h6>
+                                <p>Los Barriles</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 form" style="padding: 0;">
+                    <form id="contact-form" method="post" action="">
+                        <div class="messages"></div>
+                        <div class="controls">
+                            <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Nombre * " required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <input id="form_email" type="email" name="email" placeholder="Correo *" required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Teléfono *" required="required">
+                            </div>
+
+                            <div class="form-group">
+                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4" required="required"></textarea>
+                            </div>
+
+                            <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+
+        </div>
+    </div>
+</section>
