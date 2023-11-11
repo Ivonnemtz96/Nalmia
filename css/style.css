@@ -4203,6 +4203,7 @@ body {
 /* ====================== [ End Footer ] ====================== */
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 991px) {
+  
   .md-mb10 {
     margin-bottom: 10px;
   }
@@ -4439,9 +4440,9 @@ body {
   footer .item {
     margin-bottom: 30px;
   }
-  footer .sub-footer {
+  /* footer .sub-footer {
     margin-top: 20px;
-  }
+  } */
   footer .sub-footer .text-left,
   footer .sub-footer .text-right {
     text-align: center !important;
@@ -4449,6 +4450,7 @@ body {
 }
 
 @media screen and (max-width: 767px) {
+
   .sm-mb10 {
     margin-bottom: 10px;
   }
@@ -4682,6 +4684,7 @@ body {
 }
 
 @media screen and (max-width: 480px) {
+ 
   .pages-header .cont .path {
     font-size: 15px;
   }
@@ -4822,4 +4825,64 @@ ul.villas-detalles li{
 }
 .color-claro{
   background-color: #faf7f5;
+}
+.img-beige{
+  width: 25%;
+  position: absolute;
+  bottom: 5rem;
+  left: -4rem;
+}
+.img-oscura{
+  width: 26%;
+  position: absolute;
+  right: 11rem;
+  top: -1rem;
+}
+
+@media (min-width: 1000px) and (max-width: 1468px) {
+  .img-oscura{
+    width: 38%;
+    position: absolute;
+    right: -2rem;
+    top: 0rem;
+  }
+
+  .img-beige{
+    width: 36%;
+    position: absolute;
+    bottom: 5rem;
+    left: -2rem;
+  }
+}
+@media (min-width: 740px) and (max-width: 999px) {
+  .img-oscura{
+    width: 57%;
+    position: absolute;
+    right: -3rem;
+    top: 43rem;
+  }
+
+  .img-beige{
+    width: 49%;
+    position: absolute;
+    top: 2rem;
+    left: -2rem;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 739px) {
+  .img-oscura{
+    width: 86%;
+    position: absolute;
+    right: 2rem;
+    top: 54rem;
+  }
+
+  .img-beige{
+    width: 93%;
+    position: absolute;
+    top: 1rem;
+    left: -1rem;
+
+  }
 }

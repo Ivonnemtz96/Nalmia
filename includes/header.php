@@ -1,10 +1,21 @@
 <nav class="navbar change navbar-expand-lg">
     <div class="container-fluid">
-        <div class="col-6 col-md-4">
+        <div class="d-none d-md-none d-lg-block col-md-4">
             <!-- Logo -->
             <a class="logo" href="/">
-                <img style="width: 15rem;" src="/img/logo.png?=2" alt="logo">
+                <img style="width: 13rem;" class="d-none d-md-block d-lg-block" src="/img/logo.png?=2" alt="logo">
             </a>
+        </div>
+        <div class="col-4 d-block d-md-block d-lg-none">
+            <a class="logo" href="/">
+                <img style="width: 8rem;" class="d-block d-md-block d-lg-none" src="/img/logo.png?=2" alt="logo">
+            </a>
+        </div>
+        <div class="col-4 d-block d-md-block d-lg-none align-items-center" style="bottom: 13px;">
+            <div class="social-icon d-flex">
+                <a href="#0" style="border: 1px solid #d8c6b0"><i style="color: #d8c6b0;" class="fab fa-facebook-f"></i></a>
+                <a href="#0" style="border: 1px solid #d8c6b0"><i style="color: #d8c6b0;" class="fab fa-instagram"></i></a>
+            </div>
         </div>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -27,7 +38,7 @@
                 </ul>
             </div>
         </div>
-        <div class="col-6 col-md-4 d-none d-md-block text-right">
+        <div class="col-6 col-md-4 d-none  d-md-none d-lg-block text-right">
             <div class="social-icon">
                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
                 <a href="#0"><i class="fab fa-instagram"></i></a>

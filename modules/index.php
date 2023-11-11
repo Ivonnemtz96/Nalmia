@@ -87,6 +87,10 @@
                 </div>
             </div>
         </div>
+
+        <div class="img-beige">
+            <img src="/img/28.png" alt="">
+        </div>
     </div>
 </section>
 
@@ -200,8 +204,10 @@
                     </a>
                 </div>
             </div>
-
         </div>
+    </div>
+    <div class="img-oscura">
+        <img src="/img/28.png" alt="">
     </div>
 </section>
 
