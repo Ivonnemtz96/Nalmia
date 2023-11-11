@@ -1,39 +1,49 @@
-<div class="wa__btn_popup">
-    <div class="wa__btn_popup_icon"><i style="margin-top: 11px; margin-left: 13px; color:#fff; font-size:35px"
-            class="fab fa-whatsapp"></i></div>
-</div>
+<style>
+    #whatsapp {
+    position: fixed;
+    z-index: 999;
+    width: 4rem;
+    bottom: 110px;
+    right: 10px;
+}
 
+.whats-float {
+    position: fixed;
+    bottom: 3rem;
+    right: 0;
+    width: 4rem;
+    height: 4rem;
+    overflow: hidden;
+    background-color: #d8c6b0;
+    color: #FFF;
+    border-radius: 50px;
+    z-index: 10;
+    vertical-align: middle
+}
 
+.whats-float a span {
+    color: white;
+    font-size: 15px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    position: absolute;
+    line-height: 16px;
+    font-weight: bolder;
+}
 
-<div class="wa__popup_chat_box">
-    <div class="wa__popup_heading">
+.whats-float i {
+    font-size: 40px;
+    color: white;
+    line-height: 30px;
+    padding: 16px;
+    transform: rotate(0deg);
+    text-align: center;
 
-        <div class="wa__popup_title"> <img style="width: 3rem;margin-right: .5rem;" src="/img/logo-icon.jpg?=1"
-                alt="">One of our experts </div>
-        <div class="wa__popup_intro">will be replying <strong>on WhatsApp.</strong>
-            <div id="\&quot;eJOY__extension_root\&quot;"></div>
-        </div>
-    </div>
-    <!-- /.wa__popup_heading -->
-    <div class="wa__popup_content wa__popup_content_left">
-        <div class="wa__popup_content_list">
-            <div class="wa__popup_content_item ">
-                <a target="_blank"
-                    href="https://wa.me/+526241234567?text=Hello,%20NALMIA%20Development%20I%20would%20like%20more%20information.%20"
-                    class="wa__stt wa__stt_online">
-                    <div class="wa__popup_avatar">
-                        <div class="wa__cs_img_wrap">
-                            <img style="width: 4rem;" src="/img/logo-whats.png?=1" alt="">
-                        </div>
-                    </div>
-                    <div class="wa__popup_txt">
-                        <div class="wa__member_name">NALMIA Development</div>
-                    </div>
-                    <!-- /.wa__popup_txt -->
-                </a>
-            </div>
-        </div>
-        <!-- /.wa__popup_content_list -->
-    </div>
-    <!-- /.wa__popup_content -->
+}
+</style>
+
+<div class="whats-float">
+    <a href="https://wa.me/+521234567890?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
 </div>
