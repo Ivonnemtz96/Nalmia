@@ -26,9 +26,9 @@
                 <h2 class="text-center">East Cape</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Observa el atardecer desde una playa desierta. Adéntrate en un bosque de gigantes cactus cardón.
-                        Contempla el deslumbrante cielo estrellado desde una isla remota. Siente la energía de una
-                        inmensa ballena gris.
+                        Watch the sunset from an empty beach. Walk into
+                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel the
+                        energy of a giant grey whale.
                     </p>
                 </div>
             </div>
@@ -50,12 +50,13 @@
                 <img src="/img/07.jpg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Una increíble naturaleza</h2>
+                <h2>An exceptional nature</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Entre las playas más hermosas de México. Situado entre la Sierra de la Laguna y el Mar de
-                        Cortés.
-                        Cerca del Parque Natural de Cabo Pulmo y las cascadas y aguas termales naturales de Santiago.
+                        Among the most beautiful beaches of Mexico. <br>
+                        Located between the Sierra de la Laguna and the sea of Cortez. <br> Nearby of the natural parc
+                        of
+                        Cabo Pulmo and Santiago’s natural waterfalls and hot springs.
                     </p>
                 </div>
             </div>
@@ -70,13 +71,14 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <h2>Una vida silvestre excepcional</h2>
+                <h2>A unique wildlife</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Donde la biodiversidad de una tierra especial se encuentra con el acuario del mundo. Haz una
-                        caminata entre una sorprendente diversidad de cactus endémicos. Observa una amplia variedad de
-                        aves locales. Nada entre delfines y peces tropicales. Observa el anidamiento de tortugas por la
-                        noche.
+                        Where a special land biodiversity meets the aquarium of the world. Hike into an amazing
+                        diversity of endemic cacti. <br>
+                        Observe a large variety of local birds. <br>
+                        Swim among dolphins and tropical fishes. <br>
+                        Look at the turtle nesting at night.
                     </p>
                 </div>
             </div>
@@ -98,11 +100,12 @@
                 <img src="/img/team/12.jpg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Una cultura que sigue creciendo</h2>
+                <h2>A living culture</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        "Descubre pueblos de pescadores. Disfruta de fiestas tradicionales locales. Enamórate de la
-                        música tradicional mexicana.
+                        Discover fishermen villages. <br>
+                        Enjoy local traditional fiestas. <br>
+                        Fall in love with the traditional Mexican music.
                     </p>
                 </div>
             </div>
@@ -115,11 +118,12 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <h2>Una exquisita gastronomía</h2>
+                <h2>A delicious gastronomy</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Disfruta de la pesca del día. Prueba alimentos orgánicos de ranchos locales. Aprecia las frutas
-                        silvestres del campo.
+                        Enjoy the fish of the day. <br>
+                        Try organic food from local ranchos. <br>
+                        Appreciate wild fruits from the countryside.
                     </p>
                 </div>
             </div>
@@ -139,12 +143,12 @@
                 <img src="/img/23.jpg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Vida saludable</h2>
+                <h2>Healthy Life</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Disfruta de actividades al aire libre o momentos de tranquilidad. Participa en torneos de pesca
-                        en el mar de clase mundial. Pon a prueba tus habilidades en torneos de golf. Relájate durante un
-                        día completo en un spa.
+                        Enjoy outdoor activities or peaceful moments. <br> Take part in world class sea fishing
+                        tournaments. <br>
+                        Test yourself at golf tournaments. <br> Relax a full day in a spa.
                     </p>
                 </div>
             </div>
@@ -156,11 +160,11 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <h2>Una comunidad activa</h2>
+                <h2>A vibrant community</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Conoce a expatriados estadounidenses y a locales acogedores. Participa en las asociaciones
-                        locales y proyectos.
+                        Meet American expats and welcoming locals. <br> Participate in the local associations and projects.
+
                     </p>
                 </div>
             </div>
