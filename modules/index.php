@@ -2,7 +2,8 @@
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" style="height: 55rem;" data-background="/img/slid/5.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" style="height: 55rem;" data-background="/img/slid/5.jpg"
+                    data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -10,8 +11,8 @@
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
-                                    <a href="#contacto" class="btn-curve btn-color mt-20">
-                                        <span>Contactar</span>
+                                    <a href="#villas" class="btn-curve btn-color mt-20">
+                                        <span>View Villas</span>
                                     </a>
                                 </div>
                             </div>
@@ -45,20 +46,20 @@
         <div class="row">
             <div class="col-lg-6 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Nosotros</h6>
+                    <h6 class="sub-title">About Us</h6>
                     <h2 class="mb-20 playfont">NALMIA</h2>
                     <p>
-                        Nuestro equipo internacional está enamorado de Baja California Sur. Nos apasiona la arquitectura
-                        y el diseño. Nuestro equipo combina estándares europeos, enfoque moderno y experiencia en
-                        construcción.
+                        Our international team is in love with Baja Sur
+                        We are passionate about architecture and design. Our team gathers European standards, modern
+                        approach and building expertise.
                     </p>
                     <ul>
-                        <li>Calidad</li>
-                        <li>Servicio</li>
-                        <li>Inversión</li>
+                        <li>Quality</li>
+                        <li>Service</li>
+                        <li>Investment</li>
                     </ul>
                     <a href="#contacto" class="btn-curve btn-color mt-30">
-                        <span>Contáctanos</span>
+                        <span>Contact Us</span>
                     </a>
                 </div>
             </div>
@@ -102,15 +103,15 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Diseños Innovadores</h6>
-                    <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">NALMIA Villas</h2>
+                    <h6 class="sub-title">Innovative Designs</h6>
+                    <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">Villas NALMIA </h2>
                     <p style="margin-bottom: 2rem;">
-                        Los diseños impresionantes complementan la belleza natural de Los Barriles y sus alrededores.
+                        Breathtaking designs compliment the raw beauty of Los Barriles and it’s surroundings.
                         <br>
-                        Una interpretación moderna de la estética tradicional.
+                        A modern interpretation of traditional aesthetics.
                     </p>
                     <a href="/villas" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
-                        <span>Ver Villas</span>
+                        <span>View Villas</span>
                     </a>
                 </div>
             </div>
@@ -136,15 +137,15 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un
-                            paraíso viviente.</h2>
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, a
+                            living paradise</h2>
                         <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
-                            Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
-                            Experimenta un estilo de vida único y
+                            Live peace and freedom in an untouched nature. <br> Experiment a unique and healthy
+                            lifestyle.
                             saludable.
                         </p>
                         <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
-                            <span>Explorar</span>
+                            <span>Explore</span>
                         </a>
                     </div>
                 </div>
@@ -187,20 +188,19 @@
             <div class="col-md-1"></div>
             <div class="col-lg-5 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Una inversión altamente rentable</h6>
+                    <h6 class="sub-title">A profitable investment</h6>
                     <h2 class="mb-20 playfont">NALMIA Development</h2>
                     <p>
-                        NALMIA es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
-                        Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
-                        propiedades excepcionales que fusionan el lujo con la belleza natural.
+                        An opportunity to create a self-sustaining investment which generates high income monthly.
+
                     </p>
                     <ul>
-                        <li>Calidad</li>
-                        <li>Servicio</li>
-                        <li>Inversión</li>
+                        <li>Quality</li>
+                        <li>Service</li>
+                        <li>Innovation</li>
                     </ul>
                     <a href="/investment" class="btn-curve btn-color mt-30">
-                        <span>Explorar</span>
+                        <span>Explore</span>
                     </a>
                 </div>
             </div>
@@ -212,15 +212,13 @@
 </section>
 
 
-
-<!-- ==================== Start Works ==================== -->
 <section class="work-carousel metro section-padding dark">
     <div class="container-fluid">
         <div class="container">
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Nuestra galería</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
                     </div>
                 </div>
             </div>
@@ -278,4 +276,3 @@
         </div>
     </div>
 </section>
-
