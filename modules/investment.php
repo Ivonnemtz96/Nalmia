@@ -42,10 +42,13 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <img style="width: 21rem;" src="/img/thf.svg" alt="">
+                <a href="https://www.tuhipotecafacil.com/" target="_blank">
+                    <img style="width: 21rem;" src="/img/thf.svg" alt="">
+                </a>
+
             </div>
             <div class="col-lg-6">
-                <h2>Finance your property with Tu Hipoteca Fácil.</h2>
+                <h2>Finance your property with <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank"> Tu Hipoteca Fácil.</a></h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         One of Mexico’s most trusted real estate financing brokers. <br>
@@ -79,7 +82,7 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <h2>Rent your property on Airbnb.</h2>
+                <h2>Rent your property on <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank">Airbnb</a>.</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         Generate high monthly income by short-term rentals.<br>
@@ -87,7 +90,9 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="/img/21.jpg" alt="">
+                <a href="https://www.airbnb.mx/" target="_blank">
+                    <img src="/img/29.png?=1" alt="">
+                </a>
             </div>
             <div class="col-md-12" style="margin-top: 1.5rem;">
                 <div class="container text-justify">
