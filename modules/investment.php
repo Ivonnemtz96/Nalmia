@@ -4,9 +4,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
-                    <h1>Inversión</h1>
+                    <h1>Investment</h1>
                     <div class="path">
-                        <a href="/">Inicio</a><span>/</span>Información sobre la inversión y el mercado
+                        <a href="/">Home</a><span>/</span>Information about Investment and the Market
                     </div>
                 </div>
             </div>
@@ -23,12 +23,12 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-10">
-                <h2 class="text-center">Inversión</h2>
+                <h2 class="text-center">Investment</h2>
                 <div class="txt-cont text-justify">
                     <p class="mb-20">
-                        Vive en el paraíso mientras construyes riqueza. Los Barriles es uno de los destinos destacados
-                        de Baja California Sur, ofreciendo la mejor oportunidad de inversión y los mayores retornos
-                        financieros.
+                        Live in the paradise while building Wealth.
+                        Los Barriles is one of the hot spot of Baja California Sur. It offers the best investment
+                        opportunity and the greatest monetary returns.
                     </p>
                 </div>
             </div>
@@ -45,23 +45,22 @@
                 <img style="width: 21rem;" src="/img/thf.svg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Financia tu propiedad con Tu Hipoteca Fácil.</h2>
+                <h2>Finance your property with Tu Hipoteca Fácil.</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Uno de los corredores de financiamiento inmobiliario más confiables de México. <br>
+                        One of Mexico’s most trusted real estate financing brokers. <br>
                     </p>
                     <a href="/villas" class="btn-curve btn-color mt-30">
-                        <span>Ver villas</span>
+                        <span>View villas</span>
                     </a>
                 </div>
             </div>
             <div class="col-md-12" style="margin-top: 3rem;">
                 <div class="container text-justify">
                     <p>
-                        Financia la compra de tu villa hasta un 80% del valor del préstamo. Los compradores de Estados
-                        Unidos, la Unión Europea y Canadá son elegibles para el financiamiento, y el equipo de Nalmia se
-                        asegurará de un proceso sin complicaciones. Contáctanos ahora para una revisión financiera sin
-                        compromiso.
+                        Finance your Villa purchase up to 80% loan-to-value. Buyers from the USA, EU and Canada are
+                        eligible for financing and the Nalmia team will ensure a seamless process. <br>
+                        Contact us now for a no-obligation finance check.
                     </p>
                 </div>
             </div>
@@ -80,10 +79,10 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <h2>Alquila tu propiedad en Airbnb.</h2>
+                <h2>Rent your property on Airbnb.</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Genera ingresos mensuales elevados a través de alquileres a corto plazo. <br>
+                        Generate high monthly income by short-term rentals.<br>
                     </p>
                 </div>
             </div>
@@ -92,9 +91,13 @@
             </div>
             <div class="col-md-12" style="margin-top: 1.5rem;">
                 <div class="container text-justify">
-                    <p>La demanda de alquiler en todo Baja California Sur sigue creciendo y las proyecciones futuras
-                        indican que la demanda aumentará. Gestiona tu alquiler desde tu teléfono móvil y deja que
-                        nuestro socio de administración de propiedades se encargue del resto.</p>
+                    <p>
+                        Rental demand throughout Baja California Sur continues to grow and future projections indicate
+                        the demand will rise. <br>
+                        Manage your rental from your cell phone and let our Property management partner take care of the
+                        rest.
+
+                    </p>
                 </div>
             </div>
         </div>
@@ -109,23 +112,23 @@
                 <img src="/img/22.png" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Baja California está en pleno auge.</h2>
+                <h2>Baja California is booming.</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Contempla cómo el valor de tu propiedad se incrementa con el paso de los años. <br>
+                        See your property taking value year after year. <br>
                     </p>
 
                     <a href="/villas" class="btn-curve btn-color mt-30">
-                        <span>Ver villas</span>
+                        <span>View villas</span>
                     </a>
                 </div>
             </div>
             <div class="col-md-12" style="margin-top: 1.5rem;">
                 <div class="container text-justify">
                     <p>
-                        El mercado inmobiliario de Baja California Sur se está expandiendo gracias a su atractiva
-                        ubicación, al flujo turístico y a un cambio hacia un entorno de mercado más estable. Disfruta de
-                        un promedio de apreciación anual mientras vives en el paraíso.
+                        Baja California Sur's real estate market is expanding due to its appealing location, tourism
+                        influx, and a shift toward a more stable market environment. Enjoy an average annual
+                        appreciation while living in the paradise.
                     </p>
                 </div>
             </div>
