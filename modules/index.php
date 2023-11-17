@@ -52,12 +52,7 @@
                         Our international team is in love with Baja Sur
                         We are passionate about architecture and design. Our team gathers European standards, modern
                         approach and building expertise.
-                    </p>
-                    <ul>
-                        <li>Quality</li>
-                        <li>Service</li>
-                        <li>Investment</li>
-                    </ul>
+                    </p> <br><br><br>
                     <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contact Us</span>
                     </a>
@@ -104,7 +99,7 @@
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
                     <h6 class="sub-title">Innovative Designs</h6>
-                    <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">Villas NALMIA </h2>
+                    <h2 class="mb-20 playfont" style="margin-bottom: 2rem;">Villas NALMIA </h2>
                     <p style="margin-bottom: 2rem;">
                         Breathtaking designs compliment the raw beauty of Los Barriles and it’s surroundings.
                         <br>
@@ -193,12 +188,7 @@
                     <p>
                         An opportunity to create a self-sustaining investment which generates high income monthly.
 
-                    </p>
-                    <ul>
-                        <li>Quality</li>
-                        <li>Service</li>
-                        <li>Innovation</li>
-                    </ul>
+                    </p> <br><br><br>
                     <a href="/investment" class="btn-curve btn-color mt-30">
                         <span>Explore</span>
                     </a>
