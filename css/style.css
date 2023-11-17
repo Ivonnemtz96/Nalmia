@@ -4856,7 +4856,7 @@ ul.villas-detalles li{
 }
 @media (min-width: 740px) and (max-width: 999px) {
   .img-oscura{
-    width: 57%;
+    width: 49%;
     position: absolute;
     right: -3rem;
     top: 43rem;
@@ -4870,12 +4870,12 @@ ul.villas-detalles li{
   }
 }
 
-@media (min-width: 400px) and (max-width: 739px) {
+@media (min-width: 300px) and (max-width: 739px) {
   .img-oscura{
     width: 86%;
     position: absolute;
-    right: 2rem;
-    top: 54rem;
+    right: 5rem;
+    top: 45rem;
   }
 
   .img-beige{
