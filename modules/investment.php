@@ -41,24 +41,21 @@
 <section class="about mb-30 color-claro" style="padding: 2rem 0px;">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mb-3 mt-3">
                 <a href="https://www.tuhipotecafacil.com/" target="_blank">
                     <img style="width: 21rem;" src="/img/thf.svg" alt="">
                 </a>
 
             </div>
-            <div class="col-lg-6">
-                <h2>Finance your property with <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank"> Tu Hipoteca Fácil.</a></h2>
+            <div class="col-lg-6 mb-3 mt-3">
+                <h2>Finance your property with <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank"> Tu Hipoteca Fácil</a></h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         One of Mexico’s most trusted real estate financing brokers. <br>
                     </p>
-                    <a href="/villas" class="btn-curve btn-color mt-30">
-                        <span>View villas</span>
-                    </a>
                 </div>
             </div>
-            <div class="col-md-12" style="margin-top: 3rem;">
+            <div class="col-md-12 mb-3 mt-3" style="margin-top: 3rem;">
                 <div class="container text-justify">
                     <p>
                         Finance your Villa purchase up to 80% loan-to-value. Buyers from the USA, EU and Canada are
@@ -71,30 +68,23 @@
     </div>
 </section>
 
-<!-- ==================== End about ==================== -->
-
-
-
-<!-- ==================== Start Services ==================== -->
-
-
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <h2>Rent your property on <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank">Airbnb</a>.</h2>
+            <div class="col-lg-6 order-1 order-md-0 mb-3 mt-3">
+                <h2>Rent your property on <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank">Airbnb</a></h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         Generate high monthly income by short-term rentals.<br>
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-0 order-md-1 mb-3 mt-3">
                 <a href="https://www.airbnb.mx/" target="_blank">
                     <img src="/img/29.png?=1" alt="">
                 </a>
             </div>
-            <div class="col-md-12" style="margin-top: 1.5rem;">
+            <div class="col-md-12 order-2 order-md-2 mb-3 mt-3" style="margin-top: 1.5rem;">
                 <div class="container text-justify">
                     <p>
                         Rental demand throughout Baja California Sur continues to grow and future projections indicate
@@ -109,15 +99,14 @@
     </div>
 </section>
 
-
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-0 order-md-0 mb-3 mt-3">
                 <img src="/img/22.png" alt="">
             </div>
-            <div class="col-lg-6">
-                <h2>Baja California is booming.</h2>
+            <div class="col-lg-6 order-1 order-md-1 mb-3 mt-3">
+                <h2>Baja California is booming</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         See your property taking value year after year. <br>
@@ -128,7 +117,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-12" style="margin-top: 1.5rem;">
+            <div class="col-md-12 order-2 order-md-2 mb-3 mt-3" style="margin-top: 1.5rem;">
                 <div class="container text-justify">
                     <p>
                         Baja California Sur's real estate market is expanding due to its appealing location, tourism
