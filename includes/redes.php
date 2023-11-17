@@ -14,7 +14,7 @@
     width: 4rem;
     height: 4rem;
     overflow: hidden;
-    background-color: #d8c6b0;
+    background-color: #bbac9b;
     color: #FFF;
     border-radius: 50px;
     z-index: 10;
