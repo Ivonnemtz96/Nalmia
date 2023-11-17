@@ -44,31 +44,6 @@
     </div>
 </section>
 
-<section class="">
-    <div class="container-fluid popup-gallery">
-        <div class="row">
-            <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/22.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/22.jpg?=1" />
-                    <span>Outdoor Patio with private pool.</span>
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/28-g.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/28.jpg?=1" />
-                    <span>Secured and shaded parking.</span>
-                </a>
-            </div>
-            <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/29-g.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/29.jpg?=1" />
-                    <span>BBQ area and Fire pit.</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="intro-section section-padding color-claro">
     <div class="container">
         <div class="row">
@@ -89,26 +64,25 @@
         </div>
     </div>
 </section>
-
-<section class="color-claro">
-    <div class=" container-fluid popup-gallery">
+<section class=" color-claro" >
+    <div class="container-fluid popup-gallery" style="padding-bottom: 3rem;">
         <div class="row">
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/30-g.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/30.jpg?=1" />
-                    <span>Open space living room.</span>
+                <span style="margin-bottom: 15px;">Outdoor Patio with private pool.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/22.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/22.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/31-g.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/31.jpg?=1" />
-                    <span>Fully equipped kitchen.</span>
+                <span style="margin-bottom: 15px;">Secured and shaded parking.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/28-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/28.jpg?=1" />
                 </a>
             </div>
             <div class="galeria col-12 col-md-4">
-                <a title="Nalmia Villas" href="/img/portfolio/project1/19.jpg?=1">
-                    <img alt="Nalmia Villas" src="/img/portfolio/project1/19.jpg?=1" />
-                    <span>Oversized bedrooms.</span>
+                <span style="margin-bottom: 15px;">BBQ area and Fire pit.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/29-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/29.jpg?=1" />
                 </a>
             </div>
         </div>
@@ -117,7 +91,9 @@
 
 
 
-<section class="intro-section section-padding">
+
+
+<section class="intro-section section-padding" >
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-12 col-md-3" style="margin-top: 2rem;">
@@ -131,6 +107,30 @@
                     inspired by the 'Japandi' influence, where minimalism meets harmony. Two rooms with ensuite and a
                     balcony with a sea view.
                 </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class=""  style="padding-bottom: 3rem;">
+    <div class=" container-fluid popup-gallery">
+        <div class="row" >
+            <div class="galeria col-12 col-md-4">
+                <span  style="margin-bottom: 15px;">Open space living room.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/30-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/30.jpg?=1" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-4">
+                <span  style="margin-bottom: 15px;">Fully equipped kitchen.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/31-g.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/31.jpg?=1" />
+                </a>
+            </div>
+            <div class="galeria col-12 col-md-4">
+                <span  style="margin-bottom: 15px;">Oversized bedrooms.</span>
+                <a title="Nalmia Villas" href="/img/portfolio/project1/19.jpg?=1">
+                    <img alt="Nalmia Villas" src="/img/portfolio/project1/19.jpg?=1" />
+                </a>
             </div>
         </div>
     </div>
@@ -151,29 +151,29 @@
             </div>
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                    <ul>
-                        <li><span>01.</span>1650sqft building.</li>
-                        <li><span>02.</span>3120sqft land.</li>
+                    <ul class="list-detalles">
+                        <li style="list-style: disc;">1650sqft building.</li>
+                        <li style="list-style: disc;">3120sqft land.</li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                    <ul>
-                        <li><span>01.</span>2 Bedrooms</li>
-                        <li><span>02.</span>2 Ensuite bathrooms</li>
-                        <li><span>03.</span>1 Half bathroom</li>
-                        <li><span>04.</span>3 AC mini split</li>
+                    <ul class="list-detalles">
+                        <li style="list-style: disc;">2 Bedrooms</li>
+                        <li style="list-style: disc;">2 Ensuite bathrooms</li>
+                        <li style="list-style: disc;">1 Half bathroom</li>
+                        <li style="list-style: disc;">3 AC mini split</li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                    <ul>
-                        <li><span>01.</span>Outdoor Patio with 75sqft pool.</li>
-                        <li><span>02.</span>Backyard with BQ area and Firepit.</li>
-                        <li><span>03.</span>Car park under 320sqft pergola.</li>
-                        <li><span>04.</span>Kitchen appliances.</li>
+                    <ul class="list-detalles">
+                        <li style="list-style: disc;">Outdoor Patio with 75sqft pool.</li>
+                        <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
+                        <li style="list-style: disc;">Car park under 320sqft pergola.</li>
+                        <li style="list-style: disc;">Kitchen appliances.</li>
                     </ul>
                 </div>
             </div>
