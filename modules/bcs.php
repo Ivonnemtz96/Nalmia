@@ -22,7 +22,7 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-12">
+            <div class="col-lg-12 ">
                 <h2 class="text-center">East Cape</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -46,10 +46,10 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <img src="/img/07.jpg" alt="">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
+                <img src="/img/31.jpg" alt="">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
                 <h2>An exceptional nature</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -70,7 +70,7 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mb-3 mt-3 order-1 order-md-0">
                 <h2>A unique wildlife</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -82,8 +82,8 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <img src="/img/15.jpg" alt="">
+            <div class="col-lg-6 mb-3 mt-3 order-0 order-md-1">
+                <img src="/img/30.jpg" alt="">
             </div>
 
         </div>
@@ -96,10 +96,10 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
                 <img src="/img/team/12.jpg" alt="">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
                 <h2>A living culture</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -117,7 +117,7 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
                 <h2>A delicious gastronomy</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -127,7 +127,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-1">
                 <img src="/img/16.jpg" alt="">
             </div>
 
@@ -139,10 +139,10 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
                 <img src="/img/23.jpg" alt="">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
                 <h2>Healthy Life</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -159,7 +159,7 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
                 <h2>A vibrant community</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
@@ -168,7 +168,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-1">
                 <img src="/img/24.jpg" alt="">
             </div>
         </div>
