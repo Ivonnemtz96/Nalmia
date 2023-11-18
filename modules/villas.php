@@ -152,8 +152,8 @@
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">1650sqft building.</li>
-                        <li style="list-style: disc;">3120sqft land.</li>
+                        <li style="list-style: disc;">1650 sq ft building.</li>
+                        <li style="list-style: disc;">3120 sq ft land.</li>
                     </ul>
                 </div>
             </div>
@@ -170,9 +170,9 @@
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">Outdoor Patio with 75sqft pool.</li>
+                        <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool.</li>
                         <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
-                        <li style="list-style: disc;">Car park under 320sqft pergola.</li>
+                        <li style="list-style: disc;">Car park under 320 sq ft pergola.</li>
                         <li style="list-style: disc;">Kitchen appliances.</li>
                     </ul>
                 </div>

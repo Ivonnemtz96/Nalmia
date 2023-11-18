@@ -27,7 +27,7 @@
     <link href="/css/twentytwenty.css" rel="stylesheet" type="text/css" />
 
     <!-- Core Style Css -->
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/style2.css" />
 
     <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/css/magnific-popup.css">
