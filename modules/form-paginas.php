@@ -7,9 +7,9 @@
                 Are you ready to learn more about NALMIA Villas? We would be delighted to assist you. Please complete
                 the form below, and a representative will be in touch with you shortly.
             </p>
-            <div class="row contacto-index">
+            <div class="row contacto-index" style="margin-bottom: -2rem;">
                 <div class="col-md-6">
-                    <img src="/img/11.jpg" alt="">
+                    <img src="/img/11.jpg" alt="" style="margin-bottom: 2rem;">
                 </div>
                 <div class="col-lg-6 form" style="padding: 0;">
                     <form id="contact-form" method="post" action="">
