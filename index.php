@@ -13,7 +13,7 @@
         include("includes/header.php");
         include("modules/index.php");
         include("modules/form-paginas.php");
-        include("includes/redes.php");
+
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>

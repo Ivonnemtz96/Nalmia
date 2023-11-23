@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="text-left">
-                        <h6 style="color: white;">&#174;NALMIA <span id="demo"></span></h6>
+                        <h6 style="color: white;">Building the future of Baja California Sur.</h6>
                     </div>
                 </div>
                 <div class="col-md-4 text-center">
@@ -12,13 +12,15 @@
                 </div>
                 <div class="col-md-4">
                     <div class="text-right">
-                        <h6 style="color: white;">Building the future of Baja California Sur.</h6>
+                        <h6 style="color: white;">&#174;NALMIA <span id="demo"></span></h6>
+
                     </div>
                 </div>
 
                 <div class="col-md-12 text-center" style="margin-top: 1.5rem;">
-                    <h6>Todos los derechos reservados. Diseñado por <a target="_blank" href="https://bananagroup.mx">Banana Group
-                        Marketing</a>.</h6>
+                    <h6>Todos los derechos reservados. Diseñado por <a target="_blank"
+                            href="https://bananagroup.mx">Banana Group
+                            Marketing</a>.</h6>
                 </div>
             </div>
         </div>

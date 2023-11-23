@@ -1,15 +1,15 @@
 <nav class="navbar change navbar-expand-lg">
     <div class="container-fluid">
         <div class="row w-100 justify-content-center align-items-center">
-            <div class="d-none d-md-none d-lg-block col-md-4">
+            <div class="d-none d-md-none d-lg-block col-md-2">
                 <!-- Logo -->
                 <a class="logo" href="/">
-                    <img style="width: 13rem;" class="d-none d-md-block d-lg-block" src="/img/logo.png?=2" alt="logo">
+                    <img style="width: 13rem;margin-top: 10px;" class="d-none d-md-block d-lg-block" src="/img/logo.png?=2" alt="logo">
                 </a>
             </div>
             <div class="col-2 d-block d-md-block d-lg-none" style="left: -3rem;">
                 <a class="logo" href="/">
-                    <img style="width: 8rem;" class="d-block d-md-block d-lg-none" src="/img/logo.png?=2" alt="logo">
+                    <img style="width: 8rem;margin-top: 10px;" class="d-block d-md-block d-lg-none" src="/img/logo.png?=2" alt="logo">
                 </a>
             </div>
             <div class="col-2 d-block d-md-block d-lg-none"></div>
@@ -28,7 +28,7 @@
                 <span class="icon-bar"><i class="fas fa-bars"></i></span>
             </button>
             </div>
-            <div class="col-12 col-md-12 col-lg-4" id="menu-items" style="left: 1rem;">
+            <div class="col-12 col-md-12 col-lg-5" id="menu-items" style="left: 1rem;">
                 <!-- navbar links -->
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">

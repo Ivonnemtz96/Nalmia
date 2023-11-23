@@ -22,14 +22,21 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-12 ">
-                <h2 class="text-center">East Cape</h2>
-                <div class="txt-cont">
-                    <p class="mb-20">
-                        Watch the sunset from an empty beach. Walk into
-                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel the
-                        energy of a giant grey whale.
-                    </p>
+            <div class="row">
+                <div class="col-lg-3 col-12 col-md-4">
+                    <div class="htit">
+                        <h4 class="fz-50">East Cape</h4>
+                    </div>
+                </div>
+                <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                    <div class="text">
+                        <p>
+                            Watch the sunset from an empty beach. Walk into
+                            a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
+                            the
+                            energy of a giant grey whale.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -143,7 +150,7 @@
                 <img src="/img/23.jpg" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>Healthy Life</h2>
+                <h2>A healthy life</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
                         Enjoy outdoor activities or peaceful moments. <br> Take part in world class sea fishing
@@ -163,7 +170,8 @@
                 <h2>A vibrant community</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Meet American expats and welcoming locals. <br> Participate in the local associations and projects.
+                        Meet American expats and welcoming locals. <br> Participate in the local associations and
+                        projects.
 
                     </p>
                 </div>

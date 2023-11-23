@@ -46,12 +46,11 @@
         <div class="row">
             <div class="col-lg-6 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">About Us</h6>
-                    <h2 class="mb-20 playfont">NALMIA</h2>
+                    <!-- <h6 class="sub-title">About Us</h6> -->
+                    <h2 class="mb-20 playfont" style="font-size: 3rem;">NALMIA</h2>
                     <p>
-                        Our international team is in love with Baja Sur
-                        We are passionate about architecture and design. Our team gathers European standards, modern
-                        approach and building expertise.
+                        High-end Real Estate Developer. <br>
+                         Building the future of Baja California Sur.
                     </p> <br><br><br>
                     <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contact Us</span>
@@ -82,10 +81,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-
-        <div class="img-beige">
-            <img src="/img/28.png" alt="">
         </div>
     </div>
 </section>
@@ -195,9 +190,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="img-oscura">
-        <img src="/img/28.png" alt="">
     </div>
 </section>
 

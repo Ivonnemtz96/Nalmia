@@ -1,5 +1,5 @@
 <section class="contact">
-    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
+    <div class="info bg-gray pt-80 pb-80" style="background:#fff;">
         <div class="container">
             <h6 class="sub-title">Contact Us</h6>
             <h2 class="mb-20 playfont">Learn more about NALMIA</h2>

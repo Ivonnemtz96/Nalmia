@@ -22,14 +22,20 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-10">
-                <h2 class="text-center">Investment</h2>
-                <div class="txt-cont text-justify">
-                    <p class="mb-20">
+        <div class="row">
+                <div class="col-lg-3 col-12 col-md-4">
+                    <div class="htit">
+                        <h4 class="fz-50">Investment</h4>
+                    </div>
+                </div>
+                <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                    <div class="text">
+                        <p style="text-align: justify;">
                         Live in the paradise while building Wealth.
                         Los Barriles is one of the hot spot of Baja California Sur. It offers the best investment
                         opportunity and the greatest monetary returns.
-                    </p>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -68,10 +74,10 @@
     </div>
 </section>
 
-<section class="about section-padding">
+<section class="about ">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6 order-1 order-md-0 mb-3 mt-3">
+            <div class="col-lg-6 order-1 order-md-0 mb-2 mt-2">
                 <h2>Rent your property on <a style="text-decoration: underline;" href="https://www.airbnb.mx/" target="_blank">Airbnb</a></h2>
                 <div class="txt-cont">
                     <p class="mb-20">

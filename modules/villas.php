@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-lg-3 col-12 col-md-4">
                 <div class="htit">
-                    <h4>NALMIA</h4>
+                    <h4 class="fz-50">NALMIA</h4>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
@@ -49,13 +49,13 @@
         <div class="row">
             <div class="col-lg-3 col-12 col-md-4">
                 <div class="htit">
-                    <h4>Exterior</h4>
+                    <h4 class="fz-50">Exterior</h4>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Outdoor patio with private pool. Secure and shaded parking. Barbecue and fire pit area. Invite
+                        Invite
                         your guests to a barbecue or a drink around the fire. Relax while enjoying the sun in your
                         private pool. Park your car and appreciate the security in a fully gated property.
                     </p>
@@ -98,12 +98,12 @@
         <div class="row">
             <div class="col-lg-3 col-12 col-md-3" style="margin-top: 2rem;">
                 <div class="htit">
-                    <h4>Interior</h4>
+                    <h4 class="fz-50">Interior</h4>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30" style="margin-top: 2rem;">
                 <p>
-                    Open space living room. Fully equipped kitchen. Spacious bedrooms. A beautiful interior design
+                     A beautiful interior design
                     inspired by the 'Japandi' influence, where minimalism meets harmony. Two rooms with ensuite and a
                     balcony with a sea view.
                 </p>
@@ -139,7 +139,7 @@
 
 
 <section class="about section-padding color-claro">
-    <div class="container">
+    <div class="container-fluid" style="padding-left: 1rem; padding-right: 1rem;">
         <div class="row">
             <div class="col-lg-3">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
@@ -160,20 +160,21 @@
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">2 Bedrooms</li>
-                        <li style="list-style: disc;">2 Ensuite bathrooms</li>
-                        <li style="list-style: disc;">1 Half bathroom</li>
-                        <li style="list-style: disc;">3 AC mini split</li>
+                        <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool.</li>
+                        <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
+                        <li style="list-style: disc;">Car park under 320 sq ft pergola.</li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool.</li>
-                        <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
-                        <li style="list-style: disc;">Car park under 320 sq ft pergola.</li>
+                        <li style="list-style: disc;">2 Bedrooms</li>
+                        <li style="list-style: disc;">2 Ensuite bathrooms</li>
+                        <li style="list-style: disc;">1 Half bathroom</li>
+                        <li style="list-style: disc;">3 AC mini split</li>
                         <li style="list-style: disc;">Kitchen appliances.</li>
+
                     </ul>
                 </div>
             </div>
