@@ -2,8 +2,8 @@
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" style="height: 55rem;" data-background="/img/slid/5.jpg"
-                    data-overlay-dark="1">
+                <div class="bg-img valign" style="height: 55rem; background-position: bottom;"
+                    data-background="/img/slid/9.jpg?=1" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
@@ -50,7 +50,7 @@
                     <h2 class="mb-20 playfont" style="font-size: 3rem;">NALMIA</h2>
                     <p>
                         High-end Real Estate Developer. <br>
-                         Building the future of Baja California Sur.
+                        Building the future of Baja California Sur.
                     </p> <br><br><br>
                     <a href="#contacto" class="btn-curve btn-color mt-30">
                         <span>Contact Us</span>
@@ -65,17 +65,17 @@
                         </div>
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="/img/06.jpg" alt="">
+                                <img src="/img/06.jpg?=1" alt="">
                             </div>
                         </div>
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="/img/05.jpg" alt="">
+                                <img src="/img/05.jpg?=1" alt="">
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="img wow imago d-none d-md-block">
-                                <img src="/img/04.jpg" alt="">
+                                <img src="/img/04.jpg?=1" alt="">
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
         </div>
         <div class="col-md-3"></div>
     </div>
-    <div class="bg-img pat valign text-center" data-background="/img/09.jpg">
+    <div class="bg-img pat valign text-center" data-background="/img/32.jpg">
         <!-- <img src="/img/02.jpg" alt="" srcset=""> -->
 
     </div>
@@ -155,7 +155,7 @@
                     <div class="row">
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="/img/06.jpg" alt="">
+                                <img src="/img/34.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-4 mb-20">
@@ -164,12 +164,12 @@
 
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="/img/05.jpg" alt="">
+                                <img src="/img/33.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="img wow imago d-none d-md-block">
-                                <img src="/img/04.jpg" alt="">
+                                <img src="/img/35.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -195,7 +195,7 @@
 
 
 <section class="work-carousel metro section-padding dark">
-    <div class="container-fluid">
+    <div class="container-fluid d-none d-md-block">
         <div class="container">
             <div class="section-head text-center">
                 <div class="row justify-content-center">
@@ -211,35 +211,102 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/17.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/36.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/04.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/37.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/07.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/38.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/05.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/39.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/06.jpg">
+                                <div class="item-img bg-img wow imago" data-background="/img/40.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- slider setting -->
+                    <div class="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer">
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                    <div class="swiper-button-prev swiper-nav-ctrl prev-ctrl cursor-pointer">
+                        <i class="fas fa-chevron-left"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="work-carousel metro section-padding dark">
+    <div class="container-fluid d-block d-md-none">
+        <div class="container">
+            <div class="section-head text-center">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8 col-sm-10">
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 no-padding">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/41.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/42.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/43.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/44.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/45.jpg">
                                 </div>
 
                             </div>
