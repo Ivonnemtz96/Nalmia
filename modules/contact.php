@@ -1,4 +1,4 @@
-<header class="pages-header bg-img valign parallaxie" data-background="/img/19.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign parallaxie" data-background="/img/48.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -13,7 +13,7 @@
     </div>
 </header>
 <section class="contact color-oscuro">
-    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);">
+    <div class="info bg-gray pt-80 pb-80" style="background:#fff;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -28,10 +28,10 @@
             <div class="col-md-12">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
-                            <img src="/img/11.jpg" alt="">
+                        <div class="col-md-6 mt-3 mb-3">
+                            <img style="margin-top: 25px;" src="/img/11.jpg" alt="">
                         </div>
-                        <div class="col-lg-6 form">
+                        <div class="col-lg-6  form">
                             <form id="contact-form" method="post" action="">
                                 <div class="messages"></div>
                                 <div class="controls">
@@ -67,13 +67,13 @@
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-6 d-none d-md-block">
-                <img src="/img/26.png?=1" style="width: 35rem;" class="d-none d-md-block" alt="">
+                <img src="/img/49.jpg?=1" style="width: 35rem;" class="d-none d-md-block" alt="">
             </div>
             <div class="col-md-6 d-block d-md-none" style="left:-1rem">
-                <img src="/img/26.png?=1" style="width: 23rem;" class="d-block d-md-none" alt="">
+                <img src="/img/49.jpg?=1" style="width: 29.7rem;" class="d-block d-md-none" alt="">
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5 align-content-center">
+            <div class="col-md-5 align-content-center" style="margin-bottom: 2rem;">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
                     <h4 class="mt-20 playfont">Partners</h4>
                     <p>

@@ -1,5 +1,5 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign parallaxie" data-background="/img/20.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign parallaxie" data-background="/img/46.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -54,7 +54,7 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
-                <img src="/img/31.jpg" alt="">
+                <img src="/img/31.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
                 <h2>An exceptional nature</h2>
@@ -147,7 +147,7 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
-                <img src="/img/23.jpg" alt="">
+                <img src="/img/23.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
                 <h2>A healthy life</h2>
@@ -177,7 +177,7 @@
                 </div>
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-0 order-md-1">
-                <img src="/img/24.jpg" alt="">
+                <img src="/img/24.jpg?=1" alt="">
             </div>
         </div>
     </div>
