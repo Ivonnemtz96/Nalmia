@@ -28,7 +28,7 @@ $(function () {
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-            logo.attr('src', '/img/logo-dark.png?=3');
+            logo.attr('src', '/img/logo-dark.jpg?=5');
 
         } else {
 
