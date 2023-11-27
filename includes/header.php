@@ -7,12 +7,12 @@
                     <img style="width: 13rem;margin-top: 10px;" class="d-none d-md-block d-lg-block" src="/img/logo.png?=2" alt="logo">
                 </a>
             </div>
-            <div class="col-2 d-block d-md-block d-lg-none" style="left: -3rem;">
+            <div class="col-2 d-block d-md-block d-lg-none" style="left: -4rem;">
                 <a class="logo" href="/">
                     <img style="width: 8rem;margin-top: 10px;" class="d-block d-md-block d-lg-none" src="/img/logo.png?=2" alt="logo">
                 </a>
             </div>
-            <div class="col-2 d-block d-md-block d-lg-none"></div>
+            <div class="col-1 d-block d-md-block d-lg-none"></div>
             <div class="col-5 d-block d-md-block d-lg-none align-items-center" style="bottom: 13px;">
                 <div class="social-icon d-flex">
                     <a href="https://www.facebook.com/NalmiaDevelopment?mibextid=ZbWKwL" target="_blank" style="border: 1px solid #d8c6b0"><i style="color: #d8c6b0;"
@@ -21,8 +21,9 @@
                             class="fab fa-instagram"></i></a>
                 </div>
             </div>
-            <div class="col-2 d-block d-md-block d-lg-none align-items-center" style="right: -3.5rem;">
-            <button id="menu-movil" class="navbar-toggler" type="button" data-toggle="collapse"
+            <div class="col-1 d-block d-md-block d-lg-none"></div>
+            <div class="col-2 d-block d-md-block d-lg-none align-items-center" style="margin-right: -3rem;">
+            <button id="menu-movil" class="navbar-toggler" type="button" data-toggle="collapse" 
                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
                 <span class="icon-bar"><i class="fas fa-bars"></i></span>

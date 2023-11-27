@@ -1,5 +1,5 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign parallaxie" data-background="/img/47.jpg" data-overlay-dark="3">
+<header class="pages-header bg-img valign parallaxie" style="background-size: contain !important;" data-background="/img/12.jpg" data-overlay-dark="1">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,20 +22,18 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-        <div class="row">
-                <div class="col-lg-3 col-12 col-md-4">
-                    <div class="htit">
-                        <h4 class="fz-50">Investment</h4>
-                    </div>
+            <div class="col-lg-3 col-12 col-md-4">
+                <div class="htit">
+                    <h4 class="fz-50">Investment</h4>
                 </div>
-                <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
-                    <div class="text">
-                        <p style="text-align: justify;">
+            </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                <div class="text">
+                    <p style="text-align: justify;">
                         Live in the paradise while building Wealth.
                         Los Barriles is one of the hot spot of Baja California Sur. It offers the best investment
                         opportunity and the greatest monetary returns.
-                        </p>
-                    </div>
+                    </p>
                 </div>
             </div>
         </div>

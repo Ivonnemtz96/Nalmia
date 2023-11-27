@@ -7,7 +7,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
-                                <div class="caption center  animate__animated animate__fadeInUp">
+                                <div class="caption center  animate__animated animate__fadeInUp" style="margin-top: 4rem;">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>

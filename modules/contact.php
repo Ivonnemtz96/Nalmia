@@ -67,10 +67,10 @@
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-6 d-none d-md-block">
-                <img src="/img/49.jpg?=1" style="width: 35rem;" class="d-none d-md-block" alt="">
+                <img src="/img/26.png?=2" style="width: 35rem;" class="d-none d-md-block" alt="">
             </div>
             <div class="col-md-6 d-block d-md-none" style="left:-1rem">
-                <img src="/img/49.jpg?=1" style="width: 29.7rem;" class="d-block d-md-none" alt="">
+                <img src="/img/26.png?=2" style="width: 23rem;" class="d-block d-md-none" alt="">
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-5 align-content-center" style="margin-bottom: 2rem;">

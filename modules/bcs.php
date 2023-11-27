@@ -22,21 +22,19 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="row">
-                <div class="col-lg-3 col-12 col-md-4">
-                    <div class="htit">
-                        <h4 class="fz-50">East Cape</h4>
-                    </div>
+            <div class="col-lg-3 col-12 col-md-4">
+                <div class="htit">
+                    <h4 class="fz-50">East Cape</h4>
                 </div>
-                <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
-                    <div class="text">
-                        <p>
-                            Watch the sunset from an empty beach. Walk into
-                            a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
-                            the
-                            energy of a giant grey whale.
-                        </p>
-                    </div>
+            </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                <div class="text">
+                    <p>
+                        Watch the sunset from an empty beach. Walk into
+                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
+                        the
+                        energy of a giant grey whale.
+                    </p>
                 </div>
             </div>
         </div>
