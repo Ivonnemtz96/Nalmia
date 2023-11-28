@@ -1,4 +1,5 @@
-<header class="pages-header bg-img valign parallaxie" data-background="/img/48.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign" style="background-position:center bottom !important;"
+    data-background="/img/48.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -29,32 +30,38 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 mt-3 mb-3">
-                            <img style="margin-top: 25px;" src="/img/11.jpg" alt="">
+                            <img style="margin-top: 25px;" src="/img/50.jpg" alt="">
                         </div>
                         <div class="col-lg-6  form">
-                            <form id="contact-form" method="post" action="">
+                            <form method="post" action="/php/contact.php">
                                 <div class="messages"></div>
                                 <div class="controls">
                                     <div class="form-group">
-                                        <input id="form_name" type="text" name="name" placeholder="Name * "
+                                        <input id="form_name" type="text" name="nombre" placeholder="Name * "
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <input id="form_email" type="email" name="email" placeholder="Email *"
+                                        <input id="form_email" type="email" name="mail" placeholder="Email *"
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <input id="form_name" type="text" name="name" placeholder="Phone Number *"
+                                        <input id="form_name" type="text" name="tel" placeholder="Phone Number *"
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <textarea id="form_message" name="message" placeholder="Message * " rows="4"
+                                        <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
                                             required="required"></textarea>
                                     </div>
 
+                                    <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                        <div class="col-12 col-md-12">
+                                            <div class="g-recaptcha"
+                                                data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                                        </div>
+                                    </div>
                                     <button type="submit" class="btn-curve btn-color"><span>Send</span></button>
                                 </div>
                             </form>

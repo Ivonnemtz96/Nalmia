@@ -1,5 +1,5 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign parallaxie" data-background="/img/46.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign"  style="background-position: center !important;" data-background="/img/46.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

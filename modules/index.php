@@ -7,11 +7,12 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
-                                <div class="caption center  animate__animated animate__fadeInUp" style="margin-top: 4rem;">
+                                <div class="caption center  animate__animated animate__fadeInUp"
+                                    style="margin-top: 4rem;">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
-                                    <a href="#villas" class="btn-curve btn-color mt-20">
+                                    <a href="/villas" class="btn-curve btn-color mt-20">
                                         <span>View Villas</span>
                                     </a>
                                 </div>
@@ -52,7 +53,7 @@
                         High-end Real Estate Developer. <br>
                         Building the future of Baja California Sur.
                     </p> <br><br><br>
-                    <a href="#contacto" class="btn-curve btn-color mt-30">
+                    <a href="#contact" class="btn-curve btn-color mt-30">
                         <span>Contact Us</span>
                     </a>
                 </div>
@@ -132,7 +133,6 @@
                         <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
                             Live peace and freedom in an untouched nature. <br> Experiment a unique and healthy
                             lifestyle.
-                            saludable.
                         </p>
                         <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
                             <span>Explore</span>
@@ -184,7 +184,7 @@
                         An opportunity to create a self-sustaining investment which generates high income monthly.
 
                     </p> <br><br><br>
-                    <a href="/investment" class="btn-curve btn-color mt-30">
+                    <a href="/bcs" class="btn-curve btn-color mt-30">
                         <span>Explore</span>
                     </a>
                 </div>
@@ -211,35 +211,37 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/36.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/38.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/37.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/36.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/38.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/39.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/39.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/37.jpg">
                                 </div>
 
                             </div>
                         </div>
+
+
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/40.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/40.jpg">
                                 </div>
 
                             </div>
@@ -261,7 +263,7 @@
 
 
 
-<section class="work-carousel metro section-padding dark">
+<section class="work-carousel metro section-padding dark  d-block d-md-none">
     <div class="container-fluid d-block d-md-none">
         <div class="container">
             <div class="section-head text-center">
@@ -278,20 +280,6 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/41.jpg">
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/42.jpg">
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/43.jpg">
                                 </div>
 
@@ -299,7 +287,21 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/41.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
                                 <div class="item-img bg-img wow imago" data-background="/img/44.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/42.jpg">
                                 </div>
 
                             </div>

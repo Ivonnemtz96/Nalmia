@@ -27,7 +27,7 @@
     <link href="/css/twentytwenty.css" rel="stylesheet" type="text/css" />
 
     <!-- Core Style Css -->
-    <link rel="stylesheet" href="/css/style2.css" />
+    <link rel="stylesheet" href="/css/style.css" />
 
     <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/css/magnific-popup.css">
@@ -36,5 +36,8 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
+  <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 </head>

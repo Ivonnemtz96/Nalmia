@@ -18,7 +18,7 @@
                 </div>
 
                 <div class="col-md-12 text-center" style="margin-top: 1.5rem;">
-                    <h6>Sll rights reserved. Developed by <a target="_blank"
+                    <h6>All rights reserved. Developed by <a target="_blank"
                             href="https://bananagroup.mx">Banana Group
                             Marketing</a>.</h6>
                 </div>

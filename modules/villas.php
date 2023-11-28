@@ -1,4 +1,4 @@
-<header class="pages-header bg-img valign parallaxie" style="background-position: bottom !important;"
+<header class="pages-header bg-img valign" style="background-position: center !important;"
     data-background="/img/portfolio/project1/27.jpg?=1" data-overlay-dark="1">
     <div class="container">
         <div class="row">
@@ -152,8 +152,8 @@
             <div class="col-12 col-md-4 col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">1650 sq ft building.</li>
-                        <li style="list-style: disc;">3120 sq ft land.</li>
+                        <li style="list-style: disc;">1650 sq ft building</li>
+                        <li style="list-style: disc;">3120 sq ft land</li>
                     </ul>
                 </div>
             </div>
@@ -166,24 +166,24 @@
                         </ul>
 
                         <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool.</li>
-                            <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
-                            <li style="list-style: disc;">Car park under 320 sq ft pergola.</li>
+                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
+                            <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
+                            <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
                         </ul>
                 </div>
             </div>
             <div class="col-12 col-md-4 col-lg-3 valign d-block d-md-block d-lg-none d-xl-none" >
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                         <ul class="list-detalles d-md-block d-lg-block d-xl-none">
-                            <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool.</li>
-                            <li style="list-style: disc;">Backyard with BQ <br>  area and Firepit.</li>
-                            <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola.</li>
+                            <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool</li>
+                            <li style="list-style: disc;">Backyard with BQ <br>  area and Firepit</li>
+                            <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola</li>
                         </ul>
 
                         <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool.</li>
-                            <li style="list-style: disc;">Backyard with BQ area and Firepit.</li>
-                            <li style="list-style: disc;">Car park under 320 sq ft pergola.</li>
+                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
+                            <li style="list-style: disc;">Backyard with BQ area and Firepit</li>
+                            <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
                         </ul>
                 </div>
             </div>
@@ -194,7 +194,7 @@
                         <li style="list-style: disc;">2 Ensuite bathrooms</li>
                         <li style="list-style: disc;">1 Half bathroom</li>
                         <li style="list-style: disc;">3 AC mini split</li>
-                        <li style="list-style: disc;">Kitchen appliances.</li>
+                        <li style="list-style: disc;">Kitchen appliances</li>
 
                     </ul>
                 </div>

@@ -12,7 +12,7 @@
                     <img style="width: 8rem;margin-top: 10px;" class="d-block d-md-block d-lg-none" src="/img/logo.png?=2" alt="logo">
                 </a>
             </div>
-            <div class="col-1 d-block d-md-block d-lg-none"></div>
+            <div class="col-2 d-block d-md-block d-lg-none"></div>
             <div class="col-5 d-block d-md-block d-lg-none align-items-center" style="bottom: 13px;">
                 <div class="social-icon d-flex">
                     <a href="https://www.facebook.com/NalmiaDevelopment?mibextid=ZbWKwL" target="_blank" style="border: 1px solid #d8c6b0"><i style="color: #d8c6b0;"
@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="col-1 d-block d-md-block d-lg-none"></div>
-            <div class="col-2 d-block d-md-block d-lg-none align-items-center" style="margin-right: -3rem;">
+            <div class="col-2 d-block d-md-block d-lg-none align-items-center" style="margin-right: -2rem;">
             <button id="menu-movil" class="navbar-toggler" type="button" data-toggle="collapse" 
                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -36,7 +36,7 @@
                         <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="/villas">Villas</a></li>
                         <li class="nav-item"><a class="nav-link" href="/bcs">B.C.S</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/investment">Investments</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="/investment">Investments</a></li> -->
                         <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
                         <li class="d-block d-md-none">
                             <!-- <a href="#0"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a> -->
@@ -45,7 +45,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-6 col-md-4 col-lg-3 d-none  d-md-none d-lg-block text-right">
+            <div class="col-lg-2 d-none d-md-none d-lg-block"></div>
+            <div class="col-6 col-md-4 col-lg-2 d-none  d-md-none d-lg-block text-right">
                 <div class="social-icon">
                     <a href="https://www.facebook.com/NalmiaDevelopment?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://instagram.com/nalmiadevelopment?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><i class="fab fa-instagram"></i></a>
