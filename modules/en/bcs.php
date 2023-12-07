@@ -6,7 +6,7 @@
                 <div class="cont text-center">
                     <h1>Life Style & B.C.S</h1>
                     <div class="path">
-                        <a href="/">Inicio</a><span>/</span>Baja California Sur
+                        <a href="/">Home</a><span>/</span>Baja California Sur
                     </div>
                 </div>
             </div>

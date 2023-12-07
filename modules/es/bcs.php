@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
-                    <h1>Life Style & B.C.S</h1>
+                    <h1>Estilo de vida & B.C.S</h1>
                     <div class="path">
                         <a href="/">Inicio</a><span>/</span>Baja California Sur
                     </div>

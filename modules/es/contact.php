@@ -4,9 +4,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="cont text-center">
-                    <h1>Contact Us</h1>
+                    <h1>Contáctanos</h1>
                     <div class="path">
-                        <a href="/">Home</a><span>/</span>Contact
+                        <a href="/">Inicio</a><span>/</span>Contacto
                     </div>
                 </div>
             </div>
@@ -18,8 +18,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h6 class="sub-title">Contact Us</h6>
-                    <h2 class="mb-20 playfont">Learn more about NALMIA</h2>
+                    <h6 class="sub-title">Contáctanos</h6>
+                    <h2 class="mb-20 playfont">Ver más acerca de NALMIA</h2>
                     <p>
                         Paradise is calling. <br>
                         Contact NALMIA Villas and secure your spot in this corner of elegance.
@@ -37,22 +37,22 @@
                                 <div class="messages"></div>
                                 <div class="controls">
                                     <div class="form-group">
-                                        <input id="form_name" type="text" name="nombre" placeholder="Name * "
+                                        <input id="form_name" type="text" name="nombre" placeholder="Nombre * "
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <input id="form_email" type="email" name="mail" placeholder="Email *"
+                                        <input id="form_email" type="email" name="mail" placeholder="Correo *"
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <input id="form_name" type="text" name="tel" placeholder="Phone Number *"
+                                        <input id="form_name" type="text" name="tel" placeholder="Teléfono *"
                                             required="required">
                                     </div>
 
                                     <div class="form-group">
-                                        <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
+                                        <textarea id="form_message" name="msj" placeholder="Mensaje * " rows="4"
                                             required="required"></textarea>
                                     </div>
 
@@ -62,7 +62,7 @@
                                                 data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
                                         </div>
                                     </div>
-                                    <button type="submit" class="btn-curve btn-color"><span>Send</span></button>
+                                    <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
                                 </div>
                             </form>
                         </div>
@@ -82,7 +82,7 @@
             <div class="col-md-1"></div>
             <div class="col-md-5 align-content-center" style="margin-bottom: 2rem;">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h4 class="mt-20 playfont">Partners</h4>
+                    <h4 class="mt-20 playfont">Socios</h4>
                     <p>
                         DC Arq : Architect <br>
                         Mexlaw : Lawyer and legal advice <br>

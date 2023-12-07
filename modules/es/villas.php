@@ -6,7 +6,7 @@
                 <div class="cont text-center">
                     <h1>Villas NALMIA</h1>
                     <div class="path">
-                        <a href="/">Home</a><span>/</span><a href="#">Property Presentation</a>
+                        <a href="/">Inicio</a><span>/</span><a href="#">Presentación de propiedades</a>
                     </div>
                 </div>
             </div>

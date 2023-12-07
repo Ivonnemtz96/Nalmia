@@ -1,8 +1,8 @@
 <section class="contact" id="contact">
     <div class="info bg-gray pt-80 pb-80" style="background:#fff;">
         <div class="container">
-            <h6 class="sub-title">Contact Us</h6>
-            <h2 class="mb-20 playfont">Learn more about NALMIA</h2>
+            <h6 class="sub-title">Contáctanos</h6>
+            <h2 class="mb-20 playfont">Saber más sobre NALMIA</h2>
             <p>
                 Are you ready to learn more about NALMIA Villas? We would be delighted to assist you. Please complete
                 the form below, and a representative will be in touch with you shortly.
@@ -16,22 +16,22 @@
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
-                                <input id="form_name" type="text" name="nombre" placeholder="Name * "
+                                <input id="form_name" type="text" name="nombre" placeholder="Nombre * "
                                     required="required">
                             </div>
 
                             <div class="form-group">
-                                <input id="form_email" type="email" name="mail" placeholder="Email *"
+                                <input id="form_email" type="email" name="mail" placeholder="Correo *"
                                     required="required">
                             </div>
 
                             <div class="form-group">
-                                <input id="form_name" type="text" name="tel" placeholder="Phone number *"
+                                <input id="form_name" type="text" name="tel" placeholder="Teléfono *"
                                     required="required">
                             </div>
 
                             <div class="form-group">
-                                <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
+                                <textarea id="form_message" name="msj" placeholder="Mensaje * " rows="4"
                                     required="required"></textarea>
                             </div>
                             <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
@@ -40,7 +40,7 @@
                                         required></div>
                                 </div>
                             </div>
-                            <button type="submit" name="submit" class="btn-curve btn-color"><span>Send</span></button>
+                            <button type="submit" name="submit" class="btn-curve btn-color"><span>Enviar</span></button>
                         </div>
                     </form>
                 </div>
