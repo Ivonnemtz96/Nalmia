@@ -2,16 +2,18 @@
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" style="height: 55rem;" data-background="/img/slid/5.jpg" data-overlay-dark="1">
+                <div class="bg-img valign" style="height: 55rem; background-position: bottom;"
+                    data-background="/img/slid/9.jpg?=1" data-overlay-dark="1">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 col-md-9">
-                                <div class="caption center  animate__animated animate__fadeInUp">
+                                <div class="caption center  animate__animated animate__fadeInUp"
+                                    style="margin-top: 4rem;">
                                     <h1 data-splitting class="playfont" style="text-shadow:  10px 10px 10px #000; ">
                                         <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
-                                    <a href="#contacto" class="btn-curve btn-color mt-20">
-                                        <span>Contactar</span>
+                                    <a href="/villas" class="btn-curve btn-color mt-20">
+                                        <span>View Villas</span>
                                     </a>
                                 </div>
                             </div>
@@ -45,20 +47,14 @@
         <div class="row">
             <div class="col-lg-6 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Nosotros</h6>
-                    <h2 class="mb-20 playfont">NALMIA</h2>
+                    <!-- <h6 class="sub-title">About Us</h6> -->
+                    <h2 class="mb-20 playfont" style="font-size: 3rem;">NALMIA</h2>
                     <p>
-                        Nuestro equipo internacional está enamorado de Baja California Sur. Nos apasiona la arquitectura
-                        y el diseño. Nuestro equipo combina estándares europeos, enfoque moderno y experiencia en
-                        construcción.
-                    </p>
-                    <ul>
-                        <li>Calidad</li>
-                        <li>Servicio</li>
-                        <li>Inversión</li>
-                    </ul>
-                    <a href="#contacto" class="btn-curve btn-color mt-30">
-                        <span>Contáctanos</span>
+                        High-end Real Estate Developer. <br>
+                        Building the future of Baja California Sur.
+                    </p> <br><br><br>
+                    <a href="#contact" class="btn-curve btn-color mt-30">
+                        <span>Contact Us</span>
                     </a>
                 </div>
             </div>
@@ -70,26 +66,22 @@
                         </div>
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="/img/06.jpg" alt="">
+                                <img src="/img/06.jpg?=1" alt="">
                             </div>
                         </div>
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="/img/05.jpg" alt="">
+                                <img src="/img/05.jpg?=1" alt="">
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="img wow imago d-none d-md-block">
-                                <img src="/img/04.jpg" alt="">
+                                <img src="/img/04.jpg?=1" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-
-        <div class="img-beige">
-            <img src="/img/28.png" alt="">
         </div>
     </div>
 </section>
@@ -102,15 +94,15 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Diseños Innovadores</h6>
-                    <h2 class="mb-20 playfont fz-50" style="margin-bottom: 2rem;">NALMIA Villas</h2>
+                    <h6 class="sub-title">Innovative Designs</h6>
+                    <h2 class="mb-20 playfont" style="margin-bottom: 2rem;">Villas NALMIA </h2>
                     <p style="margin-bottom: 2rem;">
-                        Los diseños impresionantes complementan la belleza natural de Los Barriles y sus alrededores.
+                        Breathtaking designs compliment the raw beauty of Los Barriles and it’s surroundings.
                         <br>
-                        Una interpretación moderna de la estética tradicional.
+                        A modern interpretation of traditional aesthetics.
                     </p>
                     <a href="/villas" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
-                        <span>Ver Villas</span>
+                        <span>View Villas</span>
                     </a>
                 </div>
             </div>
@@ -122,7 +114,7 @@
         </div>
         <div class="col-md-3"></div>
     </div>
-    <div class="bg-img pat valign text-center" data-background="/img/09.jpg">
+    <div class="bg-img pat valign text-center" data-background="/img/32.jpg">
         <!-- <img src="/img/02.jpg" alt="" srcset=""> -->
 
     </div>
@@ -136,15 +128,14 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, un
-                            paraíso viviente.</h2>
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, a
+                            living paradise</h2>
                         <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
-                            Vive la paz y la libertad que la naturaleza de Baja California Sur tiene para ti. <br>
-                            Experimenta un estilo de vida único y
-                            saludable.
+                            Live peace and freedom in an untouched nature. <br> Experiment a unique and healthy
+                            lifestyle.
                         </p>
                         <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
-                            <span>Explorar</span>
+                            <span>Explore</span>
                         </a>
                     </div>
                 </div>
@@ -164,7 +155,7 @@
                     <div class="row">
                         <div class="col-md-8 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="/img/06.jpg" alt="">
+                                <img src="/img/34.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-4 mb-20">
@@ -173,12 +164,12 @@
 
                         <div class="col-md-7 wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="/img/05.jpg" alt="">
+                                <img src="/img/33.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="img wow imago d-none d-md-block">
-                                <img src="/img/04.jpg" alt="">
+                                <img src="/img/35.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -187,40 +178,29 @@
             <div class="col-md-1"></div>
             <div class="col-lg-5 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Una inversión altamente rentable</h6>
+                    <h6 class="sub-title">A profitable investment</h6>
                     <h2 class="mb-20 playfont">NALMIA Development</h2>
                     <p>
-                        NALMIA es un desarrollador inmobiliario de alta gama comprometido con la creación del futuro de
-                        Baja California Sur. Nuestra pasión es transformar paisajes en destinos de ensueño, ofreciendo
-                        propiedades excepcionales que fusionan el lujo con la belleza natural.
-                    </p>
-                    <ul>
-                        <li>Calidad</li>
-                        <li>Servicio</li>
-                        <li>Inversión</li>
-                    </ul>
-                    <a href="/investment" class="btn-curve btn-color mt-30">
-                        <span>Explorar</span>
+                        An opportunity to create a self-sustaining investment which generates high income monthly.
+
+                    </p> <br><br><br>
+                    <a href="/bcs" class="btn-curve btn-color mt-30">
+                        <span>Explore</span>
                     </a>
                 </div>
             </div>
         </div>
     </div>
-    <div class="img-oscura">
-        <img src="/img/28.png" alt="">
-    </div>
 </section>
 
 
-
-<!-- ==================== Start Works ==================== -->
 <section class="work-carousel metro section-padding dark">
-    <div class="container-fluid">
+    <div class="container-fluid d-none d-md-block">
         <div class="container">
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Nuestra galería</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
                     </div>
                 </div>
             </div>
@@ -231,35 +211,37 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/17.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/38.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/04.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/36.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/07.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/39.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/05.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/37.jpg">
                                 </div>
 
                             </div>
                         </div>
+
+
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" data-background="/img/06.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/40.jpg">
                                 </div>
 
                             </div>
@@ -279,79 +261,69 @@
     </div>
 </section>
 
-<!-- ==================== End Works ==================== -->
-<section class="contact" id="contacto">
-    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);background-size: contain;">
+
+
+<section class="work-carousel metro section-padding dark  d-block d-md-none">
+    <div class="container-fluid d-block d-md-none">
         <div class="container">
-            <h6 class="sub-title">Contáctanos</h6>
-            <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>
-            <p>
-                ¿Estás listo para conocer más sobre las Villas NALMIA?, ¡nosotros estaríamos encantados de ayudarte!.
-                Por
-                favor, completa el formulario a continuación y un representante se pondrá en contacto contigo en breve.
-            </p>
-            <div class="row contacto-index">
-
-                <div class="col-md-6">
-                    <div class="col-lg-12">
-                        <div class="item">
-                            <span class="icon pe-7s-phone"></span>
-                            <div class="cont">
-                                <h6 class="custom-font">Mándanos WhatsApp</h6>
-                                <p><a href="tel:1234567890"> +52 123 456 7890</a></p>
-                            </div>
-                        </div>
+            <div class="section-head text-center">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8 col-sm-10">
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
                     </div>
-                    <div class="col-lg-12">
-                        <div class="item">
-                            <span class="icon pe-7s-mail-open"></span>
-                            <div class="cont">
-                                <h6 class="custom-font">Correo</h6>
-                                <p><a href="mailto:info@nalmia.com">info@nalmia.com</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="item">
-                            <span class="icon pe-7s-map"></span>
-                            <div class="cont">
-                                <h6 class="custom-font">Dirección</h6>
-                                <p>Los Barriles</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 form" style="padding: 0;">
-                    <form id="contact-form" method="post" action="">
-                        <div class="messages"></div>
-                        <div class="controls">
-                            <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Nombre * " required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <input id="form_email" type="email" name="email" placeholder="Correo *" required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Teléfono *" required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4" required="required"></textarea>
-                            </div>
-
-                            <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
-                        </div>
-                    </form>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container-fluid">
         <div class="row">
+            <div class="col-lg-12 no-padding">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/43.jpg">
+                                </div>
 
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/41.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/44.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/42.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="content wow fadeInUp" data-wow-delay=".3s">
+                                <div class="item-img bg-img wow imago" data-background="/img/45.jpg">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- slider setting -->
+                    <div class="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer">
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                    <div class="swiper-button-prev swiper-nav-ctrl prev-ctrl cursor-pointer">
+                        <i class="fas fa-chevron-left"></i>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

@@ -1,5 +1,5 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign parallaxie" data-background="/img/20.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign"  style="background-position: center !important;" data-background="/img/46.jpg" data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,13 +22,18 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-12">
-                <h2 class="text-center">East Cape</h2>
-                <div class="txt-cont">
-                    <p class="mb-20">
-                        Observa el atardecer desde una playa desierta. Adéntrate en un bosque de gigantes cactus cardón.
-                        Contempla el deslumbrante cielo estrellado desde una isla remota. Siente la energía de una
-                        inmensa ballena gris.
+            <div class="col-lg-3 col-12 col-md-4">
+                <div class="htit">
+                    <h4 class="fz-50">East Cape</h4>
+                </div>
+            </div>
+            <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
+                <div class="text">
+                    <p>
+                        Watch the sunset from an empty beach. Walk into
+                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
+                        the
+                        energy of a giant grey whale.
                     </p>
                 </div>
             </div>
@@ -46,16 +51,17 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <img src="/img/07.jpg" alt="">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
+                <img src="/img/31.jpg?=1" alt="">
             </div>
-            <div class="col-lg-6">
-                <h2>Una increíble naturaleza</h2>
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
+                <h2>An exceptional nature</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Entre las playas más hermosas de México. Situado entre la Sierra de la Laguna y el Mar de
-                        Cortés.
-                        Cerca del Parque Natural de Cabo Pulmo y las cascadas y aguas termales naturales de Santiago.
+                        Among the most beautiful beaches of Mexico. <br>
+                        Located between the Sierra de la Laguna and the sea of Cortez. <br> Nearby of the natural parc
+                        of
+                        Cabo Pulmo and Santiago’s natural waterfalls and hot springs.
                     </p>
                 </div>
             </div>
@@ -69,19 +75,20 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <h2>Una vida silvestre excepcional</h2>
+            <div class="col-lg-6 mb-3 mt-3 order-1 order-md-0">
+                <h2>A unique wildlife</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Donde la biodiversidad de una tierra especial se encuentra con el acuario del mundo. Haz una
-                        caminata entre una sorprendente diversidad de cactus endémicos. Observa una amplia variedad de
-                        aves locales. Nada entre delfines y peces tropicales. Observa el anidamiento de tortugas por la
-                        noche.
+                        Where a special land biodiversity meets the aquarium of the world. Hike into an amazing
+                        diversity of endemic cacti. <br>
+                        Observe a large variety of local birds. <br>
+                        Swim among dolphins and tropical fishes. <br>
+                        Look at the turtle nesting at night.
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <img src="/img/15.jpg" alt="">
+            <div class="col-lg-6 mb-3 mt-3 order-0 order-md-1">
+                <img src="/img/30.jpg" alt="">
             </div>
 
         </div>
@@ -94,15 +101,16 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
                 <img src="/img/team/12.jpg" alt="">
             </div>
-            <div class="col-lg-6">
-                <h2>Una cultura que sigue creciendo</h2>
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
+                <h2>A living culture</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        "Descubre pueblos de pescadores. Disfruta de fiestas tradicionales locales. Enamórate de la
-                        música tradicional mexicana.
+                        Discover fishermen villages. <br>
+                        Enjoy local traditional fiestas. <br>
+                        Fall in love with the traditional Mexican music.
                     </p>
                 </div>
             </div>
@@ -114,16 +122,17 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <h2>Una exquisita gastronomía</h2>
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
+                <h2>A delicious gastronomy</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Disfruta de la pesca del día. Prueba alimentos orgánicos de ranchos locales. Aprecia las frutas
-                        silvestres del campo.
+                        Enjoy the fish of the day. <br>
+                        Try organic food from local ranchos. <br>
+                        Appreciate wild fruits from the countryside.
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-1">
                 <img src="/img/16.jpg" alt="">
             </div>
 
@@ -135,16 +144,16 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <img src="/img/23.jpg" alt="">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-0">
+                <img src="/img/23.jpg?=1" alt="">
             </div>
-            <div class="col-lg-6">
-                <h2>Vida saludable</h2>
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
+                <h2>A healthy life</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Disfruta de actividades al aire libre o momentos de tranquilidad. Participa en torneos de pesca
-                        en el mar de clase mundial. Pon a prueba tus habilidades en torneos de golf. Relájate durante un
-                        día completo en un spa.
+                        Enjoy outdoor activities or peaceful moments. <br> Take part in world class sea fishing
+                        tournaments. <br>
+                        Test yourself at golf tournaments. <br> Relax a full day in a spa.
                     </p>
                 </div>
             </div>
@@ -155,73 +164,19 @@
 <section class="about section-padding color-claro">
     <div class="container">
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-6">
-                <h2>Una comunidad activa</h2>
+            <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
+                <h2>A vibrant community</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Conoce a expatriados estadounidenses y a locales acogedores. Participa en las asociaciones
-                        locales y proyectos.
+                        Meet American expats and welcoming locals. <br> Participate in the local associations and
+                        projects.
+
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <img src="/img/24.jpg" alt="">
+            <div class="col-lg-6 mt-3 mb-3 order-0 order-md-1">
+                <img src="/img/24.jpg?=1" alt="">
             </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="contact">
-    <div class="info bg-gray pt-80 pb-80" style="background-image: url(/img/nalmia.png?=1);background-size: contain;">
-        <div class="container">
-            <h6 class="sub-title">Contáctanos</h6>
-            <h2 class="mb-20 playfont">Descubre más sobre NALMIA</h2>
-            <p>
-                ¿Estás listo para conocer más sobre las Villas NALMIA?, ¡nosotros estaríamos encantados de ayudarte!.
-                Por
-                favor, completa el formulario a continuación y un representante se pondrá en contacto contigo en breve.
-            </p>
-            <div class="row contacto-index">
-
-                <div class="col-md-6">
-                    <img src="/img/17.jpg" alt="">
-                </div>
-
-                <div class="col-lg-6 form" style="padding: 0;">
-                    <form id="contact-form" method="post" action="">
-                        <div class="messages"></div>
-                        <div class="controls">
-                            <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Nombre * "
-                                    required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <input id="form_email" type="email" name="email" placeholder="Correo *"
-                                    required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="Teléfono *"
-                                    required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <textarea id="form_message" name="message" placeholder="Mensaje * " rows="4"
-                                    required="required"></textarea>
-                            </div>
-
-                            <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row">
-
         </div>
     </div>
 </section>
