@@ -75,14 +75,14 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 mb-3 mt-3 order-1 order-md-0">
-                <h2>A unique wildlife</h2>
+                <h2>Una fauna única</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Where a special land biodiversity meets the aquarium of the world. Hike into an amazing
-                        diversity of endemic cacti. <br>
-                        Observe a large variety of local birds. <br>
-                        Swim among dolphins and tropical fishes. <br>
-                        Look at the turtle nesting at night.
+                        Donde una biodiversidad terrestre especial se encuentra con el acuario del mundo. Haz senderismo
+                        entre una sorprendente diversidad de cactus endémicos. <br>
+                        Observa una amplia variedad de aves locales. <br>
+                        Nada entre delfines y peces tropicales. <br>
+                        Observa la anidación de tortugas por la noche.
                     </p>
                 </div>
             </div>
@@ -104,12 +104,12 @@
                 <img src="/img/team/12.jpg" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>A living culture</h2>
+                <h2>Una cultura viva</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Discover fishermen villages. <br>
-                        Enjoy local traditional fiestas. <br>
-                        Fall in love with the traditional Mexican music.
+                        Descubre pueblos de pescadores. <br>
+                        Disfruta de fiestas tradicionales locales. <br>
+                        Enamórate de la música tradicional mexicana.
                     </p>
                 </div>
             </div>
@@ -122,12 +122,12 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
-                <h2>A delicious gastronomy</h2>
+                <h2>Una deliciosa gastronomía</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Enjoy the fish of the day. <br>
-                        Try organic food from local ranchos. <br>
-                        Appreciate wild fruits from the countryside.
+                        Disfruta del pescado del día. <br>
+                        Prueba alimentos orgánicos de ranchos locales. <br>
+                        Aprecia frutas silvestres del campo.
                     </p>
                 </div>
             </div>
@@ -147,12 +147,12 @@
                 <img src="/img/23.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>A healthy life</h2>
+                <h2>Una vida saludable</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Enjoy outdoor activities or peaceful moments. <br> Take part in world class sea fishing
-                        tournaments. <br>
-                        Test yourself at golf tournaments. <br> Relax a full day in a spa.
+                        Disfruta de actividades al aire libre o momentos de paz. <br> TParticipa en torneos de pesca en
+                        el mar de clase mundial. <br>
+                        Supérate en torneos de golf.<br> Relájate durante todo un día en un spa.
                     </p>
                 </div>
             </div>
@@ -164,11 +164,11 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-0">
-                <h2>A vibrant community</h2>
+                <h2>Una comunidad vibrante</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Meet American expats and welcoming locals. <br> Participate in the local associations and
-                        projects.
+                        Conoce a expatriados estadounidenses y locales acogedores. <br> Participa en las asociaciones y
+                        proyectos locales.
 
                     </p>
                 </div>
