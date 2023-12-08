@@ -33,7 +33,7 @@
                             <img style="margin-top: 25px;" src="/img/50.jpg" alt="">
                         </div>
                         <div class="col-lg-6  form">
-                            <form method="post" action="/php/contact.php">
+                            <form method="post" action="/php/contactEsp.php">
                                 <div class="messages"></div>
                                 <div class="controls">
                                     <div class="form-group">

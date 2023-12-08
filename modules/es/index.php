@@ -1,3 +1,9 @@
+<?
+if (isset($_GET)) {
+  include_once("php/msg2.php");
+}
+?>
+
 <header class="slider text-center">
     <div class="swiper-container">
         <div class="swiper-wrapper">

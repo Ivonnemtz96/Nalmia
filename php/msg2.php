@@ -51,25 +51,25 @@ if (isset($_GET)) {
         case '0':
             echo'<div id="alert" class="mt-50 alert success">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'Your message has been sent!';
+            echo'¡Tu mensaje ha sido enviado!';
             echo'</div>';
             break;
         case '1':
             echo'<div id="alert" class="mt-50 alert warning">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'All fields must be filled in!';
+            echo'¡Todos los campos deben de estar llenos!';
             echo'</div>';
             break;
         case '2':
             echo'<div id="alert" class="mt-50 alert danger">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'¡Your message could not be sent, please try again later!';
+            echo'¡Tu mensaje no se pudo enviar, intenta más tarde!';
             echo'</div>';
             break;
         case '3':
             echo'<div id="alert" class="mt-50 alert warning">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'Verify that all fields are filled in!';
+            echo'¡Verifica que todos los campos estén llenos!';
             echo'</div>';
             break;
     }

@@ -12,7 +12,7 @@
                     <img src="/img/50.jpg" alt="" style="margin-bottom: 2rem;">
                 </div>
                 <div class="col-lg-6 form" style="padding: 0;">
-                    <form method="post" action="/php/contact.php">
+                    <form method="post" action="/php/contactEsp.php">
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
