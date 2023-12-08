@@ -4,15 +4,15 @@
             <h6 class="sub-title">Contáctanos</h6>
             <h2 class="mb-20 playfont">Saber más sobre NALMIA</h2>
             <p>
-                Are you ready to learn more about NALMIA Villas? We would be delighted to assist you. Please complete
-                the form below, and a representative will be in touch with you shortly.
+                ¿Estás listo para saber más sobre NALMIA Villas? Estaremos encantados de ayudarte. Por favor, completa
+                el formulario a continuación y un representante se pondrá en contacto contigo en breve.
             </p>
             <div class="row contacto-index" style="margin-bottom: -2rem;">
                 <div class="col-md-6">
                     <img src="/img/50.jpg" alt="" style="margin-bottom: 2rem;">
                 </div>
                 <div class="col-lg-6 form" style="padding: 0;">
-                    <form  method="post" action="/php/contact.php">
+                    <form method="post" action="/php/contact.php">
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
