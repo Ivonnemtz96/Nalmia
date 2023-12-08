@@ -150,7 +150,7 @@
                 <h2>Una vida saludable</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Disfruta de actividades al aire libre o momentos de paz. <br> TParticipa en torneos de pesca en
+                        Disfruta de actividades al aire libre o momentos de paz. <br> Participa en torneos de pesca en
                         el mar de clase mundial. <br>
                         Supérate en torneos de golf.<br> Relájate durante todo un día en un spa.
                     </p>

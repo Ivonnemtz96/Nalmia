@@ -1,7 +1,10 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
 <html lang="es">
 <?php
-    $title = 'Inicio';
+    $title = 'Contacto';
     $index = 'active';
     include("includes/head.php");
 ?>
@@ -10,9 +13,9 @@
 
     <?php
         include("includes/preloader.php");
-        include("includes/header.php");
-        include("modules/contact.php");
-        include("includes/footer.php");
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/contact.php');
+        include('modules/'.$lenguaje.'/footer.php');
         include("includes/scripts.php");
     ?>
 </body>
