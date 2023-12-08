@@ -1,7 +1,10 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
 <html lang="es">
 <?php
-    $title = 'Inicio';
+    $title = 'BCS';
     $index = 'active';
     include("includes/head.php");
 ?>
@@ -10,10 +13,10 @@
 
     <?php
         include("includes/preloader.php");
-        include("includes/header.php");
-        include("modules/bcs.php");
-        include("modules/form-paginas.php");
-        include("includes/footer.php");
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/bcs.php');
+        include('modules/'.$lenguaje.'/form-paginas.php');
+        include('modules/'.$lenguaje.'/footer.php');
         include("includes/scripts.php");
     ?>
 </body>
