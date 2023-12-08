@@ -13,7 +13,7 @@
                                         <img class="" src="/img/logo.png?=2" alt="Nalmia development">
                                     </h1>
                                     <a href="/villas" class="btn-curve btn-color mt-20">
-                                        <span>View Villas</span>
+                                        <span>Ver Villas</span>
                                     </a>
                                 </div>
                             </div>
@@ -50,11 +50,11 @@
                     <!-- <h6 class="sub-title">About Us</h6> -->
                     <h2 class="mb-20 playfont" style="font-size: 3rem;">NALMIA</h2>
                     <p>
-                        High-end Real Estate Developer. <br>
-                        Building the future of Baja California Sur.
+                        Desarrollador inmobiliario de alta gama. <br>
+                        onstruyendo el futuro de Baja California Sur.
                     </p> <br><br><br>
                     <a href="#contact" class="btn-curve btn-color mt-30">
-                        <span>Contact Us</span>
+                        <span>Contáctanos</span>
                     </a>
                 </div>
             </div>
@@ -94,15 +94,15 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="extra wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">Innovative Designs</h6>
+                    <h6 class="sub-title">Diseños innovadores</h6>
                     <h2 class="mb-20 playfont" style="margin-bottom: 2rem;">Villas NALMIA </h2>
                     <p style="margin-bottom: 2rem;">
-                        Breathtaking designs compliment the raw beauty of Los Barriles and it’s surroundings.
+                        Diseños impresionantes que complementan la belleza natural de Los Barriles y sus alrededores.
                         <br>
-                        A modern interpretation of traditional aesthetics.
+                        Una interpretación moderna de estéticas tradicionales.
                     </p>
                     <a href="/villas" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
-                        <span>View Villas</span>
+                        <span>Ver Villas</span>
                     </a>
                 </div>
             </div>
@@ -128,14 +128,15 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, a
-                            living paradise</h2>
+                        <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">
+                            East Cape, paraíso viviente.
+                        </h2>
                         <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
-                            Live peace and freedom in an untouched nature. <br> Experiment a unique and healthy
-                            lifestyle.
+                            Vive en paz y libertad en una naturaleza intocada. <br> Experimenta un estilo de vida único
+                            y saludable.
                         </p>
                         <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
-                            <span>Explore</span>
+                            <span>Explorar</span>
                         </a>
                     </div>
                 </div>
@@ -178,14 +179,13 @@
             <div class="col-md-1"></div>
             <div class="col-lg-5 valign">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h6 class="sub-title">A profitable investment</h6>
+                    <h6 class="sub-title">Una inversión rentable</h6>
                     <h2 class="mb-20 playfont">NALMIA Development</h2>
                     <p>
-                        An opportunity to create a self-sustaining investment which generates high income monthly.
-
+                        Una oportunidad para crear una inversión autosostenible que genere altos ingresos mensuales.
                     </p> <br><br><br>
                     <a href="/bcs" class="btn-curve btn-color mt-30">
-                        <span>Explore</span>
+                        <span>Explorar</span>
                     </a>
                 </div>
             </div>
@@ -200,7 +200,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Nuestra Galería</h4>
                     </div>
                 </div>
             </div>
@@ -211,28 +211,32 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/38.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/38.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/36.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/36.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/39.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/39.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/37.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/37.jpg">
                                 </div>
 
                             </div>
@@ -241,7 +245,8 @@
 
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/40.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/40.jpg">
                                 </div>
 
                             </div>
@@ -269,7 +274,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Our Gallery</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s" style="color: #000;">Nuestra Galería</h4>
                     </div>
                 </div>
             </div>
