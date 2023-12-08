@@ -33,14 +33,14 @@
                 <!-- navbar links -->
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                         <li class="nav-item"><a class="nav-link" href="/villas">Villas</a></li>
                         <li class="nav-item"><a class="nav-link" href="/bcs">B.C.S</a></li>
                         <!-- <li class="nav-item"><a class="nav-link" href="/investment">Investments</a></li> -->
-                        <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/contact">Contacto</a></li>
                         <li class="d-block d-md-none">
-                            <!-- <a href="#0"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a> -->
-                            <a href="#0"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
+                            <a href="?lang=es"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a>
+                            <a href="?lang=en"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
                         </li>
                     </ul>
                 </div>
@@ -50,8 +50,8 @@
                 <div class="social-icon">
                     <a href="https://www.facebook.com/NalmiaDevelopment?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://instagram.com/nalmiadevelopment?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <!-- <a href="#0"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a> -->
-                    <a href="#0"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
+                    <a href="?lang=es"><img style="width: 1.5rem;" src="/img/esp.png" alt=""></a>
+                    <a href="?lang=en"><img style="width: 1.5rem;" src="/img/eng.png" alt=""></a>
                 </div>
             </div>
         </div>

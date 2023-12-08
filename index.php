@@ -1,5 +1,8 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <?php
     $title = 'Inicio';
     $index = 'active';
@@ -14,11 +17,11 @@ if (isset($_GET)) {
 
     <?php
         include("includes/preloader.php");
-        include("includes/header.php");
-        include("modules/index.php");
-        include("modules/form-paginas.php");
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/index.php');
+        include('modules/'.$lenguaje.'/form-paginas.php');
 
-        include("includes/footer.php");
+        include('modules/'.$lenguaje.'/footer.php');
         include("includes/scripts.php");
     ?>
 </body>
