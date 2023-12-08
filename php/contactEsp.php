@@ -27,7 +27,7 @@ if (!validarVariable($nombre) || !validarVariable($tel) || !validarVariable($mai
   mandarError("1");
 }
 
-$correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("contact@nalmia.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Email: ", $mail);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
