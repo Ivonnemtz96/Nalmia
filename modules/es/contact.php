@@ -21,8 +21,8 @@
                     <h6 class="sub-title">Contáctanos</h6>
                     <h2 class="mb-20 playfont">Ver más acerca de NALMIA</h2>
                     <p>
-                        Paradise is calling. <br>
-                        Contact NALMIA Villas and secure your spot in this corner of elegance.
+                        El paraíso te está llamando. <br>
+                        Ponte en contacto con NALMIA Villas y asegura tu lugar en este rincón de elegancia."
                     </p>
                 </div>
             </div>
