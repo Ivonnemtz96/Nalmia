@@ -1,5 +1,6 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign"  style="background-position: center !important;" data-background="/img/46.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign" style="background-position: center !important;" data-background="/img/46.jpg"
+    data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -24,16 +25,15 @@
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-3 col-12 col-md-4">
                 <div class="htit">
-                    <h4 class="fz-50">East Cape</h4>
+                    <h4 class="fz-50">Cabo del Este</h4>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Watch the sunset from an empty beach. Walk into
-                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
-                        the
-                        energy of a giant grey whale.
+                        Observa el atardecer desde una playa desierta. Camina hacia un bosque de cactus gigantes
+                        cardones. Contempla el brillante cielo nocturno desde una isla remota. Siente la energía de una
+                        ballena gris gigante.
                     </p>
                 </div>
             </div>
@@ -55,13 +55,12 @@
                 <img src="/img/31.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>An exceptional nature</h2>
+                <h2>Una naturaleza excepcional</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Among the most beautiful beaches of Mexico. <br>
-                        Located between the Sierra de la Laguna and the sea of Cortez. <br> Nearby of the natural parc
-                        of
-                        Cabo Pulmo and Santiago’s natural waterfalls and hot springs.
+                        Entre las playas más hermosas de México. Ubicado entre la Sierra de la Laguna y el Mar de
+                        Cortés. Cerca del Parque Natural de Cabo Pulmo y las cascadas naturales y aguas termales de
+                        Santiago.
                     </p>
                 </div>
             </div>
