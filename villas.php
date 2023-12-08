@@ -1,7 +1,10 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
 <html lang="es">
 <?php
-    $title = 'Inicio';
+    $title = 'Villas';
     $index = 'active';
     include("includes/head.php");
 ?>
@@ -10,10 +13,10 @@
 
     <?php
         include("includes/preloader.php");
-        include("includes/header.php");
-        include("modules/es/villas.php");
-        include("modules/form-paginas.php");
-        include("includes/footer.php");
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/villas.php');
+        include('modules/'.$lenguaje.'/form-paginas.php');
+        include('modules/'.$lenguaje.'/footer.php');
         include("includes/scripts.php");
     ?>
 </body>

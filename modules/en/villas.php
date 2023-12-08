@@ -161,7 +161,7 @@
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                         <ul class="list-detalles d-md-block d-lg-block d-xl-none">
                             <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool.</li>
-                            <li style="list-style: disc;">Backyard with BQ <br>  area and Firepit.</li>
+                            <li style="list-style: disc;">Backyard with BBQ <br>  area and Firepit.</li>
                             <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola.</li>
                         </ul>
 
@@ -176,13 +176,13 @@
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                         <ul class="list-detalles d-md-block d-lg-block d-xl-none">
                             <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool</li>
-                            <li style="list-style: disc;">Backyard with BQ <br>  area and Firepit</li>
+                            <li style="list-style: disc;">Backyard with BBQ <br>  area and Firepit</li>
                             <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola</li>
                         </ul>
 
                         <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
                             <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
-                            <li style="list-style: disc;">Backyard with BQ area and Firepit</li>
+                            <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
                             <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
                         </ul>
                 </div>
