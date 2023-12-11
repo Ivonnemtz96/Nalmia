@@ -150,23 +150,23 @@
             <div class="col-12 col-md-4 col-lg-3 valign">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles">
-                        <li style="list-style: disc;">Edificio de 503 m<sup>2</sup></li>
-                        <li style="list-style: disc;">Terreno de 950 m<sup>2</sup></li>
+                        <li style="list-style: disc;">Edificio de 150 m<sup>2</sup></li>
+                        <li style="list-style: disc;">Terreno de 290 m<sup>2</sup></li>
                     </ul>
                 </div>
             </div>
             <div class="col-12 col-md-4 col-lg-3 valign d-none d-md-none d-lg-block d-xl-block" style="left: -4rem;">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
                     <ul class="list-detalles d-md-block d-lg-block d-xl-none">
-                        <li style="list-style: disc;">Patio al aire libre con piscina <br> de 22.86 m<sup>2</sup></li>
+                        <li style="list-style: disc;">Patio al aire libre con piscina <br> de 7 m<sup>2</sup></li>
                         <li style="list-style: disc;">Jardín trasero con <br> área de barbacoa y fogata.</li>
-                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 97.5 m<sup>2</sup>.</li>
+                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 30 m<sup>2</sup>.</li>
                     </ul>
 
                     <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                        <li style="list-style: disc;">Patio al aire libre con piscina de 22.86 m<sup>2</sup></li>
+                        <li style="list-style: disc;">Patio al aire libre con piscina de 7 m<sup>2</sup></li>
                         <li style="list-style: disc;">Jardín trasero con <br> área de barbacoa y fogata.</li>
-                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 97.5 m<sup>2</sup>.</li>
+                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 30 m<sup>2</sup>.</li>
                     </ul>
                 </div>
             </div>
@@ -175,13 +175,13 @@
                     <ul class="list-detalles d-md-block d-lg-block d-xl-none">
                         <li style="list-style: disc;">Outdoor Patio with <br> 75 sq ft pool</li>
                         <li style="list-style: disc;">Jardín trasero con <br> área de barbacoa y fogata.</li>
-                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 97.5 m<sup>2</sup>.</li>
+                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 30 m<sup>2</sup>.</li>
                     </ul>
 
                     <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                        <li style="list-style: disc;">Patio al aire libre con piscina de 22.86 m<sup>2</sup></li>
+                        <li style="list-style: disc;">Patio al aire libre con piscina de 7 m<sup>2</sup></li>
                         <li style="list-style: disc;">Jardín trasero con <br> área de barbacoa y fogata.</li>
-                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 97.5 m<sup>2</sup>.</li>
+                        <li style="list-style: disc;">Estacionamiento bajo <br> pérgola de 30 m<sup>2</sup>.</li>
                     </ul>
                 </div>
             </div>
