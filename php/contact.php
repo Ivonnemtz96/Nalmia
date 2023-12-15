@@ -51,6 +51,7 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
+
         header('location: /?msj='. $codigo_de_error);
         exit;   
     }
@@ -308,4 +309,5 @@ class Correo
     $enviado = mail($this->para, $this->titulo, $this->cuerpo, $this->cabeceras);
     return $enviado;
   }
+
 }
