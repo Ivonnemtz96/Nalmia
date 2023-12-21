@@ -69,7 +69,7 @@ if (isset($_GET)) {
         case '3':
             echo'<div id="alert" class="mt-50 alert warning">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'¡Verifica que todos los campos estén llenos!';
+            echo'reCAPTCHA no seleccionado';
             echo'</div>';
             break;
     }

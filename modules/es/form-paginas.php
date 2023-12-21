@@ -12,7 +12,7 @@
                     <img src="/img/50.jpg" alt="" style="margin-bottom: 2rem;">
                 </div>
                 <div class="col-lg-6 form" style="padding: 0;">
-                    <form method="post" action="/php/contactEsp.php">
+                    <form method="post" action="/php/archivo-esp.php">
                         <div class="messages"></div>
                         <div class="controls">
                             <div class="form-group">
@@ -21,7 +21,7 @@
                             </div>
 
                             <div class="form-group">
-                                <input id="form_email" type="email" name="mail" placeholder="Correo *"
+                                <input id="form_email" type="email" name="email" placeholder="Correo *"
                                     required="required">
                             </div>
 

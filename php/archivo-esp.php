@@ -1,0 +1,237 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/Exception.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/PHPMailer.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/SMTP.php");
+
+//Create an instance; passing `true` enables exceptions
+extract($_REQUEST);
+$codigo_de_error = "";
+
+$mail = new PHPMailer(true);
+
+/* Códigos de error
+0 -> Todo correcto
+1 -> Un campo vacío
+2 -> No se pudo enviar el mensaje, problema ajeno a validaciones
+3 -> No se seleccionó Captcha
+*/
+
+
+$captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
+if (!$captcha_es_valido) {
+    $codigo_de_error = "3";
+    header('location: /?msj='. $codigo_de_error);
+    if (isset($_GET)) {
+      include_once("php/msg.php");
+    }
+     exit;
+} else {
+try {
+    //Server settings
+    $mail->SMTPDebug = 0;                                       //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';    //SMTP username
+    $mail->Password   = 'qcfhrdmbpknobrar';                        //SMTP password
+    $mail->SMTPSecure = 'tls';                                  //Enable implicit TLS encryption
+    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
+    $slh = "Desert Travel Plus";
+    //Recipients
+    $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'nombre'); //QUIEN RECIB
+
+    //Content
+    $mail->isHTML(true); //ACEPTAR HTML
+    $mail->Subject = 'Descarga nuestro Brochure';
+
+    $mail->Body    = '<html xmlns="http://www.w3.org/1999/xhtml">
+
+          <head>
+              <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+              <meta content="width=mobile-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport">
+              <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+              <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+              <meta content="#EEEEEE" name="sr bgcolor">
+              <title>Contact Desert Travel Plus</title>
+              <style type="text/css">
+              @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+                  html,
+                  body {
+                      width: 100%;
+                      margin: 0;
+                  }
+          
+                  #divPadre {
+                      margin: 150px 20px;
+                      padding: 0 20px;
+                      font-family: "Montserrat", sans-serif;
+                  }
+          
+                  #divHijo {
+                      max-width: 650px;
+                      padding: 10px;
+                      margin: 150px auto;
+                      background-color: rgb(255, 255, 255);
+                      border-radius: 10px;
+                      font-family: "Montserrat", sans-serif;
+                      box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+                  }
+          
+                  b {
+                      color: #696969;
+                  }
+          
+                  p {
+                      margin-bottom: 5px;
+                      margin-top: 0;
+                  }
+                  
+                  p, h3 {
+                      color: #848484;
+                  }
+          
+                  a {
+                      text-decoration: none;
+                  }
+          
+                  .container {
+                      margin-top: 50px;
+                      display: flex;
+                      flex-direction: row;
+                      flex-wrap: wrap;
+                  }
+                  .pie-mensaje{
+
+                    text-align:center;
+                    font-family: "Montserrat", sans-serif;
+                  }
+                  .link-pdf{
+                    margin-top:2rem;
+                    margin-bottom:2rem;
+                  }
+                  .link-pdf a{
+                    color:#fff !important;
+                  }
+
+                  .descargar-pdf{
+                    border: #bbab9b 1px solid;
+                    background:#bbab9b;
+                    padding: 11px;
+                    margin-top: 30px;
+                    margin-bottom: 30px;
+                    border-radius: 10px;
+                  }
+                  .footer{
+                    margin-top:4rem;
+                    text-align:center;
+                    font-family: "Montserrat", sans-serif;
+                  }
+              </style>
+          </head>
+          
+          <body style="margin:0; padding:5px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #f4f4f4;">
+          
+              <div id="divPadre">
+          
+                  <div id="divHijo">
+                      <div style="margin: 20px 50px 50px 50px;">
+                          <div class="container">                    
+                              
+                              <div style="width:100%; display: inline-block;">
+          
+                                  <div style="margin-bottom: 30px;">
+                                  <div style="width:100%; display: inline-block;">
+          
+                                  <div style="margin-bottom: 30px;">
+                                    <p style="margin-bottom: 15px; font-family: "Montserrat", sans-serif;">
+                                    Estimado(a) ' . $nombre . ', <br> <br>
+
+                                    Gracias por su interés en Nalmia Villas. Estamos encantados de compartir con usted toda la información detallada que necesita. <br><br>
+                                    Adjunto encontrará un folleto detallado, que contiene toda la información esencial para
+                                    para que puedas visualizar tu futuro hogar. Planos, precios y mucho más te esperan en este
+                                    documento exclusivo. <br>
+                                    Para cualquier pregunta adicional o para discutir sus necesidades específicas, no dude en compartir con
+                                    para organizar una llamada ZOOM con uno de los miembros de nuestro equipo.
+                                    de nuestro equipo. <br><br>
+                                    Estamos aquí para guiarle a través de cada paso de su viaje hacia la realización de su
+                                    su sueño inmobiliario.
+                                    <br>
+                                    Saludos cordiales,
+                                    </p>
+                                    <div class="pie-mensaje">
+                                        <div class="col-md-12">
+                                            <h3 >Nalmia Development Team</h3>
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <img style="width:200px" src="https://demo.bananagroup.mx/img/logo-dark.jpg?=5">
+                                        </div>
+
+                                        <div class="col-md-12 link-pdf">
+                                            <a class="descargar-pdf"  href="https://demo.bananagroup.mx/-NALMIA Brochure-.pdf">Descargar Brochure</a>
+                                        </div>
+                                    </div>
+                                    
+                                      <p class="footer">
+                                        Todos los derechos reservados Banana Group Marketing 2023
+                                      </p>
+                                  </div>
+                              </div>            
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </body>
+          </html>
+          ';
+    $mail->CharSet = 'UTF-8';
+
+    $mail->send();
+    // Una vez que se mande el correo automático se procede a enviar los datos del formulario a Nalmia
+    require_once($_SERVER["DOCUMENT_ROOT"] . "/php/nalmia-esp.php");
+    $codigo_de_error = "0";
+    header('location: /?msj='. $codigo_de_error);
+    if (isset($_GET)) {
+      include_once("php/msg.php");
+    }
+     exit;
+} catch (Exception $e) {
+    $codigo_de_error = "2";
+    header('location: /?msj='. $codigo_de_error);
+    if (isset($_GET)) {
+      include_once("php/msg.php");
+    }
+     exit;
+}
+}
+
+function validarReCaptcha($g_recaptcha)
+    {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt(
+        $ch,
+        CURLOPT_POSTFIELDS,
+        "secret=6Lf92OAfAAAAAGGejKGqc94KGRbvBG1S9clILw2m&response=$g_recaptcha"
+    );
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+    $server_output = curl_exec($ch);
+    $json_response = json_decode($server_output);
+    $success = $json_response->success;
+    curl_close($ch);
+    return $success;
+    }
