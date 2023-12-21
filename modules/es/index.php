@@ -190,7 +190,7 @@ if (isset($_GET)) {
                     <p>
                         Una oportunidad para crear una inversión autosostenible que genere altos ingresos mensuales.
                     </p> <br><br><br>
-                    <a href="/bcs" class="btn-curve btn-color mt-30">
+                    <a hidden href="/bcs" class="btn-curve btn-color mt-30">
                         <span>Explorar</span>
                     </a>
                 </div>
