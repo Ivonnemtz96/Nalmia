@@ -37,18 +37,18 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';    //SMTP username
-    $mail->Password   = 'qcfhrdmbpknobrar';                        //SMTP password
-    $mail->SMTPSecure = 'tls';                                  //Enable implicit TLS encryption
+    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
+    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
-    $slh = "Desert Travel Plus";
+    $slh = "Nalmia Development";
     //Recipients
-    $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'nombre'); //QUIEN RECIB
+    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress($email, $nombre); //QUIEN RECIB
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML
@@ -62,7 +62,7 @@ try {
               <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
               <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
               <meta content="#EEEEEE" name="sr bgcolor">
-              <title>Contact Desert Travel Plus</title>
+              <title>Brochure Nalmia Development</title>
               <style type="text/css">
               @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
                   html,
@@ -72,15 +72,15 @@ try {
                   }
           
                   #divPadre {
-                      margin: 150px 20px;
+                      margin: 47px 13px;
                       padding: 0 20px;
                       font-family: "Montserrat", sans-serif;
                   }
           
                   #divHijo {
-                      max-width: 650px;
+                      max-width: 100%;
                       padding: 10px;
-                      margin: 150px auto;
+                      margin: 40px auto;
                       background-color: rgb(255, 255, 255);
                       border-radius: 10px;
                       font-family: "Montserrat", sans-serif;
@@ -144,7 +144,7 @@ try {
               <div id="divPadre">
           
                   <div id="divHijo">
-                      <div style="margin: 20px 50px 50px 50px;">
+                      <div style="padding:20px;">
                           <div class="container">                    
                               
                               <div style="width:100%; display: inline-block;">

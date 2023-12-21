@@ -37,17 +37,17 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';    //SMTP username
-    $mail->Password   = 'qcfhrdmbpknobrar';                        //SMTP password
-    $mail->SMTPSecure = 'tls';                                  //Enable implicit TLS encryption
+    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
+    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Nalmia Development";
     //Recipients
-    $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
     $mail->addAddress($email, $nombre); //QUIEN RECIBE
 
     //Content
@@ -72,20 +72,20 @@ try {
                   }
           
                   #divPadre {
-                      margin: 150px 20px;
-                      padding: 0 20px;
-                      font-family: "Montserrat", sans-serif;
-                  }
-          
-                  #divHijo {
-                      max-width: 650px;
-                      padding: 10px;
-                      margin: 150px auto;
-                      background-color: rgb(255, 255, 255);
-                      border-radius: 10px;
-                      font-family: "Montserrat", sans-serif;
-                      box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
-                  }
+                    margin: 47px 13px;
+                    padding: 0 20px;
+                    font-family: "Montserrat", sans-serif;
+                }
+        
+                #divHijo {
+                    max-width: 100%;
+                    padding: 10px;
+                    margin: 40px auto;
+                    background-color: rgb(255, 255, 255);
+                    border-radius: 10px;
+                    font-family: "Montserrat", sans-serif;
+                    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+                }
           
                   b {
                       color: #696969;
@@ -144,7 +144,7 @@ try {
               <div id="divPadre">
           
                   <div id="divHijo">
-                      <div style="margin: 20px 50px 50px 50px;">
+                      <div style="padding:20px;">
                           <div class="container">                    
                               
                               <div style="width:100%; display: inline-block;">
