@@ -87,7 +87,6 @@
                         DC Arq : Architect <br>
                         Mexlaw : Lawyer and legal advice <br>
                         De La Torre : Accounting services <br>
-                        Wolf Property : Property management
                     </p>
                 </div>
             </div>
