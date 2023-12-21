@@ -59,7 +59,7 @@ if (isset($_GET)) {
                         Desarrollador inmobiliario de alta gama. <br>
                         onstruyendo el futuro de Baja California Sur.
                     </p> <br><br><br>
-                    <a href="#contact" class="btn-curve btn-color mt-30">
+                    <a href="/contact" class="btn-curve btn-color mt-30">
                         <span>Contáctanos</span>
                     </a>
                 </div>

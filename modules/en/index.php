@@ -59,7 +59,7 @@ if (isset($_GET)) {
                         High-end Real Estate Developer. <br>
                         Building the future of Baja California Sur.
                     </p> <br><br><br>
-                    <a href="#contact" class="btn-curve btn-color mt-30">
+                    <a href="/contact" class="btn-curve btn-color mt-30">
                         <span>Contact Us</span>
                     </a>
                 </div>
