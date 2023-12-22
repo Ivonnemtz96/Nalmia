@@ -22,7 +22,7 @@
                     <h2 class="mb-20 playfont">Ver más acerca de NALMIA</h2>
                     <p>
                         El paraíso te está llamando. <br>
-                        Ponte en contacto con NALMIA Villas y asegura tu lugar en este rincón de elegancia."
+                        Ponte en contacto con NALMIA Villas y asegura tu lugar en este rincón de elegancia.
                     </p>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                             <img style="margin-top: 25px;" src="/img/50.jpg" alt="">
                         </div>
                         <div class="col-lg-6  form">
-                            <form method="post" action="/php/archivo-esp.php">
+                            <form method="post" action="/php/form-contacto.php">
                                 <div class="messages"></div>
                                 <div class="controls">
                                     <div class="form-group">
@@ -46,9 +46,29 @@
                                             required="required">
                                     </div>
 
-                                    <div class="form-group">
-                                        <input id="form_name" type="text" name="tel" placeholder="Teléfono *"
-                                            required="required">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <label for="phone-number-country" class="floating">País</label>
+                                                <select class="form-control" id="phone-number-country"
+                                                    name="phone-number-country" autocomplete="off"></select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <div class="phone_number">
+                                                    <div hidden class="form-control phone_number_prefix"
+                                                        id="phone_number_prefix" name="phone_number_prefix">+1</div>
+                                                    <label for="phone-number-country" class="floating">Teléfono
+                                                        *</label>
+                                                    <input style="height: 2.6rem;" class="form-control"
+                                                        id="phone_number" name="phone_number" type="tel" required
+                                                        autocomplete="off">
+                                                    <input type="hidden" id="phone_number_full"
+                                                        name="phone_number_full" />
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
 
                                     <div class="form-group">

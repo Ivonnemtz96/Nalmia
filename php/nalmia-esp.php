@@ -18,18 +18,18 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.nalmia.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';    //SMTP username
-    $mail->Password   = 'qcfhrdmbpknobrar';                        //SMTP password
-    $mail->SMTPSecure = 'tls';                                  //Enable implicit TLS encryption
+    $mail->Username   = 'contact@nalmia.com';    //SMTP username
+    $mail->Password   = '0Gg754ODxW';                        //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
-    $slh = "Datos Formulario";
+    $slh = "Nalmia Development";
     //Recipients
-    $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'nombre'); //QUIEN RECIB
+    $mail->setFrom('contact@nalmia.com', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress('contact@nalmia.com', 'Nalmia Development'); //QUIEN RECIB
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML
@@ -92,56 +92,38 @@ try {
                       flex-wrap: wrap;
                   }
               </style>
-          
-          
-          
           </head>
           
           <body
               style="margin:0; padding:5px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #f4f4f4;">
           
               <div id="divPadre">
-          
                   <div id="divHijo">
-          
-          
                       <div style="margin: 20px 50px 50px 50px;">
                           <div>
-                              <img style="max-width: 100px;" src="https://deserttravelplus.com/img/logo-color-1.png" alt="">
+                            <img style="width:200px" src="https://nalmia.com/img/logo-dark.jpg?=5">
                           </div>
-          
                           <div class="container">                    
+                                <div style="width:100%; display: inline-block;">          
+                                        <div style="margin-bottom: 30px;">
+                                                <h3><b>¡Un usuario nuevo llenó el formulario!</h3>
+                                                <h3>Estos son los datos que han proporcionado:</h3>
+                                                <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
+                                                <p style="margin-bottom: 15px;"><b>Correo: </b>' . $email . '</p>
+                                                <p style="margin-bottom: 15px;"><b>Teléfono: </b>+' . $phone_number_full . '</p>
+                                                <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Banana Group Marketing 2023</p>
+                                        </div>
+                                </div>            
+                            </div>
+                        </div>
                               
-                              <div style="width:100%; display: inline-block;">          
-                                  <div style="margin-bottom: 30px;">
-                                        <h3><b>¡Tienes una nueva cotización!</h3>
-                                        <h3>Estos son los datos que han proporcionado:</h3>
-                                        <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $tel . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Mensaje: </b>' . $msj . '</p>
-                                        <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Banana Group Marketing 2023</p>
-                                  </div>
-                              </div>
-            
-                                      <p style="margin-bottom: 15px; font-size: 12px;">Check our cancellation and refund policy <a href="https://www.deserttravelplus.com/es/terminos-y-condiciones.html">here</a> (https://www.deserttravelplus.com/es/terminos-y-condiciones.html)</p>
-                                  
-                                  </div>
-                              </div>
-                              
-                          </div>
+                    </div>
           
           
-                      </div>
+                 </div>
           
           
-                  </div>
-          
-          
-          
-              </div>
-          
-          
-          
+                  </div> 
           </body>
           
           </html>

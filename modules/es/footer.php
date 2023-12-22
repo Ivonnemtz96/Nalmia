@@ -26,6 +26,7 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
                     <div class="col-md-12 text-center" style="margin-top: 1.5rem;">
                         <h6>Todos los derechos reservados. Desarrollado por <a target="_blank"

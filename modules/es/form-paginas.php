@@ -2,10 +2,11 @@
     <div class="info bg-gray pt-80 pb-80" style="background:#fff;">
         <div class="container">
             <h6 class="sub-title">Contáctanos</h6>
-            <h2 class="mb-20 playfont">Saber más sobre NALMIA</h2>
+            <h2 class="mb-20 playfont">Descargue el folleto de Nalmia</h2>
             <p>
-                ¿Estás listo para saber más sobre NALMIA Villas? Estaremos encantados de ayudarte. Por favor, completa
-                el formulario a continuación y un representante se pondrá en contacto contigo en breve.
+                ¿Está listo para saber más sobre NALMIA Villas? Rellene el siguiente formulario para descargar nuestro
+                folleto con planos, precios y mucho más. <br>
+                Un miembro del equipo NALMIA se pondrá en contacto con usted en breve.
             </p>
             <div class="row contacto-index" style="margin-bottom: -2rem;">
                 <div class="col-md-6">
@@ -25,14 +26,26 @@
                                     required="required">
                             </div>
 
-                            <div class="form-group">
-                                <input id="form_name" type="text" name="tel" placeholder="Teléfono *"
-                                    required="required">
-                            </div>
-
-                            <div class="form-group">
-                                <textarea id="form_message" name="msj" placeholder="Mensaje * " rows="4"
-                                    required="required"></textarea>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <label for="phone-number-country" class="floating">País</label>
+                                        <select class="form-control" id="phone-number-country"
+                                            name="phone-number-country" autocomplete="off"></select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <div class="phone_number">
+                                            <div hidden class="form-control phone_number_prefix"
+                                                id="phone_number_prefix" name="phone_number_prefix">+1</div>
+                                            <label for="phone-number-country" class="floating">Teléfono *</label>
+                                            <input style="height: 2.6rem;" class="form-control" id="phone_number"
+                                                name="phone_number" type="tel" required autocomplete="off">
+                                            <input type="hidden" id="phone_number_full" name="phone_number_full" />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                             <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
                                 <div class="col-12 col-md-12">

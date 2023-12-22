@@ -37,17 +37,17 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.nalmia.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
-    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->Username   = 'contact@nalmia.com';    //SMTP username
+    $mail->Password   = '0Gg754ODxW';                        //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Nalmia Development";
     //Recipients
-    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->setFrom('contact@nalmia.com', $slh); //QUIEN MANDA, CON EL NOMBRE
     $mail->addAddress($email, $nombre); //QUIEN RECIBE
 
     //Content
@@ -175,11 +175,11 @@ try {
                                         </div>
 
                                         <div class="col-md-12">
-                                            <img style="width:200px" src="https://demo.bananagroup.mx/img/logo-dark.jpg?=5">
+                                            <img style="width:200px" src="https://nalmia.com/img/logo-dark.jpg?=5">
                                         </div>
 
                                         <div class="col-md-12 link-pdf">
-                                            <a class="descargar-pdf"  href="https://demo.bananagroup.mx/-NALMIA Brochure-.pdf">Download Brochure</a>
+                                            <a class="descargar-pdf"  href="https://nalmia.com/-NALMIA Brochure-.pdf">Download Brochure</a>
                                         </div>
                                     </div>
                                     

@@ -109,20 +109,18 @@ try {
                           <div>
                             <img style="width:200px" src="https://nalmia.com/img/logo-dark.jpg?=5">
                           </div>
-          
                           <div class="container">                    
-                              
                               <div style="width:100%; display: inline-block;">          
                                   <div style="margin-bottom: 30px;">
-                                        <h3><b>¡Un nuevo usuario mandó formulario!</h3>
+                                        <h3><b>¡Un usuario nuevo llenó el formulario en contacto!</h3>
                                         <h3>Estos son los datos que han proporcionado:</h3>
                                         <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
                                         <p style="margin-bottom: 15px;"><b>Correo: </b>' . $email . '</p>
                                         <p style="margin-bottom: 15px;"><b>Teléfono: </b>+' . $phone_number_full . '</p>
+                                        <p style="margin-bottom: 15px;"><b>Correo: </b>' . $msj . '</p>
                                         <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Banana Group Marketing 2023</p>
                                   </div>
-                              </div>
-
+                              </div>            
                                   
                                   </div>
                               </div>
@@ -155,7 +153,7 @@ try {
     $codigo_de_error = "0";
     header('location: /?msj='. $codigo_de_error);
         if (isset($_GET)) {
-        include_once("php/msg2.php");
+        include_once("php/msg.php");
         }
      exit;
 } catch (Exception $e) {

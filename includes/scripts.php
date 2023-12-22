@@ -139,7 +139,7 @@ const intlPhoneNumber = function(countryCode) {
 
     // reset function to reset error state on validation
     const reset = function() {
-        telInput.attr("placeholder", "PHONE NUMBER");
+        telInput.attr("placeholder", "xxx xxx xxxx");
         telInput.removeClass("has-error");
         telInputLabel.removeClass("has-error");
         errorMsg.addClass("hidden-xs-up");
@@ -175,7 +175,7 @@ const intlPhoneNumber = function(countryCode) {
     });
 
     // set placeholder
-    telInput.attr("placeholder", "PHONE NUMBER");
+    telInput.attr("placeholder", "xxx xxx xxxx");
 
     // on blur: validate
     telInput.blur(function() {
