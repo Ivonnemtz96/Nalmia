@@ -32,6 +32,9 @@
     <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/css/magnific-popup.css">
 
+<!-- international phone -->
+<link rel="stylesheet" href="build/css/intlTelInput.css" />
+
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"

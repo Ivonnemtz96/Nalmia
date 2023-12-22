@@ -26,7 +26,7 @@ try {
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
-    $slh = "Datos Formulario";
+    $slh = "Nalmia Development";
     //Recipients
     $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
     $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'nombre'); //QUIEN RECIB
@@ -107,23 +107,22 @@ try {
           
                       <div style="margin: 20px 50px 50px 50px;">
                           <div>
-                              <img style="max-width: 100px;" src="https://deserttravelplus.com/img/logo-color-1.png" alt="">
+                            <img style="width:200px" src="https://demo.bananagroup.mx/img/logo-dark.jpg?=5">
                           </div>
           
                           <div class="container">                    
                               
                               <div style="width:100%; display: inline-block;">          
                                   <div style="margin-bottom: 30px;">
-                                        <h3><b>¡Tienes una nueva cotización!</h3>
+                                        <h3><b>¡Un nuevo usuario mandó formulario!</h3>
                                         <h3>Estos son los datos que han proporcionado:</h3>
                                         <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $tel . '</p>
+                                        <p style="margin-bottom: 15px;"><b>Teléfono: </b>+' . $phone_number_full . '</p>
                                         <p style="margin-bottom: 15px;"><b>Mensaje: </b>' . $msj . '</p>
                                         <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Banana Group Marketing 2023</p>
                                   </div>
                               </div>
-            
-                                      <p style="margin-bottom: 15px; font-size: 12px;">Check our cancellation and refund policy <a href="https://www.deserttravelplus.com/es/terminos-y-condiciones.html">here</a> (https://www.deserttravelplus.com/es/terminos-y-condiciones.html)</p>
+
                                   
                                   </div>
                               </div>
