@@ -110,7 +110,7 @@ try {
                                                 <h3>Estos son los datos que han proporcionado:</h3>
                                                 <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
                                                 <p style="margin-bottom: 15px;"><b>Correo: </b>' . $email . '</p>
-                                                <p style="margin-bottom: 15px;"><b>Teléfono: </b>+' . $phone_number_full . '</p>
+                                                <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $full_tel . '</p>
                                                 <p style="margin-bottom: 15px;"><b>Mensaje: </b>' . $msj . '</p>
                                                 <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Banana Group Marketing 2023</p>
                                         </div>

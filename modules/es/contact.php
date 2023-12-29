@@ -48,27 +48,15 @@
                                             required="required">
                                     </div>
 
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <label for="phone-number-country" class="floating">País</label>
-                                                <select class="form-control" id="phone-number-country"
-                                                    name="phone-number-country" autocomplete="off"></select>
-                                            </div>
+                                    <div class="row justify-content-between align-items-center">
+                                        <div class="col-md-4 align-content-center">
+                                            <label for="" style="margin-right: 1rem;">Teléfono</label>
                                         </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <div class="phone_number">
-                                                    <div hidden class="form-control phone_number_prefix"
-                                                        id="phone_number_prefix" name="phone_number_prefix">+1</div>
-                                                    <label for="phone-number-country" class="floating">Teléfono
-                                                        *</label>
-                                                    <input style="height: 2.6rem;" class="form-control"
-                                                        id="phone_number" name="phone_number" type="tel" required
-                                                        autocomplete="off">
-                                                    <input type="hidden" id="phone_number_full"
-                                                        name="phone_number_full" />
-                                                </div>
+                                        <div class="col-md-8 align-content-center">
+                                            <div class="form-group" style="background: #f7f7f7;">
+                                                <div hidden class="result">Type a phone number</div>
+                                                <input type="tel" name="tel" class="phone" />
+                                                <input type="hidden" class="full_tel" id="full_tel" name="full_tel" />
                                             </div>
                                         </div>
                                     </div>
