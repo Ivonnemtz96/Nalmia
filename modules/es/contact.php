@@ -19,10 +19,12 @@
             <div class="row">
                 <div class="col-md-12">
                     <h6 class="sub-title">Contáctanos</h6>
-                    <h2 class="mb-20 playfont">Ver más acerca de NALMIA</h2>
+                    <h2 class="mb-20 playfont">Descargue el folleto de Nalmia</h2>
                     <p>
-                        El paraíso te está llamando. <br>
-                        Ponte en contacto con NALMIA Villas y asegura tu lugar en este rincón de elegancia.
+                        ¿Está listo para saber más sobre NALMIA Villas? Rellene el siguiente formulario para descargar
+                        nuestro
+                        folleto con planos, precios y mucho más. <br>
+                        Un miembro del equipo NALMIA se pondrá en contacto con usted en breve.
                     </p>
                 </div>
             </div>
@@ -32,8 +34,8 @@
                         <div class="col-md-6 mt-3 mb-3">
                             <img style="margin-top: 25px;" src="/img/50.jpg" alt="">
                         </div>
-                        <div class="col-lg-6  form">
-                            <form method="post" action="/php/form-contacto.php">
+                        <div class="col-lg-6  form" style="padding:40px 1%;">
+                            <form method="post" action="/php/archivo-esp.php">
                                 <div class="messages"></div>
                                 <div class="controls">
                                     <div class="form-group">

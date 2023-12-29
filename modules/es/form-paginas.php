@@ -47,6 +47,10 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="form-group">
+                                <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
+                                    required="required"></textarea>
+                            </div>
                             <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
                                 <div class="col-12 col-md-12">
                                     <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"

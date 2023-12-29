@@ -27,6 +27,23 @@
                             </div>
 
                             <div class="row">
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                    <label for="phone-number-country" class="floating" style="font-size: 12px;">Area code</label>
+                                        <input id="form_email" type="text" name="email" placeholder="+52"
+                                            required="required">
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <div class="form-group">
+                                    <label for="phone-number-country" class="floating" style="font-size: 12px;">Telephone *</label>
+                                        <input id="form_email" type="text" name="email" placeholder="624 160 1030"
+                                            required="required">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <label for="phone-number-country" class="floating">Country</label>
@@ -46,6 +63,10 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="form-group">
+                                <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
+                                    required="required"></textarea>
                             </div>
                             <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
                                 <div class="col-12 col-md-12">

@@ -136,6 +136,9 @@ try {
                     text-align:center;
                     font-family: "Montserrat", sans-serif;
                   }
+                  .cuerpo-mensaje{
+                    text-align: justify;
+                  }
               </style>
           </head>
           
@@ -148,11 +151,10 @@ try {
                           <div class="container">                    
                               
                               <div style="width:100%; display: inline-block;">
-          
                                   <div style="margin-bottom: 30px;">
                                   <div style="width:100%; display: inline-block;">
           
-                                  <div style="margin-bottom: 30px;">
+                                  <div class="cuerpo-mensaje" style="margin-bottom: 30px;">
                                     <p style="margin-bottom: 15px; font-family: "Montserrat", sans-serif;">
                                     Dear ' . $nombre . ', <br> <br>
 
@@ -161,12 +163,14 @@ try {
 
                                     You’ll find attached a detailed Brochure, containing all the essential information for
                                     you to envision your future home. Plans, prices, and much more await you in this
-                                    exclusive document. <br>
+                                    exclusive document. <br><br>
+
                                     For any additional questions or to discuss your specific needs, feel free to share with
                                     us your availability to organize a ZOOM call with one of our dedicated team
-                                    members. <br>
+                                    members. <br><br>
+
                                     We are here to guide you through every step of your journey towards realizing your
-                                    real estate dream. <br>
+                                    real estate dream. <br> <br>
                                     Best regards,
                                     </p>
                                     <div class="pie-mensaje">
@@ -176,6 +180,8 @@ try {
 
                                         <div class="col-md-12">
                                             <img style="width:200px" src="https://nalmia.com/img/logo-dark.jpg?=5">
+                                            <br><br><br>
+                                            <a target="_blank" href="https://nalmia.com/">www.nalmia.com</a> <br><br>
                                         </div>
 
                                         <div class="col-md-12 link-pdf">

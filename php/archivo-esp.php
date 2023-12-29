@@ -136,6 +136,9 @@ try {
                     text-align:center;
                     font-family: "Montserrat", sans-serif;
                   }
+                  .cuerpo-mensaje{
+                    text-align: justify;
+                  }
               </style>
           </head>
           
@@ -152,20 +155,22 @@ try {
                                   <div style="margin-bottom: 30px;">
                                   <div style="width:100%; display: inline-block;">
           
-                                  <div style="margin-bottom: 30px;">
+                                  <div class="cuerpo-mensaje" style="margin-bottom: 30px;">
                                     <p style="margin-bottom: 15px; font-family: "Montserrat", sans-serif;">
                                     Estimado(a) ' . $nombre . ', <br> <br>
 
-                                    Gracias por su interés en Nalmia Villas. Estamos encantados de compartir con usted toda la información detallada que necesita. <br><br>
+                                    Gracias por su interés en Nalmia Villas. Estamos encantados de compartir con usted toda la información detallada que necesita. 
+                                    <br><br>
                                     Adjunto encontrará un folleto detallado, que contiene toda la información esencial para
                                     para que puedas visualizar tu futuro hogar. Planos, precios y mucho más te esperan en este
-                                    documento exclusivo. <br>
+                                    documento exclusivo. <br><br>
+
                                     Para cualquier pregunta adicional o para discutir sus necesidades específicas, no dude en compartir con
                                     para organizar una llamada ZOOM con uno de los miembros de nuestro equipo.
                                     de nuestro equipo. <br><br>
                                     Estamos aquí para guiarle a través de cada paso de su viaje hacia la realización de su
                                     su sueño inmobiliario.
-                                    <br>
+                                    <br><br>
                                     Saludos cordiales,
                                     </p>
                                     <div class="pie-mensaje">
@@ -175,6 +180,8 @@ try {
 
                                         <div class="col-md-12">
                                             <img style="width:200px" src="https://nalmia.com/img/logo-dark.jpg?=5">
+                                            <br><br><br>
+                                            <a target="_blank" href="https://nalmia.com/">www.nalmia.com</a> <br><br>
                                         </div>
 
                                         <div class="col-md-12 link-pdf">
