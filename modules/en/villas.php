@@ -30,9 +30,10 @@
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Nalmia Villas has an excellent location, just some
-                        steps from the beach, it is located in the heart of Los Barriles. One block from the main street
-                        which has restaurants, grocery stores and banks. Nalmia Villas was designed to live in peace and
+                        Nalmia Villas has an excellent location in the heart of Los
+                        Barriles, just steps from the beach and one block from the
+                        main street, which has restaurants, grocery stores, and
+                        banks. Nalmia Villas was designed to live in peace and
                         fullness.
                     </p>
                 </div>
@@ -55,9 +56,10 @@
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Invite
-                        your guests to a barbecue or a drink around the fire. Relax while enjoying the sun in your
-                        private pool. Park your car and appreciate the security in a fully gated property.
+                        Invite your guests to a barbecue or a drink around the fire.
+                        Relax while enjoying the sun in your private pool. Park
+                        your car and appreciate the security of a fully gated
+                        property.
                     </p>
                 </div>
             </div>
@@ -103,9 +105,9 @@
             </div>
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30" style="margin-top: 2rem;">
                 <p>
-                    A beautiful interior design
-                    inspired by the 'Japandi' influence, where minimalism meets harmony. Two rooms with ensuite and a
-                    balcony with a sea view.
+                    A beautiful interior design inspired by the 'Japandi'
+                    influence, where minimalism meets harmony. Two rooms
+                    with ensuite bathrooms and a balcony with a sea view.
                 </p>
             </div>
         </div>
@@ -159,32 +161,32 @@
             </div>
             <div class="col-12 col-md-4 col-lg-3 valign d-none d-md-none d-lg-block d-xl-block" style="left: -4rem;">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                        <ul class="list-detalles d-md-block d-lg-block d-xl-none">
-                            <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool.</li>
-                            <li style="list-style: disc;">Backyard with BBQ <br>  area and Firepit.</li>
-                            <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola.</li>
-                        </ul>
+                    <ul class="list-detalles d-md-block d-lg-block d-xl-none">
+                        <li style="list-style: disc;">Outdoor Patio with <br> 75 sq ft pool.</li>
+                        <li style="list-style: disc;">Backyard with BBQ <br> area and Firepit.</li>
+                        <li style="list-style: disc;">Car park under <br> 320 sq ft pergola.</li>
+                    </ul>
 
-                        <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
-                            <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
-                            <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
-                        </ul>
+                    <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
+                        <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
+                        <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
+                        <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
+                    </ul>
                 </div>
             </div>
-            <div class="col-12 col-md-4 col-lg-3 valign d-block d-md-block d-lg-none d-xl-none" >
+            <div class="col-12 col-md-4 col-lg-3 valign d-block d-md-block d-lg-none d-xl-none">
                 <div class="specialty wow fadeInUp" data-wow-delay=".5s">
-                        <ul class="list-detalles d-md-block d-lg-block d-xl-none">
-                            <li style="list-style: disc;">Outdoor Patio with <br>  75 sq ft pool</li>
-                            <li style="list-style: disc;">Backyard with BBQ <br>  area and Firepit</li>
-                            <li style="list-style: disc;">Car park under  <br> 320 sq ft pergola</li>
-                        </ul>
+                    <ul class="list-detalles d-md-block d-lg-block d-xl-none">
+                        <li style="list-style: disc;">Outdoor Patio with <br> 75 sq ft pool</li>
+                        <li style="list-style: disc;">Backyard with BBQ <br> area and Firepit</li>
+                        <li style="list-style: disc;">Car park under <br> 320 sq ft pergola</li>
+                    </ul>
 
-                        <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
-                            <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
-                            <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
-                            <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
-                        </ul>
+                    <ul class="list-detalles  d-none d-md-none d-lg-none d-xl-block ">
+                        <li style="list-style: disc;">Outdoor Patio with 75 sq ft pool</li>
+                        <li style="list-style: disc;">Backyard with BBQ area and Firepit</li>
+                        <li style="list-style: disc;">Car park under 320 sq ft pergola</li>
+                    </ul>
                 </div>
             </div>
             <div class="col-12 col-md-4 col-lg-3 valign">

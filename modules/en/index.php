@@ -103,8 +103,8 @@ if (isset($_GET)) {
                     <h6 class="sub-title">Innovative Designs</h6>
                     <h2 class="mb-20 playfont" style="margin-bottom: 2rem;">Villas NALMIA </h2>
                     <p style="margin-bottom: 2rem;">
-                        Breathtaking designs compliment the raw beauty of Los Barriles and it’s surroundings.
-                        <br>
+                        Breathtaking designs compliment the raw beauty
+                        of Los Barriles and its surroundings.
                         A modern interpretation of traditional aesthetics.
                     </p>
                     <a href="/villas" style="margin-bottom: 1rem;" class="btn-curve btn-color mt-30">
@@ -137,8 +137,8 @@ if (isset($_GET)) {
                         <h2 class="playfont" style="margin-bottom: 4rem; text-shadow: 1px 1px 1px #000;">East Cape, a
                             living paradise</h2>
                         <p style="margin-bottom: .5rem; text-shadow: 1px 1px 1px #000;">
-                            Live peace and freedom in an untouched nature. <br> Experiment a unique and healthy
-                            lifestyle.
+                            Live in peace and freedom in an untouched natural setting. <br>
+                            Experience a unique and healthy lifestyle.
                         </p>
                         <a href="/bcs" class="btn-curve btn-color mt-30 btn-explorar">
                             <span>Explore</span>
@@ -187,7 +187,8 @@ if (isset($_GET)) {
                     <h6 class="sub-title">A profitable investment</h6>
                     <h2 class="mb-20 playfont">NALMIA Development</h2>
                     <p>
-                        An opportunity to create a self-sustaining investment which generates high income monthly.
+                        An opportunity to create a self-sustaining investment that
+                        generates high monthly income.
 
                     </p> <br><br><br>
                     <a hidden href="/bcs" class="btn-curve btn-color mt-30">
@@ -217,28 +218,32 @@ if (isset($_GET)) {
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/38.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/38.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/36.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/36.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/39.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/39.jpg">
                                 </div>
 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/37.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/37.jpg">
                                 </div>
 
                             </div>
@@ -247,7 +252,8 @@ if (isset($_GET)) {
 
                         <div class="swiper-slide">
                             <div class="content wow fadeInUp" data-wow-delay=".3s">
-                                <div class="item-img bg-img wow imago" style="background-position: center;" data-background="/img/40.jpg">
+                                <div class="item-img bg-img wow imago" style="background-position: center;"
+                                    data-background="/img/40.jpg">
                                 </div>
 
                             </div>

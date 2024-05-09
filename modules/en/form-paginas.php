@@ -4,9 +4,10 @@
             <h6 class="sub-title">Contact Us</h6>
             <h2 class="mb-20 playfont">Download the Nalmia Brochure</h2>
             <p>
-                Are you ready to learn more about NALMIA Villas? Please complete the form below, to download our
-                brochure with floors plans, price and much more. <br>
-                A NALMIA team member will be in touch with you shortly.
+                Are you ready to learn more about NALMIA Villas?
+                Please complete the form below to download our brochure
+                with floor plans, price, and much more. <br>
+                A NALMIA teammember will be in touch with you shortly.
             </p>
             <div class="row contacto-index" style="margin-bottom: -2rem;">
                 <div class="col-md-6">
@@ -25,16 +26,16 @@
                                 <input id="form_email" type="email" name="email" placeholder="Email *"
                                     required="required">
                             </div>
-                            
+
                             <div class="row justify-content-between align-items-center">
                                 <div class="col-md-4 align-content-center">
-                                <label for="" style="margin-right: 1rem;">Phone Number</label>
+                                    <label for="" style="margin-right: 1rem;">Phone Number</label>
                                 </div>
                                 <div class="col-md-8 align-content-center">
                                     <div class="form-group" style="background: #f7f7f7;">
                                         <div hidden class="result">Type a phone number</div>
-                                        <input type="tel" name="tel" class="phone" />
-                                        <input type="hidden" class="full_tel" id="full_tel" name="full_tel" />
+                                        <input type="tel" name="tel" class="phone" required="required"/>
+                                        <input type="hidden" class="full_tel" id="full_tel" name="full_tel" required="required"/>
                                     </div>
                                 </div>
                             </div>
@@ -43,12 +44,7 @@
                                 <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
                                     required="required"></textarea>
                             </div>
-                            <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
-                                <div class="col-12 col-md-12">
-                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
-                                        required></div>
-                                </div>
-                            </div>
+                            <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
                             <button type="submit" name="submit" class="btn-curve btn-color"><span>Send</span></button>
                         </div>
                     </form>

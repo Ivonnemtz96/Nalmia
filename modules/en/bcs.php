@@ -1,5 +1,6 @@
 <!-- ==================== Start Header ==================== -->
-<header class="pages-header bg-img valign"  style="background-position: center !important;" data-background="/img/46.jpg" data-overlay-dark="2">
+<header class="pages-header bg-img valign" style="background-position: center !important;" data-background="/img/46.jpg"
+    data-overlay-dark="2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -30,10 +31,10 @@
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Watch the sunset from an empty beach. Walk into
-                        a forest of giant Cardon cacti. Contemplate sparkling night sky from a remote island. Feel
-                        the
-                        energy of a giant grey whale.
+                        Watch the sunset from an empty beach. Walk into a forest
+                        of giant Cardon cacti. Contemplate the starry night sky
+                        from a remote island. Feel the energy of a giant grey
+                        whale.
                     </p>
                 </div>
             </div>
@@ -55,13 +56,13 @@
                 <img src="/img/31.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>An exceptional nature</h2>
+                <h2>Exceptional nature</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Among the most beautiful beaches of Mexico. <br>
-                        Located between the Sierra de la Laguna and the sea of Cortez. <br> Nearby of the natural parc
-                        of
-                        Cabo Pulmo and Santiago’s natural waterfalls and hot springs.
+                        Los Barriles is home to one of the most beautiful beaches in Mexico,
+                        located between the peaks of the Sierra de la Laguna and the Sea of
+                        Cortez. It is close to the Cabo Pulmo National Marine Park as well as
+                        Santiago’s natural hot springs and waterfalls.
                     </p>
                 </div>
             </div>
@@ -110,7 +111,7 @@
                     <p class="mb-20">
                         Discover fishermen villages. <br>
                         Enjoy local traditional fiestas. <br>
-                        Fall in love with the traditional Mexican music.
+                        Fall in love with traditional Mexican music. <br>
                     </p>
                 </div>
             </div>

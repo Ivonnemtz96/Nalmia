@@ -54,8 +54,9 @@
                                         <div class="col-md-8 align-content-center">
                                             <div class="form-group" style="background: #f7f7f7;">
                                                 <div hidden class="result">Type a phone number</div>
-                                                <input type="tel" name="tel" class="phone" />
-                                                <input type="hidden" class="full_tel" id="full_tel" name="full_tel" />
+                                                <input type="tel" name="tel" class="phone" required="required" />
+                                                <input type="hidden" class="full_tel" id="full_tel" name="full_tel"
+                                                    required="required" />
                                             </div>
                                         </div>
                                     </div>
@@ -64,26 +65,21 @@
                                         <textarea id="form_message" name="msj" placeholder="Message * " rows="4"
                                             required="required"></textarea>
                                     </div>
-
-                                    <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
-                                        <div class="col-12 col-md-12">
-                                            <div class="g-recaptcha"
-                                                data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
-                                        </div>
-                                    </div>
-                                    <button type="submit" class="btn-curve btn-color"><span>Send</span></button>
+                                    <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
                                 </div>
-                            </form>
+                                <button type="submit" name="submit" class="btn-curve btn-color"><span>Send</span></button>
                         </div>
+                        </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    </div>
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-6 d-none d-md-block">
-                <img src="/img/51.png?=2" style="width: 35rem;" class="d-none d-md-block" alt="">
+                <img src="/img/51.png?=2" style="width: 39rem;" class="d-none d-md-block" alt="">
             </div>
             <div class="col-md-6 d-block d-md-none" style="left:-1rem">
                 <img src="/img/51.png?=2" style="width: 23rem;" class="d-block d-md-none" alt="">
@@ -93,10 +89,23 @@
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
                     <h4 class="mt-20 playfont">Partners</h4>
                     <p>
-                        DC Arq : Architect <br>
-                        Mexlaw : Lawyer and legal advice <br>
-                        De La Torre : Accounting services <br>
-                    </p>
+                        Discover the experts with whom we join forces to ensure you receive superior services.
+                    </p> <br>
+                    <h6>Edgar López Arquitectos Specialty: Building and Construction</h6>
+                    <a target="_blank" href="https://www.edgarlopezarquitectos.com">Website:
+                        https://www.edgarlopezarquitectos.com</a>
+                    <br><br>
+                    <h6>DC Arquitectos Specialty: Architecture</h6>
+                    <a target="_blank" href="http://dcarq.com">Website:
+                        http://dcarq.com</a>
+                    <br><br>
+                    <h6>Mexlaw Specialty: Legal Services and Advice</h6>
+                    <a target="_blank" href="https://mexlaw.com">Website:
+                        https://mexlaw.com</a>
+                    <br><br>
+                    <h6>Despacho De La Torre Specialty: Accounting Services</h6>
+                    <a target="_blank" href=" https://cpadelatorre.com.mx/">Website:
+                        https://cpadelatorre.com.mx/</a>
                 </div>
             </div>
         </div>

@@ -55,8 +55,8 @@
                                         <div class="col-md-8 align-content-center">
                                             <div class="form-group" style="background: #f7f7f7;">
                                                 <div hidden class="result">Type a phone number</div>
-                                                <input type="tel" name="tel" class="phone" />
-                                                <input type="hidden" class="full_tel" id="full_tel" name="full_tel" />
+                                                <input type="tel" name="tel" class="phone" required="required"/>
+                                                <input required="required" type="hidden" class="full_tel" id="full_tel" name="full_tel" />
                                             </div>
                                         </div>
                                     </div>
@@ -66,13 +66,8 @@
                                             required="required"></textarea>
                                     </div>
 
-                                    <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
-                                        <div class="col-12 col-md-12">
-                                            <div class="g-recaptcha"
-                                                data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
-                                        </div>
-                                    </div>
-                                    <button type="submit" class="btn-curve btn-color"><span>Enviar</span></button>
+                                    <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+                                    <button type="submit" name="submit" class="btn-curve btn-color"><span>Enviar</span></button>
                                 </div>
                             </form>
                         </div>

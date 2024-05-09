@@ -51,32 +51,32 @@ if (isset($_GET)) {
         case '0':
             echo'<div id="alert" class="mt-50 alert success">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'¡Tu mensaje ha sido enviado!';
+            echo'Your message has been sent!';
             echo'</div>';
             break;
         case '1':
             echo'<div id="alert" class="mt-50 alert warning">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'¡Todos los campos deben de estar llenos!';
+            echo'All fields must be full!';
             echo'</div>';
             break;
         case '2':
             echo'<div id="alert" class="mt-50 alert danger">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'¡Tu mensaje no se pudo enviar, intenta más tarde!';
+            echo'Your message could not be sent, try again later!';
             echo'</div>';
             break;
         case '3':
             echo'<div id="alert" class="mt-50 alert warning">';
             echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-            echo'reCAPTCHA no seleccionado';
+            echo'reCAPTCHA not selected';
             echo'</div>';
             break;
 
             case '4':
                 echo'<div id="alert" class="mt-50 alert warning">';
                 echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
-                echo'¡ReCaptcha vacío!';
+                echo'ReCaptcha empty!';
                 echo'</div>';
                 break;
     }

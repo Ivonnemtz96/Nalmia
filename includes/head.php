@@ -40,13 +40,23 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
   <!-- captcha -->
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+ <!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
 
 
  <!-- telefono -->
-
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/css/intlTelInput.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/intlTelInput.min.js"></script>
 
+<script src='https://www.google.com/recaptcha/api.js?render=6Lf5F9UpAAAAAP7n1c80cshzmogziPrVNGXXGiOZ'></script>
+    <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6Lf5F9UpAAAAAP7n1c80cshzmogziPrVNGXXGiOZ', {
+                    action: 'formulario'
+                })
+                .then(function(token) {
+                    var recaptchaResponse = document.getElementById('recaptchaResponse');
+                    recaptchaResponse.value = token;
+                });
+        });
+    </script>
 </head>
