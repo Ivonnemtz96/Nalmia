@@ -21,8 +21,9 @@
                     <h6 class="sub-title">Contact Us</h6>
                     <h2 class="mb-20 playfont">Download the Nalmia Brochure</h2>
                     <p>
-                        Are you ready to learn more about NALMIA Villas? Please complete the form below, to download our
-                        brochure with floors plans, price and much more. <br>
+                        Are you ready to learn more about NALMIA Villas?
+                        Please complete the form below to download our brochure
+                        with floor plans, price, and much more. <br>
                         A NALMIA team member will be in touch with you shortly.
                     </p>
                 </div>
@@ -67,7 +68,8 @@
                                     </div>
                                     <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
                                 </div>
-                                <button type="submit" name="submit" class="btn-curve btn-color"><span>Send</span></button>
+                                <button type="submit" name="submit"
+                                    class="btn-curve btn-color"><span>Send</span></button>
                         </div>
                         </form>
                     </div>
@@ -79,7 +81,7 @@
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-6 d-none d-md-block">
-                <img src="/img/51.png?=2" style="width: 39rem;" class="d-none d-md-block" alt="">
+                <img src="/img/51.png?=2" style="width: 42rem;" class="d-none d-md-block" alt="">
             </div>
             <div class="col-md-6 d-block d-md-none" style="left:-1rem">
                 <img src="/img/51.png?=2" style="width: 23rem;" class="d-block d-md-none" alt="">
@@ -91,19 +93,23 @@
                     <p>
                         Discover the experts with whom we join forces to ensure you receive superior services.
                     </p> <br>
-                    <h6>Edgar López Arquitectos Specialty: Building and Construction</h6>
+                    <h6>Edgar López Arquitectos <br>
+                        Specialty: Building and Construction</h6>
                     <a target="_blank" href="https://www.edgarlopezarquitectos.com">Website:
                         https://www.edgarlopezarquitectos.com</a>
                     <br><br>
-                    <h6>DC Arquitectos Specialty: Architecture</h6>
+                    <h6>DC Arquitectos <br>
+                    Specialty: Architecture</h6>
                     <a target="_blank" href="http://dcarq.com">Website:
                         http://dcarq.com</a>
                     <br><br>
-                    <h6>Mexlaw Specialty: Legal Services and Advice</h6>
+                    <h6>Mexlaw <br>
+                     Specialty: Legal Services and Advice</h6>
                     <a target="_blank" href="https://mexlaw.com">Website:
                         https://mexlaw.com</a>
                     <br><br>
-                    <h6>Despacho De La Torre Specialty: Accounting Services</h6>
+                    <h6>Despacho De La Torre <br>
+                     Specialty: Accounting Services</h6>
                     <a target="_blank" href=" https://cpadelatorre.com.mx/">Website:
                         https://cpadelatorre.com.mx/</a>
                 </div>

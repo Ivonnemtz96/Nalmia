@@ -9,6 +9,11 @@
 <script src="build/js/intlTelInput.js"></script>
 <!-- Magnific Popup core JS file -->
 <script src="/js/jquery.magnific-popup.js"></script>
+
+
+
+
+
 <script>
 const d = new Date();
 let year = d.getFullYear();
@@ -58,25 +63,25 @@ $('.img-parallax').each(function() {
     crossorigin="anonymous">
 </script>
 <script>
-$(document).ready(function() {
-    $('.popup-gallery').magnificPopup({
-        delegate: 'a',
-        type: 'image',
-        tLoading: 'Loading image #%curr%...',
-        mainClass: 'mfp-img-mobile',
-        gallery: {
-            enabled: true,
-            navigateByImgClick: true,
-            preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-        },
-        image: {
-            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
-            titleSrc: function(item) {
-                return item.el.attr('title') + '<small>Nalmia Developers</small>';
+    $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+            },
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    return item.el.attr('title') + '<small>Nalmia Developers</small>';
+                }
             }
-        }
+        });
     });
-});
 </script>
 <script>
 const element = document.querySelector('.animate__fadeInUp');
@@ -84,64 +89,64 @@ element.style.setProperty('--animate-duration', '7s');
 </script>
 
 <script>
-// Agrega el evento de scroll al objeto window
-$(window).scroll(function() {
-    // Cierra el menú móvil si está abierto
-    if ($("#navbarSupportedContent").hasClass("show")) {
-        $("#menu-movil").click();
-    }
-});
+    // Agrega el evento de scroll al objeto window
+    $(window).scroll(function() {
+        // Cierra el menú móvil si está abierto
+        if ($("#navbarSupportedContent").hasClass("show")) {
+            $("#menu-movil").click();
+        }
+    });
 </script>
 
 
 <script>
 
-var input = document.querySelector(".phone");
-var resultInput = document.querySelector(".full_tel");  
+    var input = document.querySelector(".phone");
+    var resultInput = document.querySelector(".full_tel");  
 
-// region setup
+    // region setup
 
-var region;
+    var region;
 
-if (localStorage.getItem('region')) {  
-  // if region is in storage, set variable with that value
-  region = localStorage.getItem('region');  
-} else {  
-  // if region is not in storage, set variable to 'us'
-  region = 'us';  
-}
+    if (localStorage.getItem('region')) {  
+    // if region is in storage, set variable with that value
+    region = localStorage.getItem('region');  
+    } else {  
+    // if region is not in storage, set variable to 'us'
+    region = 'us';  
+    }
 
-// set new localStorage value
-localStorage.setItem('region', region);
-
-
-var phone = window.intlTelInput(input, {
-  utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/utils.min.js",
-  
-  initialCountry: localStorage.getItem('region'),
-  preferredCountries: ["us", "gb"]
-});
+    // set new localStorage value
+    localStorage.setItem('region', region);
 
 
-var result = document.querySelector(".result");
+    var phone = window.intlTelInput(input, {
+    utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/utils.min.js",
+    
+    initialCountry: localStorage.getItem('region'),
+    preferredCountries: ["us", "gb"]
+    });
 
-function checkNumber() {
-  var number = phone.getNumber();
-  result.innerHTML = number ? number : 'Type a phone number';
 
-  // Asigna el valor al nuevo input
-  resultInput.value = number ? number : '';
-  
-  if (phone.isValidNumber()) input.classList.add('valid')
-  else input.classList.remove('valid');
-}
+    var result = document.querySelector(".result");
 
-input.addEventListener("input", checkNumber);
-input.addEventListener("countrychange", () => {
-  checkNumber();
+    function checkNumber() {
+    var number = phone.getNumber();
+    result.innerHTML = number ? number : 'Type a phone number';
 
-  // set stored value to selected region
-  localStorage.setItem('region', phone.getSelectedCountryData().iso2);
-});
+    // Asigna el valor al nuevo input
+    resultInput.value = number ? number : '';
+    
+    if (phone.isValidNumber()) input.classList.add('valid')
+    else input.classList.remove('valid');
+    }
+
+    input.addEventListener("input", checkNumber);
+    input.addEventListener("countrychange", () => {
+    checkNumber();
+
+    // set stored value to selected region
+    localStorage.setItem('region', phone.getSelectedCountryData().iso2);
+    });
 
 </script>

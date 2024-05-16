@@ -7,7 +7,7 @@
                 Are you ready to learn more about NALMIA Villas?
                 Please complete the form below to download our brochure
                 with floor plans, price, and much more. <br>
-                A NALMIA teammember will be in touch with you shortly.
+                A NALMIA team member will be in touch with you shortly.
             </p>
             <div class="row contacto-index" style="margin-bottom: -2rem;">
                 <div class="col-md-6">

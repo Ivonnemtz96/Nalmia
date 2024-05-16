@@ -30,9 +30,9 @@
             <div class="col-lg-8 offset-lg-1 col-md-8 mb-30">
                 <div class="text">
                     <p>
-                        Nalmia Villas tiene una ubicación excelente, a solo unos pasos de la playa, en el corazón de Los
-                        Barriles. A una cuadra de la calle principal, donde encontrarás restaurantes, tiendas de
-                        comestibles y bancos. Nalmia Villas fue diseñado para vivir en paz y plenitud.
+                        Nalmia Villas tiene una excelente ubicación en el corazón de Los Barriles, a pocos pasos de la
+                        playa y a una cuadra de la calle principal, que cuenta con restaurantes, tiendas de comestibles y
+                        bancos. Nalmia Villas fue diseñado para vivir en paz y plenitud.
                     </p>
                 </div>
             </div>

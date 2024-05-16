@@ -79,7 +79,7 @@
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-6 d-none d-md-block">
-                <img src="/img/51.png?=2" style="width: 35rem;" class="d-none d-md-block" alt="">
+                <img src="/img/51.png?=2" style="width: 42rem;" class="d-none d-md-block" alt="">
             </div>
             <div class="col-md-6 d-block d-md-none" style="left:-1rem">
                 <img src="/img/51.png?=2" style="width: 23rem;" class="d-block d-md-none" alt="">
@@ -87,12 +87,29 @@
             <div class="col-md-1"></div>
             <div class="col-md-5 align-content-center" style="margin-bottom: 2rem;">
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
-                    <h4 class="mt-20 playfont">Socios</h4>
+                    <h4 class="mt-20 playfont">Socios</h4> 
                     <p>
-                        DC Arq : Architect <br>
-                        Mexlaw : Lawyer and legal advice <br>
-                        De La Torre : Accounting services <br>
-                    </p>
+                    Descubra los expertos con los que aunamos esfuerzos para garantizarle servicios de calidad superior.
+                    </p> <br> 
+                    <h6>Edgar López Arquitectos <br>
+                        Especialidad: Edificación y construcción</h6>
+                    <a target="_blank" href="https://www.edgarlopezarquitectos.com">Website:
+                        https://www.edgarlopezarquitectos.com</a>
+                    <br><br>
+                    <h6>DC Arquitectos <br>
+                    Especialidad: Arquitectura</h6>
+                    <a target="_blank" href="http://dcarq.com">Website:
+                        http://dcarq.com</a>
+                    <br><br>
+                    <h6>Mexlaw <br>
+                     Especialidad: Servicios y asesoramiento jurídicos</h6>
+                    <a target="_blank" href="https://mexlaw.com">Website:
+                        https://mexlaw.com</a>
+                    <br><br>
+                    <h6>Despacho De La Torre <br>
+                     Especialidad: Servicios contables</h6>
+                    <a target="_blank" href=" https://cpadelatorre.com.mx/">Website:
+                        https://cpadelatorre.com.mx/</a>
                 </div>
             </div>
         </div>

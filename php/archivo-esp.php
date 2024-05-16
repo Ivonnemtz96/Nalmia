@@ -23,7 +23,6 @@ $mail = new PHPMailer(true);
 3 -> No se seleccionó Captcha
 */
 
-
 if (isset($_REQUEST['submit'])) {
     extract($_REQUEST);
   
@@ -34,7 +33,7 @@ if (isset($_REQUEST['submit'])) {
     $recaptcha = json_decode($recaptcha);
   
     if (isset($recaptcha->score)) {
-      if ($recaptcha->score <= 0.7) {
+      if ($recaptcha->score <= 0.5) {
         //BOT DETECTADO
         header('location: /index.php?msj=3');
         exit;
@@ -52,7 +51,7 @@ if (isset($_REQUEST['submit'])) {
         $mail->isSMTP();                                            //Send using SMTP
         $mail->Host       = 'mail.nalmia.com';                   //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        $mail->Username   = 'contact@nalmia.comcontact@nalmia.com';    //SMTP username
+        $mail->Username   = 'contact@nalmia.com';    //SMTP username
         $mail->Password   = '0Gg754ODxW';                     //SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
         $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
@@ -174,14 +173,13 @@ if (isset($_REQUEST['submit'])) {
 
                                         Gracias por su interés en Nalmia Villas. Estamos encantados de compartir con usted toda la información detallada que necesita. 
                                         <br><br>
-                                        Adjunto encontrará un folleto detallado, que contiene toda la información esencial para
-                                        para que puedas visualizar tu futuro hogar. Planos, precios y mucho más te esperan en este
+                                        Adjunto encontrará un folleto detallado, que contiene toda la información esencial
+                                        para que pueda visualizar su futuro hogar. Planos, precios y mucho más te esperan en este
                                         documento exclusivo. <br><br>
 
-                                        Para cualquier pregunta adicional o para discutir sus necesidades específicas, no dude en compartir con
-                                        para organizar una llamada ZOOM con uno de los miembros de nuestro equipo.
-                                        de nuestro equipo. <br><br>
-                                        Estamos aquí para guiarle a través de cada paso de su viaje hacia la realización de su
+                                        Para cualquier pregunta adicional o para discutir sus necesidades específicas, no dude en compartir información
+                                        para organizar una llamada con uno de los miembros de nuestro equipo. <br><br>
+                                        Estamos aquí para guiarle a través de cada paso de su viaje hacia la realización de
                                         su sueño inmobiliario.
                                         <br><br>
                                         Saludos cordiales,

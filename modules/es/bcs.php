@@ -55,12 +55,12 @@
                 <img src="/img/31.jpg?=1" alt="">
             </div>
             <div class="col-lg-6 mt-3 mb-3 order-1 order-md-1">
-                <h2>Una naturaleza excepcional</h2>
+                <h2>Naturaleza excepcional</h2>
                 <div class="txt-cont">
                     <p class="mb-20">
-                        Entre las playas más hermosas de México. Ubicado entre la Sierra de la Laguna y el Mar de
-                        Cortés. Cerca del Parque Natural de Cabo Pulmo y las cascadas naturales y aguas termales de
-                        Santiago.
+                        Los Barriles alberga una de las playas más hermosas de México, situada entre las cumbres de la
+                        Sierra de la Laguna y el Mar de Cortés. Está cerca del Parque Marino Nacional de Cabo Pulmo, así
+                        como de las aguas termales y cascadas naturales de Santiago.
                     </p>
                 </div>
             </div>

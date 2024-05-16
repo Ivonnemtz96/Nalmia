@@ -33,7 +33,7 @@ if (isset($_REQUEST['submit'])) {
     $recaptcha = json_decode($recaptcha);
   
     if (isset($recaptcha->score)) {
-      if ($recaptcha->score <= 0.7) {
+      if ($recaptcha->score <= 0.5) {
         //BOT DETECTADO
         header('location: /index.php?msj=3');
         exit;
@@ -74,7 +74,7 @@ if (isset($_REQUEST['submit'])) {
                 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
                 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
                 <meta content="#EEEEEE" name="sr bgcolor">
-                <title>Contact Desert Travel Plus</title>
+                <title>Download our Brochure</title>
                 <style type="text/css">
                 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
                     html,
@@ -178,7 +178,7 @@ if (isset($_REQUEST['submit'])) {
                                         exclusive document. <br><br>
 
                                         For any additional questions or to discuss your specific needs, feel free to share with
-                                        us your availability to organize a ZOOM call with one of our dedicated team
+                                        us your availability to organize a call with one of our dedicated team
                                         members. <br><br>
 
                                         We are here to guide you through every step of your journey towards realizing your
